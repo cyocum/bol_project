@@ -1,0 +1,10 @@
+average word length
+average length of "sentence" (average length of words between punctuation)
+number of function words [/FUN]
+copular verb is [/COP]
+number of .i. [/SRC]
+perfect particle [/PP]
+finite verb [/FV]
+verbal noun [/VN]
+punctuation [/PUNC]
+number as .iv. [/NUM]

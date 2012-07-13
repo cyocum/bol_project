@@ -1,0 +1,38 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xsl:stylesheet version="2.0"
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns="http://www.w3.org/1999/xhtml">
+
+<xsl:output omit-xml-declaration="no" />
+
+<xsl:template match="/">
+  <root>
+    <xsl:apply-templates />
+  </root>
+</xsl:template>
+
+<xsl:template match="//div1">
+  <div>
+    <title><xsl:value-of select="child::head" /></title>
+    <xsl:apply-templates />
+  </div>
+</xsl:template>
+
+<xsl:template match="//p">
+  <p>
+  <xsl:apply-templates />
+  </p>
+</xsl:template>
+
+<!--
+<xsl:template match="text()">
+    <xsl:value-of select= "normalize-space(.)"/>
+
+  <xsl:apply-templates />
+</xsl:template>
+-->
+<xsl:template match="//text[@type='poem']//l">
+  <xsl:value-of select="concat(normalize-space(.), '&#xA;')" />
+</xsl:template>
+
+</xsl:stylesheet>
