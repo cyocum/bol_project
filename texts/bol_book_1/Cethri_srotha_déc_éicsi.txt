@@ -1,2 +1,2 @@
-CEthri srotha déc. éicsi ind so sís .i./SRC  
-Fele ⁊/FUNC innruccus.Comgne ⁊/FUNC genelach. Immas ⁊/FUNC dichetal.Anamain ⁊ /FUNC brethugud.Teinm laeda ⁊/FUNC ler forcetail/VN. Idna láme ⁊/FUNC lanamnais.Idna beoil ⁊/FUNC foglomma/VN.
+CEthri srotha déc./PUNC éicsi ind so sís ./PUNCi./PUNC/SRC  
+Fele ⁊/FUNC innruccus./PUNCComgne ⁊/FUNC genelach./PUNC Immas ⁊/FUNC dichetal./PUNCAnamain ⁊ /FUNC brethugud./PUNCTeinm laeda ⁊/FUNC ler forcetail/VN./PUNC Idna láme ⁊/FUNC lanamnais./PUNCIdna beoil ⁊/FUNC foglomma/VN./PUNC
