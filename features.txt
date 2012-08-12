@@ -1,6 +1,6 @@
 average word length
 average length of "sentence" (average length of words between punctuation)
-number of function words [/FUN]
+number of function words [/FUNC]
 copular verb is [/COP]
 number of .i. [/SRC]
 perfect particle [/PP]

@@ -1,8 +1,8 @@
- Dorat do Fiachaig Baccid. l. corn craeslethan ⁊ l. dabach dondíbair. ⁊ l. gabur gormglas co sríanaib ⁊ muncib óir ⁊ argit.
-Dorat dano .x. cairpdiu cethirech. ⁊ coic fidchella ⁊ u. branduib.   ⁊ xxx. scíath co srethaib óir ⁊ argit. & l. claideb fuilchrech faeburgéra  i truallib fichthib findruini. do Thúathul Tigech mac Mane Máil.
- Dorat dano do Dáire Barrach tri coícait sleg semnach co fethanaib  finnargit. ⁊ l. scíath fo chobradaib óir ⁊ argit. & l. claideb  colgnaiti ⁊ u. falgi óir. ⁊ l. lend lordatha. ⁊ uii. mergi mórchatha.
-Tuc dano do Chrimthannán .l. cammán creduma co lliathroitib  credumaib ⁊ .xu. fidchella derscaigthi la fichit brandub     brecboirdnech & maccaemnacht cirt choicid Lagen.
-Dorat im do Niad Corbb mac Loegaire Birn Buadaig do rig  Ossairge. cét mbó breccfind óiderg ⁊ láeg la cech dá boin ⁊ nasc  creduma eter cach dá laeg. Cét scíath mbilech mbrainech .c.   cruisech crandchorcra .c. mánaís lethanglass .c. lend lóchorcra    .c. mílech ordatha .c. n-ech n-illdathach. .c. corn cáemecoir .c. ndabach ndergibair .L. carpat cethirech .l. fidchell fianimberta  .l. brandub. .l. bléide buabaill belfairsiung .l. coire créduma  .l. mergi mórchatha. La commus ⁊ comairle cirt coicid Lagen.
-Dorat dano do Eogan mac Guaire meic Eirc meic Bacáin .i.    do ríg Laigsi cét mbó .c. scíath .c. claideb .c. sleg sithfata .uii. mergge minbratta.
-Mór rath rofír fer Falge Ruis. dober do chach comarbba cirt  coicid Corpri Nia Fer.
-Dlegait sin o cech ríg congeib coiced Lagen o sein ille.,
+Dorat do/FUNC Fiachaig Baccid. l./NUM corn craeslethan ⁊/FUNC l./NUM dabach dondíbair. ⁊ l./NUM gabur gormglas co/FUNC sríanaib ⁊/FUNC muncib óir ⁊/FUNC argit.
+Dorat dano .x. cairpdiu cethirech. ⁊/FUNC coic fidchella ⁊/FUNC u. branduib. ⁊/FUNC xxx./NUM scíath co/FUNC srethaib óir ⁊/FUNC argit. &/FUNC l./NUM claideb fuilchrech faeburgéra i/FUNC truallib fichthib findruini. do/FUNC Thúathul Tigech mac Mane Máil.
+Dorat dano do/FUNC Dáire Barrach tri coícait sleg semnach co/FUNC fethanaib finnargit. ⁊/FUNC l./NUM scíath fo/FUNC chobradaib óir ⁊/FUNC argit. &/FUNC l./NUM claideb colgnaiti ⁊/FUNC u./NUM falgi óir. ⁊/FUNC l./NUM lend lordatha. ⁊/FUNC uii./NUM mergi mórchatha.
+Tuc dano do/FUNC Chrimthannán .l./NUM cammán creduma co/FUNC lliathroitib credumaib ⁊/FUNC .xu./NUM fidchella derscaigthi la/FUNC fichit brandub brecboirdnech &/FUNC maccaemnacht cirt choicid Lagen.
+Dorat im/FUNC do/FUNC Niad Corbb mac Loegaire Birn Buadaig do/FUNC rig Ossairge. cét mbó breccfind óiderg ⁊/FUNC láeg la/FUNC cech dá boin ⁊/FUNC nasc creduma eter/FUNC cach/FUNC dá laeg. Cét scíath mbilech mbrainech .c./NUM cruisech crandchorcra .c./NUM mánaís lethanglass .c./NUM lend lóchorcra .c./NUM mílech ordatha .c./NUM n-ech n-illdathach. .c./NUM corn cáemecoir .c./NUM ndabach ndergibair .L./NUM carpat cethirech .l./NUM fidchell fianimberta .l./NUM brandub. .l./NUM bléide buabaill belfairsiung .l./NUM coire créduma .l./NUM mergi mórchatha. La/FUNC commus ⁊/FUNC comairle cirt coicid Lagen.
+Dorat dano do/FUNC Eogan mac Guaire meic Eirc meic Bacáin .i./SRC do/FUNC ríg Laigsi cét mbó .c./NUM scíath .c./NUM claideb .c./NUM sleg sithfata .uii./NUM mergge minbratta.
+Mór rath rofír fer Falge Ruis. dober do/FUNC chach/FUNC comarbba cirt coicid Corpri Nia Fer.
+Dlegait sin/FUNC o/FUNC cech/FUNC ríg congeib coiced Lagen o/FUNC sein ille.
