@@ -22,7 +22,7 @@ let is_empty_word word =
     false
 
 let remove_tag word =
-  Pcre.replace ~pat:"/\\w{3}" ~templ:"" word
+  Pcre.replace ~pat:"/\\w+" ~templ:"" word
 
 let load_file filename =
   let ufh = new UTF8Line.input_line 
@@ -50,6 +50,8 @@ let calc_num_tag_words words tag =
   List.length (List.filter (fun w -> if Pcre.pmatch ~pat:tag w then true else false) words)
 
 let create_vec filename =
+  let num_fv = calc_num_tag_words words "/FV" in
+  let num_vn = calc_num_tag_words words "/VN" in
   let words = load_file filename in
   {
     avg_word_len = calc_avg_word_len (List.rev_map remove_tag words);
@@ -57,9 +59,9 @@ let create_vec filename =
     num_cop = calc_num_tag_words words "/COP";
     num_src = calc_num_tag_words words "/SRC";
     num_pp = calc_num_tag_words words "/PP";
-    num_fv = calc_num_tag_words words "/FV";
-    num_vn = calc_num_tag_words words "/VN";
-    ratio_fv_vn = (float (calc_num_tag_words words "/FV")) /. (float (calc_num_tag_words words "/VN"));
+    num_fv = num_fv;
+    num_vn = num_vn;
+    ratio_fv_vn = ((float num_fv) /. (float num_vn));
   }
 
 let string_of_vec = function
@@ -87,18 +89,3 @@ let _ =
   let o_fh = open_out "text_matrix.dat" in
     List.iter (fun tup -> output_string o_fh ((string_of_vec tup) ^ "\n") ) tuples;
     close_out o_fh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
