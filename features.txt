@@ -1,5 +1,5 @@
-average word length
-average length of "sentence" (average length of words between punctuation)
+average word length [AWL]
+average length of "sentence" (average length of words between punctuation) [ASL]
 number of function words [/FUNC]
 number of copular verb is [/COP]
 number of .i. [/SRC]
