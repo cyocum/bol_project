@@ -96,8 +96,7 @@ let string_of_vec vec =
   ^ (string_of_int vec.num_fv) ^ " "
   ^ (string_of_int vec.num_vn) ^ " "
   ^ (string_of_int vec.num_punc) ^ " "
-  ^ (string_of_float vec.ratio_fv_vn) ^ " #"
-  ^ vec.fn
+  ^ (string_of_int vec.num_roman_num) ^ " "
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
