@@ -6,7 +6,8 @@ module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
 type vec =
     {
       fn : string;
-      func_seen : (string, int) Hashtbl.t
+      func_seen : (string, int) Hashtbl.t;
+      max_tc : int;
     }
 
 let is_empty_word word =
@@ -41,22 +42,33 @@ let get_func_words words =
 let create_word_feq words =
   let seen = Hashtbl.create (List.length words) in
   List.iter (fun w ->
-    Hashtbl.replace seen w (try Hashtbl.find seen w + 1 with Not_found -> 1)
+    Hashtbl.replace seen w (try (succ (Hashtbl.find seen w)) with Not_found -> 1)
   ) words;
   seen
 
-(*let calc_max_tc words =
+let calc_max_tc words =
+  let rec find_max tuples max =
+    match tuples with
+      | (_, num)::xs ->
+          if num >= max then
+            find_max xs num
+          else
+            find_max xs max
+      | [] -> max
+  in 
   let no_tag_words = List.rev_map (remove_tag) words in
-  let seen = create_word_feq no_tag_words in*)
-  
+  let seen = create_word_feq no_tag_words in
+  let tuples = Hashtbl.fold (fun k v acc -> (k,v)::acc) seen [] in 
+  find_max tuples 0
 
 let create_vec filename =
   let words = load_file filename in
   let func_seen  = create_word_feq (get_func_words words) in
-(*  let max_tc = calc_max_tc words in*)
+  let max_tc = calc_max_tc words in
   {
     fn = filename;
     func_seen = func_seen;
+    max_tc = max_tc;
   }
 
 let string_of_kv k v =
