@@ -6,17 +6,7 @@ module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
 type vec =
     {
       fn : string;
-      avg_word_len : float;
-      avg_sent_len : float;
-      num_func_words : int;
-      num_cop : int;
-      num_src : int;
-      num_pp : int;
-      num_fv : int;
-      num_vn : int;
-      num_punc : int;
-      num_roman_num : int;
-      ratio_fv_vn : float;
+      func_seen : (string, int) Hashtbl.t
     }
 
 let is_empty_word word =
@@ -45,67 +35,56 @@ let load_file filename =
         ufh#close_in ();
         !words
 
-let calc_avg_word_len words =
-  let num_words = List.length words in
-  let num_chars = (List.fold_left (+) 0 (List.rev_map String.length words)) in
-  (float num_chars) /. (float num_words)
+let get_func_words words = 
+  List.rev_map (fun fw -> Pcre.replace ~pat:"/FUNC" ~templ:"" fw) (List.filter (fun w -> if Pcre.pmatch ~pat:"/FUNC" w then true else false) words)
 
-let calc_num_tag_words words tag =
-  List.length (List.filter (fun w -> if Pcre.pmatch ~pat:tag w then true else false) words)
+let create_word_feq words =
+  let seen = Hashtbl.create (List.length words) in
+  List.iter (fun w ->
+    Hashtbl.replace seen w (try Hashtbl.find seen w + 1 with Not_found -> 1)
+  ) words;
+  seen
 
-let cal_avg_sent_len words num_punc =
-  if num_punc = 0 then
-    0.0
-  else
-    let num_words = List.length words in 
-      (float num_words) /. (float num_punc)
-
-let cal_rfv num_fv num_vn =
-  if num_vn = 0 then
-    0.0
-  else
-    ((float num_fv) /. (float num_vn))
+(*let calc_max_tc words =
+  let no_tag_words = List.rev_map (remove_tag) words in
+  let seen = create_word_feq no_tag_words in*)
+  
 
 let create_vec filename =
   let words = load_file filename in
-  let num_fv = calc_num_tag_words words "/FV" in
-  let num_vn = calc_num_tag_words words "/VN" in
-  let num_punc = calc_num_tag_words words "/PUNC" in
+  let func_seen  = create_word_feq (get_func_words words) in
+(*  let max_tc = calc_max_tc words in*)
   {
     fn = filename;
-    avg_word_len = calc_avg_word_len (List.rev_map remove_tag words);
-    avg_sent_len = cal_avg_sent_len words num_punc;
-    num_func_words = calc_num_tag_words words "/FUN";
-    num_cop = calc_num_tag_words words "/COP";
-    num_src = calc_num_tag_words words "/SRC";
-    num_pp = calc_num_tag_words words "/PP";
-    num_fv = num_fv;
-    num_vn = num_vn;
-    num_punc = num_punc;
-    num_roman_num = calc_num_tag_words words "/NUM";
-    ratio_fv_vn = cal_rfv num_fv num_vn;
+    func_seen = func_seen;
   }
 
-let string_of_vec vec = 
-  (string_of_float vec.avg_word_len) ^ " " 
-  ^ (string_of_float vec.avg_sent_len) ^ " " 
-  ^ (string_of_int vec.num_func_words) ^ " "
-  ^ (string_of_int vec.num_cop) ^ " "
-  ^ (string_of_int vec.num_src) ^ " "
-  ^ (string_of_int vec.num_pp) ^ " "
-  ^ (string_of_int vec.num_fv) ^ " "
-  ^ (string_of_int vec.num_vn) ^ " "
-  ^ (string_of_int vec.num_punc) ^ " "
-  ^ (string_of_int vec.num_roman_num) ^ " "
-  ^ (string_of_float vec.ratio_fv_vn)
+let string_of_kv k v =
+  let str_v = (string_of_int v) in
+  (k ^ " " ^ str_v)
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
   let vecs = List.rev_map create_vec files in
-  let o_fh = open_out "text_matrix.dat" in
+  let vec = (List.nth vecs 0) in
+  print_endline vec.fn;
+  Hashtbl.iter (fun k v -> (print_endline (string_of_kv k v))) vec.func_seen
+(*  let o_fh = open_out "text_matrix.dat" in
   let row_fh = open_out "rows.dat" in
-    List.iter (fun vec -> 
-      output_string o_fh ((string_of_vec vec) ^ "\n");
-      output_string row_fh (vec.fn ^ "\n")
-    ) vecs;
-    close_out o_fh
+*)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
