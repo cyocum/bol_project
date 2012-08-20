@@ -61,6 +61,14 @@ let calc_max_tc words =
   let tuples = Hashtbl.fold (fun k v acc -> (k,v)::acc) seen [] in 
   find_max tuples 0
 
+let rec create_func_word_lst vecs accum =
+  match vecs with
+    | x::xs ->
+        let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
+        let filtered = List.filter (fun w -> if List.mem w accum then true else false) words in 
+        create_func_word_lst xs (List.append filtered accum)
+    | [] -> accum
+
 let create_vec filename =
   let words = load_file filename in
   let func_seen  = create_word_feq (get_func_words words) in
