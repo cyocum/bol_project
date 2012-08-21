@@ -19,25 +19,21 @@ type doc =
     }
 
 
-let rec list_findi (p : 'a -> int) lst =
+let rec list_findi (p : 'a -> bool) lst =
   let rec aux lst pos =
     match lst with
       | x::xs -> 
-          prerr_string (x ^ " ");
-          if (p x) = 0 then 
+          if (p x) then 
             pos
           else
             aux xs (succ pos)
-      | [] -> prerr_string "WTF 1\n";
-          raise Not_found
+      | [] -> raise Not_found
   in 
   aux lst 0
 
 let str_compare a b =
-  if (Camomile.UTF8.compare a b) = 0 then
-    true
-  else
-    false
+  let regex = Pcre.regexp ~flags:[`CASELESS; `UTF8] a in
+  Pcre.pmatch ~rex:regex b
 
 let is_empty_word word =
   if word = "" then
@@ -94,8 +90,6 @@ let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
         let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
-        List.iter (fun w -> print_endline w) words;
-        if words = [] then begin prerr_string (x.fn ^ "\n"); prerr_string "WTF 2\n" end;
         let filtered = List.filter (fun w -> if List.exists (str_compare w) accum then false else true) words in 
         create_func_word_lst xs (List.append filtered accum)
     | [] -> accum
@@ -115,10 +109,9 @@ let calc_tf doc func_word_lst =
   let calc_term = function
     | (k, v) ->
         begin
-          print_endline doc.fn;
           { term = k; 
             tf = (float v) /. (float doc.max_tc); 
-            pos = list_findi (Camomile.UTF8.compare k) func_word_lst;
+            pos = list_findi (str_compare k) func_word_lst;
           }
         end
   in 
@@ -133,11 +126,23 @@ let _ =
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
-  let docs_terms = List.rev_map (fun doc -> calc_tf doc func_word_lst) docs in
-  let out_fh = open_out "text_matrix.dat" in
+  List.iter print_endline func_word_lst
+
+(*  let out_fh = open_out "text_matrix.dat" in
+
   List.iter (fun doc -> 
     List.iter (fun term ->
       output_string out_fh ((string_of_term term) ^ " ")
     ) doc.terms;
     output_string out_fh "\n"
-  ) docs_terms
+  ) docs_terms;
+  close_out out_fh*)
+
+
+
+
+
+
+
+
+
