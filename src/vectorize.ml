@@ -3,12 +3,33 @@ open Camomile
 
 module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
 
-type vec =
+type term =
+    {
+      term : Camomile.UTF8.t;
+      tf : float;
+      pos : int;
+    }
+
+type doc =
     {
       fn : string;
-      func_seen : (string, int) Hashtbl.t;
+      func_seen : (Camomile.UTF8.t, int) Hashtbl.t;
       max_tc : int;
+      terms : term list;
     }
+
+
+let rec list_findi (p : 'a -> int) lst =
+  let rec aux lst pos =
+    match lst with
+      | x::xs -> 
+          if (p x) = 0 then 
+            pos
+          else
+            aux xs (succ pos)
+      | [] -> raise Not_found
+  in 
+  aux lst 0
 
 let is_empty_word word =
   if word = "" then
@@ -67,9 +88,9 @@ let rec create_func_word_lst vecs accum =
         let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
         let filtered = List.filter (fun w -> if List.mem w accum then true else false) words in 
         create_func_word_lst xs (List.append filtered accum)
-    | [] -> accum
+    | [] -> List.sort Camomile.UTF8.compare accum
 
-let create_vec filename =
+let create_doc filename =
   let words = load_file filename in
   let func_seen  = create_word_feq (get_func_words words) in
   let max_tc = calc_max_tc words in
@@ -77,18 +98,27 @@ let create_vec filename =
     fn = filename;
     func_seen = func_seen;
     max_tc = max_tc;
+    terms = []
   }
 
-let string_of_kv k v =
-  let str_v = (string_of_int v) in
-  (k ^ " " ^ str_v)
+let calc_tf doc func_word_lst =
+  let calc_term = function
+    | (k, v) ->
+    { term = k; 
+      tf = (float v) /. (float doc.max_tc); 
+      pos = list_findi (Camomile.UTF8.compare k) func_word_lst;
+    }
+  in 
+  let tuples = Hashtbl.fold (fun k v accum -> (k, v)::accum) doc.func_seen [] in
+  let terms = List.rev_map calc_term tuples in
+  { doc with terms = terms }
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
-  let vecs = List.rev_map create_vec files in
-  let vec = (List.nth vecs 0) in
-  print_endline vec.fn;
-  Hashtbl.iter (fun k v -> (print_endline (string_of_kv k v))) vec.func_seen
+  let docs = List.rev_map create_doc files in
+  let func_word_lst = create_func_word_lst docs [] in
+  let doc_terms = List.rev_map (fun doc -> calc_tf doc func_word_lst) docs in
+  ()
 (*  let o_fh = open_out "text_matrix.dat" in
   let row_fh = open_out "rows.dat" in
 *)
