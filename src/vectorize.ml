@@ -23,11 +23,13 @@ let rec list_findi (p : 'a -> int) lst =
   let rec aux lst pos =
     match lst with
       | x::xs -> 
+          prerr_string (x ^ " ");
           if (p x) = 0 then 
             pos
           else
             aux xs (succ pos)
-      | [] -> raise Not_found
+      | [] ->
+          raise Not_found
   in 
   aux lst 0
 
@@ -86,6 +88,7 @@ let rec create_func_word_lst vecs accum =
   match vecs with
     | x::xs ->
         let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
+        if words = [] then begin prerr_string (x.fn ^ "\n"); prerr_string "WTF\n" end;
         let filtered = List.filter (fun w -> if List.mem w accum then true else false) words in 
         create_func_word_lst xs (List.append filtered accum)
     | [] -> List.sort Camomile.UTF8.compare accum
@@ -113,28 +116,18 @@ let calc_tf doc func_word_lst =
   let terms = List.rev_map calc_term tuples in
   { doc with terms = terms }
 
+let string_of_term term = 
+  (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
+
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
-  let doc_terms = List.rev_map (fun doc -> calc_tf doc func_word_lst) docs in
-  ()
-(*  let o_fh = open_out "text_matrix.dat" in
-  let row_fh = open_out "rows.dat" in
-*)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  let docs_terms = List.rev_map (fun doc -> calc_tf doc func_word_lst) docs in
+  let out_fh = open_out "text_matrix.dat" in
+  List.iter (fun doc -> 
+    List.iter (fun term ->
+      output_string out_fh ((string_of_term term) ^ " ")
+    ) doc.terms;
+    output_string out_fh "\n"
+  ) docs_terms
