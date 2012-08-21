@@ -28,10 +28,16 @@ let rec list_findi (p : 'a -> int) lst =
             pos
           else
             aux xs (succ pos)
-      | [] ->
+      | [] -> prerr_string "WTF 1\n";
           raise Not_found
   in 
   aux lst 0
+
+let str_compare a b =
+  if (Camomile.UTF8.compare a b) = 0 then
+    true
+  else
+    false
 
 let is_empty_word word =
   if word = "" then
@@ -84,14 +90,15 @@ let calc_max_tc words =
   let tuples = Hashtbl.fold (fun k v acc -> (k,v)::acc) seen [] in 
   find_max tuples 0
 
-let rec create_func_word_lst vecs accum =
-  match vecs with
+let rec create_func_word_lst docs accum =
+  match docs with
     | x::xs ->
         let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
-        if words = [] then begin prerr_string (x.fn ^ "\n"); prerr_string "WTF\n" end;
-        let filtered = List.filter (fun w -> if List.mem w accum then true else false) words in 
+        List.iter (fun w -> print_endline w) words;
+        if words = [] then begin prerr_string (x.fn ^ "\n"); prerr_string "WTF 2\n" end;
+        let filtered = List.filter (fun w -> if List.exists (str_compare w) accum then false else true) words in 
         create_func_word_lst xs (List.append filtered accum)
-    | [] -> List.sort Camomile.UTF8.compare accum
+    | [] -> accum
 
 let create_doc filename =
   let words = load_file filename in
@@ -107,10 +114,13 @@ let create_doc filename =
 let calc_tf doc func_word_lst =
   let calc_term = function
     | (k, v) ->
-    { term = k; 
-      tf = (float v) /. (float doc.max_tc); 
-      pos = list_findi (Camomile.UTF8.compare k) func_word_lst;
-    }
+        begin
+          print_endline doc.fn;
+          { term = k; 
+            tf = (float v) /. (float doc.max_tc); 
+            pos = list_findi (Camomile.UTF8.compare k) func_word_lst;
+          }
+        end
   in 
   let tuples = Hashtbl.fold (fun k v accum -> (k, v)::accum) doc.func_seen [] in
   let terms = List.rev_map calc_term tuples in
