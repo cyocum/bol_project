@@ -119,7 +119,7 @@ let calc_tf func_word_lst doc  =
   { doc with terms = terms }
 
 let string_of_term term = 
-  term.term ^ " " ^ (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
+  (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
@@ -128,12 +128,15 @@ let _ =
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let output_mat_fh = open_out "text.mat" in
   let output_mat_rows = open_out "rows.mat" in
-  List.iter 
+  let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
+  output_string output_mat_fh ((string_of_int (List.length docs_terms) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
+  List.iter     
     (fun doc ->
       output_string output_mat_rows (doc.fn ^ "\n");
       List.iter (fun term ->
-        output_string output_mat_fh ((string_of_term term) ^ "\n")
-      ) doc.terms
+        output_string output_mat_fh ((string_of_term term) ^ " ")
+      ) doc.terms;
+      output_string output_mat_fh "\n"
     ) docs_terms;
   close_out output_mat_fh;
   close_out output_mat_rows
