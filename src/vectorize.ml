@@ -2,6 +2,18 @@ open CamomileLibraryDefault
 open Camomile
 
 module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
+module CaseMap = Camomile.CaseMap.Make(Camomile.UTF8)
+module UTF8Hash = Hashtbl.Make(
+  struct
+    type t = Camomile.UTF8.t
+    let equal a b =
+      if (Camomile.UTF8.compare a b) = 0 then
+        true
+      else
+        false
+    let hash = Hashtbl.hash
+  end
+)
 
 type term =
     {
@@ -13,27 +25,10 @@ type term =
 type doc =
     {
       fn : string;
-      func_seen : (Camomile.UTF8.t, int) Hashtbl.t;
+      func_seen : int UTF8Hash.t;
       max_tc : int;
       terms : term list;
     }
-
-
-let rec list_findi (p : 'a -> bool) lst =
-  let rec aux lst pos =
-    match lst with
-      | x::xs -> 
-          if (p x) then 
-            pos
-          else
-            aux xs (succ pos)
-      | [] -> raise Not_found
-  in 
-  aux lst 0
-
-let str_compare a b =
-  let regex = Pcre.regexp ~flags:[`CASELESS; `UTF8] a in
-  Pcre.pmatch ~rex:regex b
 
 let is_empty_word word =
   if word = "" then
@@ -64,10 +59,10 @@ let load_file filename =
 let get_func_words words = 
   List.rev_map (fun fw -> Pcre.replace ~pat:"/FUNC" ~templ:"" fw) (List.filter (fun w -> if Pcre.pmatch ~pat:"/FUNC" w then true else false) words)
 
-let create_word_feq words =
-  let seen = Hashtbl.create (List.length words) in
+let create_word_count words =
+  let seen = UTF8Hash.create (List.length words) in
   List.iter (fun w ->
-    Hashtbl.replace seen w (try (succ (Hashtbl.find seen w)) with Not_found -> 1)
+    UTF8Hash.replace seen w (try (succ (UTF8Hash.find seen w)) with Not_found -> 1)
   ) words;
   seen
 
@@ -82,21 +77,21 @@ let calc_max_tc words =
       | [] -> max
   in 
   let no_tag_words = List.rev_map (remove_tag) words in
-  let seen = create_word_feq no_tag_words in
-  let tuples = Hashtbl.fold (fun k v acc -> (k,v)::acc) seen [] in 
+  let seen = create_word_count no_tag_words in
+  let tuples = UTF8Hash.fold (fun k v acc -> (k,v)::acc) seen [] in 
   find_max tuples 0
 
 let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
-        let words = Hashtbl.fold (fun k v acc -> k::acc) x.func_seen [] in
-        let filtered = List.filter (fun w -> if List.exists (str_compare w) accum then false else true) words in 
+        let words = UTF8Hash.fold (fun k v acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
+        let filtered = List.filter (fun w -> if List.exists (Util.str_compare w) accum then false else true) words in 
         create_func_word_lst xs (List.append filtered accum)
     | [] -> accum
 
 let create_doc filename =
   let words = load_file filename in
-  let func_seen  = create_word_feq (get_func_words words) in
+  let func_seen  = create_word_count (get_func_words words) in
   let max_tc = calc_max_tc words in
   {
     fn = filename;
@@ -105,38 +100,36 @@ let create_doc filename =
     terms = []
   }
 
-let calc_tf doc func_word_lst =
+let calc_tf func_word_lst doc  =
   let calc_term = function
     | (k, v) ->
         begin
           { term = k; 
             tf = (float v) /. (float doc.max_tc); 
-            pos = list_findi (str_compare k) func_word_lst;
+            (* the position in the matrix that is out put starts at 1 *not* 0 *)
+            pos = try
+                    (succ (Util.list_findi (Camomile.UTF8.compare (CaseMap.lowercase k)) func_word_lst))
+              with
+                | Not_found -> print_endline ("could not find " ^ k); 0
           }
         end
   in 
-  let tuples = Hashtbl.fold (fun k v accum -> (k, v)::accum) doc.func_seen [] in
+  let tuples = UTF8Hash.fold (fun k v accum -> (k, v)::accum) doc.func_seen [] in
   let terms = List.rev_map calc_term tuples in
   { doc with terms = terms }
 
 let string_of_term term = 
-  (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
+  term.term ^ " " ^ (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
-  List.iter print_endline func_word_lst
+  let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
+  print_endline (string_of_int (List.length docs));
+  print_endline (string_of_int (List.length docs_terms));
+  List.iter (fun w -> print_endline w) func_word_lst
 
-(*  let out_fh = open_out "text_matrix.dat" in
-
-  List.iter (fun doc -> 
-    List.iter (fun term ->
-      output_string out_fh ((string_of_term term) ^ " ")
-    ) doc.terms;
-    output_string out_fh "\n"
-  ) docs_terms;
-  close_out out_fh*)
 
 
 

@@ -1,8 +1,13 @@
-let rec list_findi (p : 'a -> bool) lst =
+open CamomileLibraryDefault
+open Camomile
+
+module CaseMap = Camomile.CaseMap.Make(Camomile.UTF8)
+
+let rec list_findi (p : 'a -> int) lst =
   let rec aux lst pos =
     match lst with
       | x::xs -> 
-          if (p x) then 
+          if (p x) = 0 then 
             pos
           else
             aux xs (succ pos)
@@ -11,5 +16,7 @@ let rec list_findi (p : 'a -> bool) lst =
   aux lst 0
 
 let str_compare a b =
-  let regex = Pcre.regexp ~flags:[`CASELESS; `UTF8] a in
-  Pcre.pmatch ~rex:regex b
+  if (Camomile.UTF8.compare a b) = 0 then
+    true
+  else
+    false
