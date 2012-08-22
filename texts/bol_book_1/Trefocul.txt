@@ -55,7 +55,7 @@ A/FUNC deichned
 La/FUNC mac fir neit fadb corcra teit/FV daig de/FUNC nim ni tercda forruim denn./PUNC co/FUNC cruind ochtga gnath cend i/FUNC crub Con Echtga./PUNC Cellach cemind inmain fer forraind febra eis mac ríg rigi tuir latha duib/FUNC as/FUNC diliu dam/FUNC dar/FUNC 
 A/FUNC demi thepidi
 Is/COP hé/FUNC daig derg dige dath fris/FUNC na/FUNC gaibther/FV cath na/FUNC cith iss/COP ed/FUNC cend is chainem cruth fil fotrith fon/FUNC bith/FV
-A/FUNC lanamna demi ./PUNCi./PUNC/FUNC ferindsci ł/FUNC baninsci do/FUNC thabairt/VN isin/FUNC demiinsci iss/COP e/FUNC suil a/FUNC ssuil ./PUNC
+A/FUNC lanamna demi .i./SRC ferindsci ł/FUNC baninsci do/FUNC thabairt/VN isin/FUNC demiinsci iss/COP e/FUNC suil a/FUNC ssuil./PUNC
 Is/COP hé/FUNC a/FUNC bra/FUNC is a/FUNC ru/PP fúair/FV lass fil gruad gland amal gréin sein/FUNC sith fri/FUNC silbad rig co/FUNC reing rig./PUNC 
 A/FUNC genis de/FUNC./PUNC 
 Is/COP he/FUNC mac milis ne tar/FUNC cach/FUNC triath is/COP sí/FUNC ímcain imchess caich fri/FUNC fath a/FUNC finchruib ar/FUNC fuach 

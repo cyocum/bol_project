@@ -126,9 +126,17 @@ let _ =
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
-  print_endline (string_of_int (List.length docs));
-  print_endline (string_of_int (List.length docs_terms));
-  List.iter (fun w -> print_endline w) func_word_lst
+  let output_mat_fh = open_out "text.mat" in
+  let output_mat_rows = open_out "rows.mat" in
+  List.iter 
+    (fun doc ->
+      output_string output_mat_rows (doc.fn ^ "\n");
+      List.iter (fun term ->
+        output_string output_mat_fh ((string_of_term term) ^ "\n")
+      ) doc.terms
+    ) docs_terms;
+  close_out output_mat_fh;
+  close_out output_mat_rows
 
 
 
