@@ -20,6 +20,7 @@ type term =
       term : Camomile.UTF8.t;
       tf : float;
       pos : int;
+      idf : float;
     }
 
 type doc =
@@ -89,9 +90,9 @@ let rec create_func_word_lst docs accum =
         create_func_word_lst xs (List.append filtered accum)
     | [] -> accum
 
-let cal_idf term docs =
+let calc_idf term docs =
   let find_seen_terms doc =
-    if UTF8Hash.mem doc.func_seen term then
+    if UTF8Hash.mem doc.func_seen term.term then
       1
     else
       0
@@ -99,7 +100,7 @@ let cal_idf term docs =
   let num_docs_seen = List.fold_left (+) 0 (List.rev_map find_seen_terms docs) in 
   let num_docs = List.length docs in
   let quotient = (float (abs num_docs)) /. (float (succ (abs num_docs_seen))) in 
-  log quotient
+  { term with idf = (log quotient) }
 
 let create_doc filename =
   let words = load_file filename in
@@ -119,10 +120,8 @@ let calc_tf func_word_lst doc  =
           { term = k; 
             tf = (float v) /. (float doc.max_tc); 
             (* the position in the matrix that is out put starts at 1 *not* 0 *)
-            pos = try
-                    (succ (Util.list_findi (Camomile.UTF8.compare (CaseMap.lowercase k)) func_word_lst))
-              with
-                | Not_found -> print_endline ("could not find " ^ k); 0
+            pos =  (succ (Util.list_findi (Camomile.UTF8.compare (CaseMap.lowercase k)) func_word_lst));
+            idf = 0.0;
           }
         end
   in 
@@ -131,7 +130,7 @@ let calc_tf func_word_lst doc  =
   { doc with terms = terms }
 
 let string_of_term term = 
-  (string_of_int term.pos) ^ " " ^ (string_of_float term.tf) 
+  (string_of_int term.pos) ^ " " ^ (string_of_float (term.tf *. term.idf)) 
 
 let _ = 
   let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
@@ -146,7 +145,7 @@ let _ =
     (fun doc ->
       output_string output_mat_rows (doc.fn ^ "\n");
       List.iter (fun term ->
-        output_string output_mat_fh ((string_of_term term) ^ " ")
+        output_string output_mat_fh ((string_of_term (calc_idf term docs_terms)) ^ " ")
       ) doc.terms;
       output_string output_mat_fh "\n"
     ) docs_terms;
