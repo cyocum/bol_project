@@ -89,6 +89,18 @@ let rec create_func_word_lst docs accum =
         create_func_word_lst xs (List.append filtered accum)
     | [] -> accum
 
+let cal_idf term docs =
+  let find_seen_terms doc =
+    if UTF8Hash.mem doc.func_seen term then
+      1
+    else
+      0
+  in 
+  let num_docs_seen = List.fold_left (+) 0 (List.rev_map find_seen_terms docs) in 
+  let num_docs = List.length docs in
+  let quotient = (float (abs num_docs)) /. (float (succ (abs num_docs_seen))) in 
+  log quotient
+
 let create_doc filename =
   let words = load_file filename in
   let func_seen  = create_word_count (get_func_words words) in
