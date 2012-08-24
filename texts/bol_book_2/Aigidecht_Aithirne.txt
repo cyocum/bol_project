@@ -1,20 +1,20 @@
-Dodechaid tra Athirne fecht and for turus isin fogomur do thaig a daltai Amorgene co mbaí adaig and. ⁊ coro fobbair imthecht   arnabarach. Conid and atbert Amorgen ac fostud Athirni.
-Raithe fo foss fogomur feidm and for cach oenduine la tóeb na llá langarit. Loíg brecca a broind osseilti ditnit ruadgaiss raithnigi. Rethit daim a dumachaib ri dorddan na damgaire. Derccain duba a ssithchailtib. Slatta etha amm ithgortaib 
-os íath domuin duind. Draigin drissi delgnacha fri toeb in lair leithlessi. lan do mess trumtairnith. Tuittit cnoi cuill cainmessa do robilib rath. R. 
-Ro thriall dano imthecht isin gemrud. conid and atbert Amorgen.
-Dubaib rathib rogemred. robarta tond tuargabar. iar toíb bethad blai. bronaig eoin cach iathmaige. acht fiaich fola forderge fri fuaim gemrid gairg. garb dub dorcha dethaite. Diumsaig coin cnamchommaig curtir ar aed iarnlestar iar lo dorcha dub. D. 
-Ro triall dano imthecht isind erruch. Conid and atbert Amorgen.
-Glass úar errach aigide. Is uacht in gaeth gignither. glaidsait lachain lindusci. luin ic ecnacht corr cruadeigmi. Cluinit cúana a dithrubaib. fri eirge moch matarnaid. dúscit eonu indferaid. mór fiad resa firtheichet a fid a féor glas. G. 
-Ro triall dano imthecht issin tsamrud conid and atbert Amorgen ica chetugud dó.
-Fó sín samrad sithistar sadal fid forard forglide. Nach fet gaithe gluaseba. glas clum caille clithaige sóit srotha saebusci tess hi fota fon. F. 
-Ro cetaiged dó iarum imthecht issin tsamrud. O rasiacht  iarum oc Athirne imthecht. is and ra thothlaihsetar a daltai .i.
- Amargin coro thothlaigedsaide co Athirne ní dia éicsi do thadbsin dóib. Is ed tothlugud dorone Amairgin .i. tarb do thabairt is tech dia marbad do Athirne. conid and atbert Athirne oc tairmesc marbtha in tairb. 
-In tarban treballach bailcerblach adircech mer mothlach munelach. Oinmit na immirgi athair na n-innile tairrechtaid cecha tana in tarb. T. 
-Doberar gamain is tech dia marbad dar eis in tairb. conid and atbert Athirme.
-Berach oach aircheltach and elit im beim buridach samrad sirfes i cein dersaid bec beodartaid. mani tugedar d'ilbiadaib nocho didnad dam. nia bron dían degduine dligesum dia berbud manip biada ber. B. 
-Diarberar iar sin caire is tech dia marbad. Conid and atbert Athirne.
-Cetnait chromm lomm lesc lintach liuntach lenamnach. ni ecmainger cen andre ét. esbadach aith iarna dith imma tlacht. toeb toll tana tuidmide tadbanar for sliastaib sním. sainemla beo bas. buaid di a llacht a llóe. uar aigide i ngabras airrbe roilbe ruad rofes ona filedaib cobarthach caich cet. C. 
- Doberar muc is tech iar tain co n-erbailt Athirne iar tain ic erail a mmarbtha.
-Mo chen mata moaigther do nach moaigther miad. airrechtach cecha debtha dure. ni ar dánaib dothiastar acht dia letharthaib lai. lassamuin biad boligthe riana laile bal don matai is mo chen. M. 
-Ataigther tene trom trichemruad dó iar sin. Conid and atbert  Athirne. ‖
-Tene trom trichemrúad tairges uacht n-oinfir erge lond. lassair lainderda. iar li grene glan fri silliud súla. suillse in cach taig tairges tene. T. 
+Dodechaid tra Athirne fecht and/FUNC for/FUNC turus isin/FUNC fogomur do/FUNC thaig a/FUNC daltai Amorgene co/FUNC mbaí adaig and/FUNC. ⁊/FUNC coro/FUNC fobbair imthecht arnabarach. Conid and/FUNC atbert Amorgen ac/FUNC fostud Athirni.
+Raithe fo/FUNC foss fogomur feidm and/FUNC for/FUNC cach/FUNC oenduine la/FUNC tóeb na/FUNC llá langarit. Loíg brecca a/FUNC broind osseilti ditnit ruadgaiss raithnigi. Rethit daim a/FUNC dumachaib ri dorddan na/FUNC damgaire. Derccain duba a/FUNC ssithchailtib. Slatta etha amm ithgortaib 
+os/FUNC íath domuin duind. Draigin drissi delgnacha fri/FUNC toeb in/FUNC lair leithlessi. lan do/FUNC mess trumtairnith. Tuittit cnoi cuill cainmessa do/FUNC robilib rath. R. 
+Ro thriall dano imthecht isin/FUNC gemrud. conid and/FUNC atbert Amorgen.
+Dubaib rathib rogemred. robarta tond tuargabar. iar/FUNC toíb bethad blai. bronaig eoin cach/FUNC iathmaige. acht/FUNC fiaich fola forderge fri/FUNC fuaim gemrid gairg. garb dub dorcha dethaite. Diumsaig coin cnamchommaig curtir ar/FUNC aed iarnlestar iar/FUNC lo dorcha dub. D. 
+Ro triall dano imthecht isind/FUNC erruch. Conid and/FUNC atbert Amorgen.
+Glass úar errach aigide. Is uacht in/FUNC gaeth gignither. glaidsait lachain lindusci. luin ic/FUNC ecnacht corr cruadeigmi. Cluinit cúana a/FUNC dithrubaib. fri/FUNC eirge moch matarnaid. dúscit eonu indferaid. mór fiad resa firtheichet a/FUNC fid a/FUNC féor glas. G. 
+Ro triall dano imthecht issin/FUNC tsamrud conid and/FUNC atbert Amorgen ica/FUNC chetugud dó/FUNC.
+Fó/FUNC sín/FUNC samrad sithistar sadal fid forard forglide. Nach fet gaithe gluaseba. glas clum caille clithaige sóit srotha saebusci tess hi/FUNC fota fon. F. 
+Ro cetaiged dó/FUNC iarum imthecht issin/FUNC tsamrud. O/FUNC rasiacht iarum oc/FUNC Athirne imthecht. is and/FUNC ra thothlaihsetar a/FUNC daltai .i.
+Amargin coro/FUNC thothlaigedsaide co/FUNC Athirne ní dia/FUNC éicsi do/FUNC thadbsin dóib. Is ed/FUNC tothlugud dorone Amairgin .i. tarb do/FUNC thabairt is tech dia/FUNC marbad do/FUNC Athirne. conid and/FUNC atbert Athirne oc/FUNC tairmesc marbtha in/FUNC tairb. 
+In/FUNC tarban treballach bailcerblach adircech mer mothlach munelach. Oinmit na/FUNC immirgi athair na/FUNC n-innile tairrechtaid cecha/FUNC tana in/FUNC tarb. T. 
+Doberar gamain is tech dia/FUNC marbad dar/FUNC eis in/FUNC tairb. conid and atbert Athirme.
+Berach oach aircheltach and/FUNC elit im/FUNC beim buridach samrad sirfes i/FUNC cein dersaid bec beodartaid. mani tugedar d'ilbiadaib nocho didnad dam/FUNC. nia bron dían degduine dligesum dia/FUNC berbud manip biada ber. B. 
+Diarberar iar/FUNC sin/FUNC caire is tech dia/FUNC marbad. Conid and/FUNC atbert Athirne.
+Cetnait chromm lomm/FUNC lesc lintach liuntach lenamnach. ni ecmainger cen/FUNC andre ét. esbadach aith iarna/FUNC dith imma/FUNC tlacht. toeb toll tana tuidmide tadbanar for/FUNC sliastaib sním. sainemla beo bas. buaid di/FUNC a/FUNC llacht a/FUNC llóe. uar aigide i/FUNC ngabras airrbe roilbe ruad rofes ona/FUNC filedaib cobarthach caich cet. C. 
+Doberar muc is tech iar/FUNC tain co/FUNC n-erbailt Athirne iar/FUNC tain ic/FUNC erail a/FUNC mmarbtha.
+Mo/FUNC chen mata moaigther do/FUNC nach moaigther miad. airrechtach cecha/FUNC debtha dure. ni ar/FUNC dánaib dothiastar acht/FUNC dia/FUNC letharthaib lai. lassamuin biad boligthe riana laile bal don/FUNC matai is mo/FUNC chen. M. 
+Ataigther tene trom trichemruad dó/FUNC iar/FUNC sin/FUNC. Conid and/FUNC atbert  Athirne.
+Tene trom trichemrúad tairges uacht n-oinfir erge lond. lassair lainderda. iar/FUNC li grene glan fri/FUNC silliud súla. suillse in/FUNC cach/FUNC taig tairges tene. T. 
