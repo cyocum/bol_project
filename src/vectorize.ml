@@ -132,8 +132,22 @@ let calc_tf func_word_lst doc  =
 let string_of_term term = 
   (string_of_int term.pos) ^ " " ^ (string_of_float (term.tf *. term.idf)) 
 
+let list_of_dirs =
+[
+  "../texts/bol_book_1/";
+  "../texts/bol_book_2/"
+]
+
+let create_full_path_files dir =
+  let files = Array.to_list (Sys.readdir dir) in
+  List.rev_map (fun f -> (dir ^ f)) files
+
+let get_files () =
+  let filenames = List.rev_map create_full_path_files list_of_dirs in 
+  (List.flatten filenames)
+
 let _ = 
-  let files = List.rev_map (fun f -> "../texts/bol_book_1/" ^ f) (Array.to_list (Sys.readdir "../texts/bol_book_1/")) in
+  let files = get_files () in
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
@@ -151,13 +165,3 @@ let _ =
     ) docs_terms;
   close_out output_mat_fh;
   close_out output_mat_rows
-
-
-
-
-
-
-
-
-
-
