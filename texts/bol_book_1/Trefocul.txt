@@ -17,7 +17,7 @@ Tanic/FV sund/FUNC de/FUNC muntir Dé cleirchén gelbán caín a/FUNC lí./PUNC 
 Can écomfúaim./PUNC
 Is/COP hé/FUNC rí Senchae same gelcloe gaile iar/FUNC crud chuile do/FUNC feolairecht ngona for/FUNC Eoganacht Fer Maige./PUNC 
 Can anocht ./PUNCi./PUNC a/FUNC ndá nocht iarna/FUNC ndiriuch don/FUNC dligud./PUNC Fogonar/FV airchetul/VN i/FUNC n-anocht n-ellagar/FV is coitchendsium uile/FUNC son./PUNC Co/FUNC ndath./PUNC ⁊/FUNC tothucht./PUNC Tlachtga na/FUNC n-uath dub a/FUNC n-aerthar brecc i/FUNC fochanar/FV./PUNC find i/FUNC mmoltar/FV./PUNC
-Ciaptis ganna fir betha./PUNC óthá Liphe co/FUNC lLetha nos firfed/FV ol níptis ol dige di/FUNC dernaind Domnaill./PUNC Mael Ruanaid ruad imma rind arching/FV dorair ndualaig is caill./PUNC tón bo can buaraig for/FUNC aill./PUNC srón cherr Mael Ruanaid./PUNC meic Flaind./PUNC 
+Ciaptis ganna fir betha./PUNC óthá Liphe co/FUNC lLetha nos firfed/FV ol níptis ol dige di/FUNC dernaind Domnaill./PUNC Mael Ruanaid ruad imma/FUNC rind arching/FV dorair ndualaig is caill./PUNC tón bo can buaraig for/FUNC aill./PUNC srón cherr Mael Ruanaid./PUNC meic Flaind./PUNC 
 Brecc i/FUNC fochanar/FV./PUNC  Fíngin mac Flaind Daronusa dóib/FUNC drong bind bairdne brethir gleisi gniim can tlási./PUNC nís tartsatsum/FV duas dar/FUNC esi./PUNC Nís len/FV ecnach ond aes chetlach cruth ron/PP cuala/FV ar/FUNC ar/FUNC ndála acht/FUNC na/FUNC tucsatsum/FV dúas for/FUNC duana./PUNC 
 Tothocht dano ./PUNCi./PUNC amal beit/FV a/FUNC bésa corop/FV amlaid moltair ./PUNCi./PUNC molad/VN laich do/FUNC laech ⁊/FUNC molad/VN clerich do/FUNC chleriuch./PUNC
 A/FUNC chotut Fer Muman Goth gruce golfad bréice./PUNC baeth críche./PUNC crich co/FUNC ndorthor./PUNC íar/FUNC mbeith/VN siu saeb a/FUNC thigthol taistel Milchon meic Onchon./PUNC 
@@ -33,7 +33,7 @@ A/FUNC lugugud/VN./PUNC Fland mac Lonain./PUNC Mo/FUNC charasa Cnámine caras/FV
 A/FUNC oen./PUNC Clothna mac Oengusa  Imchomarc roruad rogda./PUNC d'fir imdích/FV sosluag Sadba./PUNC a/FUNC iath na/FUNC trenfer tigba úaim/FUNC do/FUNC threnfer glegel Gabla./PUNC 
 A/FUNC doerugud./PUNC Mac Legind fri/FUNC gilla rig Resad Ar/FUNC corrucan cumraide./PUNC ollurgbail/VN ar/FUNC nglanbaile./PUNC nis fuar/FV caem a/FUNC chomdile./PUNC ciaso daer is dagduine./PUNC 
 A/FUNC urard./PUNC
-Frim/FUNC gruad corcra ma chora./PUNC domruacht/FV bochta fombena ni chelim/FV uair it cara./PUNC feib atberim/FV atbera/FV./PUNC 
+Frim/FUNC gruad corcra ma/FUNC chora./PUNC domruacht/FV bochta fombena ni chelim/FV uair it cara./PUNC feib atberim/FV atbera/FV./PUNC 
 A/FUNC irísel./PUNC in/FUNC ben síde 
 Sect mbliadna lána o/FUNC noct./PUNC fotgluasfither/FV ón oenphort feraib mnaaib mairg ros/PP bí/FV imin/FUNC Dond cathach Cualngi./PUNC 
 A/FUNC lorgga fuach./PUNC Cormac issin/FUNC Tririg./PUNC In/FUNC tóceb mo/FUNC churchan cíar./PUNC forin/FUNC n-ocian n-uchtlethan n-án in/FUNC rag a/FUNC Rí richid/FV réil./PUNC asmo thoil féin arin/FUNC sál./PUNC Imba sessach imba seng imba tressach torgib/VN drong./PUNC a/FUNC Dé in/FUNC cungene frimm/FUNC./PUNC o/FUNC thí oc/FUNC techt/VN for/FUNC lind lond./PUNC 
