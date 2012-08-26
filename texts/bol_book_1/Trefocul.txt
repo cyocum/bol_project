@@ -19,7 +19,7 @@ Is/COP hé/FUNC rí Senchae same gelcloe gaile iar/FUNC crud chuile do/FUNC feol
 Can anocht ./PUNCi./PUNC a/FUNC ndá nocht iarna/FUNC ndiriuch don/FUNC dligud./PUNC Fogonar/FV airchetul/VN i/FUNC n-anocht n-ellagar/FV is coitchendsium uile/FUNC son./PUNC Co/FUNC ndath./PUNC ⁊/FUNC tothucht./PUNC Tlachtga na/FUNC n-uath dub a/FUNC n-aerthar brecc i/FUNC fochanar/FV./PUNC find i/FUNC mmoltar/FV./PUNC
 Ciaptis ganna fir betha./PUNC óthá Liphe co/FUNC lLetha nos firfed/FV ol níptis ol dige di/FUNC dernaind Domnaill./PUNC Mael Ruanaid ruad imma/FUNC rind arching/FV dorair ndualaig is caill./PUNC tón bo can buaraig for/FUNC aill./PUNC srón cherr Mael Ruanaid./PUNC meic Flaind./PUNC 
 Brecc i/FUNC fochanar/FV./PUNC  Fíngin mac Flaind Daronusa dóib/FUNC drong bind bairdne brethir gleisi gniim can tlási./PUNC nís tartsatsum/FV duas dar/FUNC esi./PUNC Nís len/FV ecnach ond aes chetlach cruth ron/PP cuala/FV ar/FUNC ar/FUNC ndála acht/FUNC na/FUNC tucsatsum/FV dúas for/FUNC duana./PUNC 
-Tothocht dano ./PUNCi./PUNC amal beit/FV a/FUNC bésa corop/FV amlaid moltair ./PUNCi./PUNC molad/VN laich do/FUNC laech ⁊/FUNC molad/VN clerich do/FUNC chleriuch./PUNC
+Tothocht dano/FUNC./PUNCi./PUNC amal beit/FV a/FUNC bésa corop/FV amlaid moltair ./PUNCi./PUNC molad/VN laich do/FUNC laech ⁊/FUNC molad/VN clerich do/FUNC chleriuch./PUNC
 A/FUNC chotut Fer Muman Goth gruce golfad bréice./PUNC baeth críche./PUNC crich co/FUNC ndorthor./PUNC íar/FUNC mbeith/VN siu saeb a/FUNC thigthol taistel Milchon meic Onchon./PUNC 
 A/FUNC mallrugud Cormac do/FUNC Inis Caín Nech no/FUNC bíad/FV bliadain láin i/FUNC taig/FV aiged Indsi Cain./PUNC rabad/FV glebán a/FUNC níab./PUNC oc/FUNC dul/VN dar/FUNC Sliab Sion saír./PUNC 
 A/FUNC delidin litterda 
@@ -44,7 +44,7 @@ Is/COP é/FUNC in/FUNC desmerecht and/FUNC sin/FUNC ./PUNCi./PUNC ced eter/FUNC 
 A/FUNC thelgud/VN noe./PUNC
 Orddan na/FUNC rríg recht as/FUNC gleo céin ba/FV béo bert fogní/FV saerthot slantot cecha sa tathot rota rodatí./PUNC tissat./PUNC 
 A urachil calaidi./PUNC
-Cencob delbalaind mo/FUNC drech./PUNC nimthá/FV a/FUNC chleith ceil na/FUNC guth./PUNC deithbir dam/FUNC./PUNC cid diúir mo/FUNC dath./PUNC uair nach i/FUNC ro/PP chiúir/FV mo/FUNC chruth./PUNC 
+Cencob delbalaind mo/FUNC drech./PUNC nimthá/FV a/FUNC chleith ceil na/FUNC guth./PUNC deithbir dam/FUNC./PUNC cid diúir mo/FUNC dath./PUNC uair nach/FUNC i/FUNC ro/PP chiúir/FV mo/FUNC chruth./PUNC 
 A/FUNC airichil fuit./PUNC
 Colum Cille céin nombó./PUNC bid/FV mo/FUNC ducan da co/FUNC fert fri/FUNC cach/FUNC nguas gera dat no/FUNC molur/FV méit mo/FUNC derc./PUNC 
 A/FUNC Cendfochrus./PUNC
