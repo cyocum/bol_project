@@ -86,9 +86,8 @@ let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
         let words = UTF8Hash.fold (fun k v acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
-        let filtered = List.filter (fun w -> if List.exists (Util.str_compare w) accum then false else true) words in 
-        create_func_word_lst xs (List.append filtered accum)
-    | [] -> accum
+        create_func_word_lst xs (List.append words accum)
+    | [] -> List.fold_left Util.remove_dups [] accum
 
 let calc_idf term docs =
   let find_seen_terms doc =

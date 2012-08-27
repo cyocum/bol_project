@@ -17,6 +17,14 @@ let rec list_findi (p : 'a -> int) lst =
 
 let str_compare a b =
   if (Camomile.UTF8.compare a b) = 0 then
-    true
+    begin
+      true
+    end
   else
     false
+
+let remove_dups accum str =
+  if List.exists (str_compare str) accum then
+    accum
+  else
+    str::accum
