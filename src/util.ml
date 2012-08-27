@@ -17,9 +17,7 @@ let rec list_findi (p : 'a -> int) lst =
 
 let str_compare a b =
   if (Camomile.UTF8.compare a b) = 0 then
-    begin
-      true
-    end
+    true
   else
     false
 
