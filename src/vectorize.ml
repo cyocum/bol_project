@@ -134,7 +134,8 @@ let string_of_term term =
 let list_of_dirs =
 [
   "../texts/bol_book_1/";
-  "../texts/bol_book_2/"
+  "../texts/bol_book_2/";
+  "../texts/bol_book_3/"
 ]
 
 let create_full_path_files dir =
