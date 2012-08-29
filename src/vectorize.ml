@@ -135,7 +135,8 @@ let list_of_dirs =
 [
   "../texts/bol_book_1/";
   "../texts/bol_book_2/";
-  "../texts/bol_book_3/"
+  "../texts/bol_book_3/";
+  "../texts/bol_book_4/"
 ]
 
 let create_full_path_files dir =
