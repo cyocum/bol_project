@@ -31,25 +31,19 @@ type doc =
       terms : term list;
     }
 
-let is_empty_word word =
-  if word = "" then
-    true
-  else 
-    false
-
 let remove_tag word =
-  Pcre.replace ~pat:"/\\w+[\\.;,]?" ~templ:"" word 
+  Pcre.replace ~pat:"/\\w+" ~templ:"" word
 
 let load_file filename =
   let ufh = new UTF8Line.input_line 
     (new CharEncoding.in_channel CharEncoding.utf8 (open_in filename)) in
   let words = ref [] in
-  let regex = Pcre.regexp "\\s+|\\.|;" in
+  let regex = Pcre.regexp "\\s+|\\.|;|," in
   try 
     while true; do
       let line = (ufh#get ()) in
-      let elems = (List.filter (fun w -> not (is_empty_word w)) (Pcre.split ~rex:regex line)) in
-      words :=  List.append !words elems
+      let elems = (List.filter (fun w -> not (Util.str_compare w "")) (Pcre.split ~rex:regex line)) in
+      words :=  List.rev_append !words elems
     done;
     !words
   with
@@ -58,7 +52,13 @@ let load_file filename =
         !words
 
 let get_func_words words = 
-  List.rev_map remove_tag (List.filter (fun w -> if Pcre.pmatch ~pat:"/FUNC" w then true else false) words)
+  let find w =
+    if Pcre.pmatch ~pat:"/FUNC" w then 
+      true 
+    else 
+      false
+  in 
+  List.rev_map remove_tag (List.filter find words)
 
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
@@ -68,25 +68,25 @@ let create_word_count words =
   seen
 
 let calc_max_tc words =
-  let rec find_max tuples max =
-    match tuples with
-      | (_, num)::xs ->
-          if num >= max then
-            find_max xs num
+  let rec find_max values max =
+    match values with
+      | x::xs ->
+          if x >= max then
+            find_max xs x
           else
             find_max xs max
       | [] -> max
   in 
   let no_tag_words = List.rev_map (remove_tag) words in
   let seen = create_word_count no_tag_words in
-  let tuples = UTF8Hash.fold (fun k v acc -> (k,v)::acc) seen [] in 
+  let tuples = UTF8Hash.fold (fun _ v acc -> v::acc) seen [] in 
   find_max tuples 0
 
 let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
         let words = UTF8Hash.fold (fun k v acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
-        create_func_word_lst xs (List.append words accum)
+        create_func_word_lst xs (List.rev_append words accum)
     | [] -> List.fold_left Util.remove_dups [] accum
 
 let calc_idf term docs =
@@ -131,6 +131,29 @@ let calc_tf func_word_lst doc  =
 let string_of_term term = 
   (string_of_int term.pos) ^ " " ^ (string_of_float (term.tf *. term.idf)) 
 
+let create_full_path_files dir =
+  let files = Array.to_list (Sys.readdir dir) in
+  List.rev_map (fun f -> (dir ^ f)) files
+
+let get_files list_of_dirs =
+  let filenames = List.rev_map create_full_path_files list_of_dirs in 
+  (List.flatten filenames)
+
+let output_results docs func_word_lst non_zero_terms =
+  let output_mat_fh = open_out "text.mat" in
+  let output_mat_rows = open_out "rows.mat" in
+    output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
+  List.iter     
+    (fun doc ->
+      output_string output_mat_rows (doc.fn ^ "\n");
+      List.iter (fun term ->
+        output_string output_mat_fh ((string_of_term (calc_idf term docs)) ^ " ")
+      ) doc.terms;
+      output_string output_mat_fh "\n"
+    ) docs;
+  close_out output_mat_fh;
+  close_out output_mat_rows
+
 let list_of_dirs =
 [
   "../texts/bol_book_1/";
@@ -139,31 +162,21 @@ let list_of_dirs =
   "../texts/bol_book_4/"
 ]
 
-let create_full_path_files dir =
-  let files = Array.to_list (Sys.readdir dir) in
-  List.rev_map (fun f -> (dir ^ f)) files
-
-let get_files () =
-  let filenames = List.rev_map create_full_path_files list_of_dirs in 
-  (List.flatten filenames)
-
 let _ = 
-  let files = get_files () in
+  let files = get_files list_of_dirs in
   let docs = List.rev_map create_doc files in
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
-  let output_mat_fh = open_out "text.mat" in
-  let output_mat_rows = open_out "rows.mat" in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   Util.output_func_words func_word_lst;
-  output_string output_mat_fh ((string_of_int (List.length docs_terms) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
-  List.iter     
-    (fun doc ->
-      output_string output_mat_rows (doc.fn ^ "\n");
-      List.iter (fun term ->
-        output_string output_mat_fh ((string_of_term (calc_idf term docs_terms)) ^ " ")
-      ) doc.terms;
-      output_string output_mat_fh "\n"
-    ) docs_terms;
-  close_out output_mat_fh;
-  close_out output_mat_rows
+  output_results docs_terms func_word_lst non_zero_terms
+
+
+
+
+
+
+
+
+
+

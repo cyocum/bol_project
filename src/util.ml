@@ -33,4 +33,3 @@ let output_func_words func_word_lst =
     (new CharEncoding.out_channel CharEncoding.utf8 (open_out "func_words.txt")) in
   List.iter (fun w -> out_ufh#put w) func_word_lst;
   out_ufh#close_out ()
-

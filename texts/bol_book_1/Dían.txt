@@ -1,13 +1,13 @@
-Dían airing./PUNC ut/FUNC./PUNC
-Currech Lifi cona/FUNC lí ní cach/FUNC ri da/FUNC fodamair./PUNC 
-Dían miding./PUNC Ut/FUNC./PUNC
-Anmchaid Ossairge amra caíne./PUNC ⁊c./PUNC 
-Dían íarseng./PUNC ut/FUNC./PUNC
-Ro gabsa eólchaire eolas do/FUNC éicsib./PUNC ⁊c./PUNC 
+Dían airing. ut/FUNC.
+Currech Lifi cona/FUNC lí ní cach/FUNC ri da/FUNC fodamair. 
+Dían miding. Ut/FUNC.
+Anmchaid Ossairge amra caíne. ⁊c. 
+Dían íarseng. ut/FUNC.
+Ro gabsa eólchaire eolas do/FUNC éicsib. ⁊c. 
 Dían arthromm ut/FUNC
 Dungalach dalguinech dorar ard idlach eslabar dosgalach Desmumnech diglach 
-Dían midtromm ut/FUNC./PUNC
-Fó/FUNC sen dia ngab Oengus Albanach Alba thulchach trethantriathach ruc do/FUNC chathrachaib costud chlarach cossach labach lethansciathach./PUNCł 
-Dían iarthromm./PUNC ut/FUNC./PUNC
+Dían midtromm ut/FUNC.
+Fó/FUNC sen dia ngab Oengus Albanach Alba thulchach trethantriathach ruc do/FUNC chathrachaib costud chlarach cossach labach lethansciathach.ł 
+Dían iarthromm. ut/FUNC.
 Bendacht De for/FUNC Eithne n-ollguirm ingin nDomnaill 
-Dían brecta centromm./PUNC ut/FUNC./PUNC  Brigit buadach buaid na/FUNC fine siúr Ríg nime nar in/FUNC duine eslind luige lethan breo./PUNC rosiacht/FV naemnem./PUNC mumi Gaedel riar na/FUNC n-aiged aebel ecnae ingen Dubthaig duine uallach Brigit buadach bethad beo./PUNC 
+Dían brecta centromm. ut/FUNC.  Brigit buadach buaid na/FUNC fine siúr Ríg nime nar in/FUNC duine eslind luige lethan breo. rosiacht/FV naemnem. mumi Gaedel riar na/FUNC n-aiged aebel ecnae ingen Dubthaig duine uallach Brigit buadach bethad beo. 
