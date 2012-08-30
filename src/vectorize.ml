@@ -38,7 +38,7 @@ let is_empty_word word =
     false
 
 let remove_tag word =
-  Pcre.replace ~pat:"/\\w+" ~templ:"" word
+  Pcre.replace ~pat:"/\\w+[\\.;,]?" ~templ:"" word 
 
 let load_file filename =
   let ufh = new UTF8Line.input_line 
@@ -58,7 +58,7 @@ let load_file filename =
         !words
 
 let get_func_words words = 
-  List.rev_map (fun fw -> Pcre.replace ~pat:"/FUNC" ~templ:"" fw) (List.filter (fun w -> if Pcre.pmatch ~pat:"/FUNC" w then true else false) words)
+  List.rev_map remove_tag (List.filter (fun w -> if Pcre.pmatch ~pat:"/FUNC" w then true else false) words)
 
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
@@ -155,6 +155,7 @@ let _ =
   let output_mat_fh = open_out "text.mat" in
   let output_mat_rows = open_out "rows.mat" in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
+  Util.output_func_words func_word_lst;
   output_string output_mat_fh ((string_of_int (List.length docs_terms) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
   List.iter     
     (fun doc ->

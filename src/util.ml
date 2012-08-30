@@ -2,6 +2,7 @@ open CamomileLibraryDefault
 open Camomile
 
 module CaseMap = Camomile.CaseMap.Make(Camomile.UTF8)
+module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
 
 let rec list_findi (p : 'a -> int) lst =
   let rec aux lst pos =
@@ -26,3 +27,10 @@ let remove_dups accum str =
     accum
   else
     str::accum
+
+let output_func_words func_word_lst =
+  let out_ufh = new UTF8Line.output_line 
+    (new CharEncoding.out_channel CharEncoding.utf8 (open_out "func_words.txt")) in
+  List.iter (fun w -> out_ufh#put w) func_word_lst;
+  out_ufh#close_out ()
+
