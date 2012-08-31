@@ -38,7 +38,7 @@ let load_file filename =
   let ufh = new UTF8Line.input_line 
     (new CharEncoding.in_channel CharEncoding.utf8 (open_in filename)) in
   let words = ref [] in
-  let regex = Pcre.regexp "\\s+|\\.|;|," in
+  let regex = Pcre.regexp "\\s+" in
   try 
     while true; do
       let line = (ufh#get ()) in
@@ -49,7 +49,7 @@ let load_file filename =
   with
     | End_of_file ->
         ufh#close_in ();
-        !words
+        List.rev_map (Pcre.replace ~pat:"[\\.|;|,]" ~templ:"") !words
 
 let get_func_words words = 
   let find w =
@@ -79,13 +79,13 @@ let calc_max_tc words =
   in 
   let no_tag_words = List.rev_map (remove_tag) words in
   let seen = create_word_count no_tag_words in
-  let tuples = UTF8Hash.fold (fun _ v acc -> v::acc) seen [] in 
-  find_max tuples 0
+  let values = UTF8Hash.fold (fun _ v acc -> v::acc) seen [] in 
+  find_max values 0
 
 let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
-        let words = UTF8Hash.fold (fun k v acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
+        let words = UTF8Hash.fold (fun k _ acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
         create_func_word_lst xs (List.rev_append words accum)
     | [] -> List.fold_left Util.remove_dups [] accum
 
