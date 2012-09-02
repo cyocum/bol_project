@@ -1,8 +1,7 @@
- Drochcomaithech ro baí i n-ocus dosom .i. Grác ⁊ a ben .i. Crón. Nó bid Grác oc frithtuídechd friseom. No erbbad a mnaí dochum  in chlerig. Tair dam d'inrig aris a chlerig or Crón. Buíseom oc   fúaim ochra imma chossa. Teitseom issa lestar dosrigsi a gobol
-  friseom. Bui a menad inna láimsiom. Dobert triana memmor co rragaib in lestar fris anís. Is and asbertsom.
-Mo gillasa in conainech suail ní dianid robuidech tocair assa cháthir fein i cáthir comaitech., 
- Maith a banscal or seseom ro riastrat drochdoíne do gabol combat sáithech dít. Niba fír són or sisi. ni fuil i nHerind duinni rom lama lam chona. Is iar sin tra tancatar dibergaig cucisi co   ndeochatar da fer déc díb furri. Co n-erbairt Mo Lling.
-Coin Cróne mathe oc imdegail tóne. Cid dia mbiathaiter la Cróin coin nad gabat ica tóin. 
-   Maith or Grác beir in mac don bachluch dia altram. Téitsi lasin mac. Nirbo maith disi in n-aidchisin lasna bachlachu. Dodeochatar  im Hui Dega co rrucsat a chend deseom fein .i. do Gráic Adfiadar do mMo Lling ón. Co clos a guthsi arnabárach a olcas di in n-aidchisin. Boíseom oc timchiull martar and sin. Is and asbertsom oca déscinsi.
-A ben Gráce in n-eces duit Grác do guin; ni accim sund nech bad bínd im geim ind laíg fil fort muin. 
-Beir do mac latt a ben or seseom. indat báid in bachlaig imdo   mac.
+Drochcomaithech ro baí i/FUNC n-ocus/FUNC dosom/FUNC .i. Grác ⁊/FUNC a/FUNC ben .i. Crón. Nó/FUNC bid Grác oc/FUNC frithtuídechd friseom/FUNC. No/FUNC erbbad a/FUNC mnaí dochum/FUNC in/FUNC chlerig. Tair dam/FUNC d'inrig aris a/FUNC chlerig or Crón. Buíseom oc/FUNC fúaim ochra imma/FUNC chossa. Teitseom issa/FUNC lestar dosrigsi a/FUNC gobol friseom/FUNC. Bui a/FUNC menad inna/FUNC láimsiom. Dobert triana memmor co/FUNC rragaib in/FUNC lestar fris/FUNC anís. Is and/FUNC asbertsom.
+Mo/FUNC gillasa in/FUNC conainech suail ní dianid robuidech tocair assa/FUNC cháthir fein/FUNC i/FUNC cáthir comaitech.
+Maith a/FUNC banscal or seseom/FUNC ro riastrat drochdoíne do/FUNC gabol combat sáithech dít/FUNC. Niba fír són or sisi/FUNC. ni fuil i/FUNC nHerind duinni rom lama lam chona. Is iar/FUNC sin/FUNC tra tancatar dibergaig cucisi co/FUNC ndeochatar da fer déc díb/FUNC furri. Co/FUNC n-erbairt Mo Lling.
+Coin Cróne mathe oc/FUNC imdegail tóne. Cid dia/FUNC mbiathaiter la/FUNC Cróin coin nad gabat ica/FUNC tóin. 
+Maith or Grác beir in/FUNC mac don/FUNC bachluch dia/FUNC altram. Téitsi lasin/FUNC mac. Nirbo maith disi in/FUNC n-aidchisin lasna bachlachu. Dodeochatar im/FUNC Hui Dega co/FUNC rrucsat a/FUNC chend deseom/FUNC fein/FUNC .i. do/FUNC Gráic Adfiadar do/FUNC mMo Lling ón/FUNC. Co/FUNC clos a/FUNC guthsi arnabárach a/FUNC olcas di/FUNC in/FUNC n-aidchisin. Boíseom oc/FUNC timchiull martar and/FUNC sin/FUNC. Is and/FUNC asbertsom oca/FUNC déscinsi.
+A/FUNC ben Gráce in/FUNC n-eces duit/FUNC Grác do/FUNC guin; ni accim sund/FUNC nech/FUNC bad bínd im/FUNC geim ind/FUNC laíg fil fort/FUNC muin. 
+Beir do/FUNC mac latt/FUNC a/FUNC ben or seseom/FUNC. indat báid in/FUNC bachlaig imdo mac.

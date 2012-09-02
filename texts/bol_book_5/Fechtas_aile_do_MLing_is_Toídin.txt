@@ -1,13 +1,13 @@
- Fechtas aile do M'Ling is Toidin. Co n-accai nónbur dona   dibergachaib cuci. Maith sin a bachlaig. Amin a chridecán. In tú in tairchetlaid. me im. Gaib runnu dún a bachlaig. Cia dia ngeb. Damsa is me is toísech. Cia th'ainmseo. Mael Geuraige.   Molad damsa ⁊ dom gai. Cia ainm do gai. Etenchar. ⁊ maith le tornech eten na mbachlach oca truastad. conid and asbertsom.
-Mael Gengraige co mbé a thóe i tenraige; 'mosluid Etenchar fo thrí tria thoíbu Mael Gengragi. 
-Mo loig fri rand. is maith in rand. Dene rand damsa. Cía th'ainmsiu Firt Fiaich.  
-Firt Fiaig gnáth oc gliaid in cech airm; co rraib in fer assa fert for derc ind fir issa hainm. 
-Mo lóig fri rand dano. Messe. Cia th'ainmsiu. Imscripul a bachlaig.
-Gentar Imscripul no bratad cach cill. oca brithe fon glend is maith no srengam in ngirr. 
-Maith a bachlaig.
-Ro bíth Imscripul no bratad cach cill fálid munter iffirn and ond uair rosfánic andland. 
- Messe a bachlaig. Cia th'ainmseo. Cu Chluchair.
-Cu Chluchair gentair etar da sruthair. broimm crúaid iar n-ithi arba. I timnu anma Con Cluchair. 
- Mo lóig fri rand. Messi a bachlaig.  Cia th'ainm. Cu Cholom.
-Dofil éc do Choin Choluim anair dar secht sechtmuire. biaid cros fora lige óndiu ria cind sechtmuine. 
-Mo loig fri rand. Not anister tra or it mathi na rraind.  Tiagait iar sudiu.,
+Fechtas aile/FUNC do/FUNC M'Ling is Toidin. Co/FUNC n-accai nónbur dona/FUNC dibergachaib cuci/FUNC. Maith sin/FUNC a/FUNC bachlaig. Amin a/FUNC chridecán. In tú/FUNC in/FUNC tairchetlaid. me/FUNC im/FUNC. Gaib runnu dún a/FUNC bachlaig. Cia dia/FUNC ngeb. Damsa/FUNC is me/FUNC is toísech. Cia th'ainmseo. Mael Geuraige. Molad damsa/FUNC ⁊/FUNC dom/FUNC gai. Cia ainm do/FUNC gai. Etenchar. ⁊/FUNC maith le/FUNC tornech eten na/FUNC mbachlach oca/FUNC truastad. conid and/FUNC asbertsom.
+Mael Gengraige co/FUNC mbé a/FUNC thóe i/FUNC tenraige; 'mosluid Etenchar fo/FUNC thrí tria thoíbu Mael Gengragi. 
+Mo/FUNC loig fri/FUNC rand. is maith in/FUNC rand. Dene rand damsa. Cía th'ainmsiu Firt Fiaich.  
+Firt Fiaig gnáth oc/FUNC gliaid in/FUNC cech airm; co/FUNC rraib in/FUNC fer assa/FUNC fert for/FUNC derc ind/FUNC fir issa/FUNC hainm. 
+Mo lóig fri/FUNC rand dano/FUNC. Messe/FUNC. Cia th'ainmsiu. Imscripul a/FUNC bachlaig.
+Gentar Imscripul no/FUNC bratad cach/FUNC cill. oca/FUNC brithe fon/FUNC glend is maith no/FUNC srengam in/FUNC ngirr. 
+Maith a/FUNC bachlaig.
+Ro bíth Imscripul no/FUNC bratad cach/FUNC cill fálid munter iffirn and/FUNC ond uair rosfánic andland. 
+Messe/FUNC a/FUNC bachlaig. Cia th'ainmseo. Cu Chluchair.
+Cu Chluchair gentair etar/FUNC da sruthair. broimm crúaid iar/FUNC n-ithi arba. I/FUNC timnu anma Con Cluchair. 
+Mo lóig fri/FUNC rand. Messi/FUNC a/FUNC bachlaig. Cia th'ainm. Cu Cholom.
+Dofil éc do/FUNC Choin Choluim anair dar/FUNC secht sechtmuire. biaid cros fora/FUNC lige óndiu ria cind sechtmuine. 
+Mo loig fri/FUNC rand. Not anister tra or it mathi na/FUNC rraind. Tiagait iar/FUNC sudiu.
