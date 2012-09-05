@@ -4,23 +4,23 @@ open Camomile
 module CaseMap = Camomile.CaseMap.Make(Camomile.UTF8)
 module UTF8Line = Camomile.ULine.Make(Camomile.UTF8)
 
-let rec list_findi (p : 'a -> int) lst =
+let str_compare a b =
+  if (Camomile.UTF8.compare a b) = 0 then
+    true
+  else
+    false
+
+let rec list_findi (p : 'a -> bool) lst =
   let rec aux lst pos =
     match lst with
       | x::xs -> 
-          if (p x) = 0 then 
+          if (p x) then 
             pos
           else
             aux xs (succ pos)
       | [] -> raise Not_found
   in 
   aux lst 0
-
-let str_compare a b =
-  if (Camomile.UTF8.compare a b) = 0 then
-    true
-  else
-    false
 
 let remove_dups accum str =
   if List.exists (str_compare str) accum then

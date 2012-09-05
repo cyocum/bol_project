@@ -6,11 +6,7 @@ module CaseMap = Camomile.CaseMap.Make(Camomile.UTF8)
 module UTF8Hash = Hashtbl.Make(
   struct
     type t = Camomile.UTF8.t
-    let equal a b =
-      if (Camomile.UTF8.compare a b) = 0 then
-        true
-      else
-        false
+    let equal a b = Util.str_compare a b
     let hash = Hashtbl.hash
   end
 )
@@ -119,7 +115,7 @@ let calc_tf func_word_lst doc  =
           { term = k; 
             tf = (float v) /. (float doc.max_tc); 
             (* the position in the matrix that is out put starts at 1 *not* 0 *)
-            pos =  (succ (Util.list_findi (Camomile.UTF8.compare (CaseMap.lowercase k)) func_word_lst));
+            pos =  (succ (Util.list_findi (Util.str_compare (CaseMap.lowercase k)) func_word_lst));
             idf = 0.0;
           }
         end
