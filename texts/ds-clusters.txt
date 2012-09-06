@@ -1,0 +1,45 @@
+cluster 1
+cogad gáedel re gallaib
+
+cluster 2
+orgain dind ríg
+esnada tige buchat
+fingal rónáin
+
+cluster 3
+óenach talten
+scél niall frossis
+
+cluster 4
+aided cuanach meic ailchini
+echtra laegaire meic crimthainn
+cath cairn chonall
+
+cluster 5
+senchas ailinn chobthaig
+
+cluster 6
+longes chonaill chuirc
+cath maige mucrima
+
+cluster 7
+bórama
+
+cluster 8
+táin bó cuailnge
+cath ruis na ríg
+
+cluster 9
+scéla mucce meic dathó
+
+cluster 10
+mesca ulad
+
+cluster 11
+talland étair
+aided chonchobuir
+aided meidbe
+brislech mór maige murthemni
+do fallsigud tána bó cualnge
+
+
