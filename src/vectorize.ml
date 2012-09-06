@@ -45,7 +45,7 @@ let load_file filename =
   with
     | End_of_file ->
         ufh#close_in ();
-        List.rev_map (Pcre.replace ~pat:"[\\.|;|,]" ~templ:"") !words
+        List.rev_map (Pcre.replace ~pat:"[\\.;,]" ~templ:"") !words
 
 let get_func_words words = 
   let find w =
@@ -167,13 +167,3 @@ let _ =
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   Util.output_func_words func_word_lst;
   output_results docs_terms func_word_lst non_zero_terms
-
-
-
-
-
-
-
-
-
-
