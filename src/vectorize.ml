@@ -27,8 +27,8 @@ type doc =
       terms : term list;
     }
 
-let remove_tag word =
-  Pcre.replace ~pat:"/\\w+" ~templ:"" word
+let remove_tag regex word =
+  Pcre.replace ~rex:regex ~templ:"" word
 
 let load_file filename =
   let ufh = new UTF8Line.input_line 
@@ -44,17 +44,19 @@ let load_file filename =
     !words
   with
     | End_of_file ->
+        let regex = Pcre.regexp "[\\.;,]" in 
         ufh#close_in ();
-        List.rev_map (Pcre.replace ~pat:"[\\.;,]" ~templ:"") !words
+        List.rev_map (Pcre.replace ~rex:regex ~templ:"") !words
 
 let get_func_words words = 
+  let regex = Pcre.regexp "/FUNC" in  
   let find w =
-    if Pcre.pmatch ~pat:"/FUNC" w then 
+    if Pcre.pmatch ~rex:regex w then 
       true 
     else 
       false
-  in 
-  List.rev_map remove_tag (List.filter find words)
+  in
+  List.rev_map (remove_tag regex) (List.filter find words)
 
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
@@ -73,7 +75,8 @@ let calc_max_tc words =
             find_max xs max
       | [] -> max
   in 
-  let no_tag_words = List.rev_map (remove_tag) words in
+  let regex = Pcre.regexp "/\\w+" in 
+  let no_tag_words = List.rev_map (remove_tag regex) words in
   let seen = create_word_count no_tag_words in
   let values = UTF8Hash.fold (fun _ v acc -> v::acc) seen [] in 
   find_max values 0
