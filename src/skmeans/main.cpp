@@ -25,4 +25,5 @@ int main(int argc, char **argv) {
 
   cout << "Cluster Output" << endl;
   cout << output << endl;
+  data::Save("clusters.csv", output, true);
 }

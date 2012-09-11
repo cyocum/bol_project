@@ -61,7 +61,7 @@ let get_func_words words =
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
   List.iter (fun w ->
-    UTF8Hash.replace seen w (try (succ (UTF8Hash.find seen w)) with Not_found -> 1)
+    UTF8Hash.replace seen (CaseMap.lowercase w) (try (succ (UTF8Hash.find seen (CaseMap.lowercase w))) with Not_found -> 1)
   ) words;
   seen
 
@@ -84,7 +84,7 @@ let calc_max_tc words =
 let rec create_func_word_lst docs accum =
   match docs with
     | x::xs ->
-        let words = UTF8Hash.fold (fun k _ acc -> (CaseMap.lowercase k)::acc) x.func_seen [] in
+        let words = UTF8Hash.fold (fun k _ acc -> k::acc) x.func_seen [] in
         create_func_word_lst xs (List.rev_append words accum)
     | [] -> List.fold_left Util.remove_dups [] accum
 
@@ -118,7 +118,7 @@ let calc_tf func_word_lst doc  =
           { term = k; 
             tf = (float v) /. (float doc.max_tc); 
             (* the position in the matrix that is out put starts at 1 *not* 0 *)
-            pos =  (succ (Util.list_findi (Util.str_compare (CaseMap.lowercase k)) func_word_lst));
+            pos =  (Util.list_findi (Util.str_compare k) func_word_lst);
             idf = 0.0;
           }
         end
@@ -138,7 +138,7 @@ let get_files list_of_dirs =
   let filenames = List.rev_map create_full_path_files list_of_dirs in 
   (List.flatten filenames)
 
-let output_results docs func_word_lst non_zero_terms =
+let output_results_cluto docs func_word_lst non_zero_terms =
   let output_mat_fh = open_out "text.mat" in
   let output_mat_rows = open_out "rows.mat" in
     output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
@@ -152,6 +152,26 @@ let output_results docs func_word_lst non_zero_terms =
     ) docs;
   close_out output_mat_fh;
   close_out output_mat_rows
+
+let calc_term terms pos =
+  try
+    let term = List.find (fun t -> t.pos = pos) terms in
+      print_endline ("WTF" ^ (string_of_float (term.tf *. term.idf))); 
+      term.tf *. term.idf
+  with
+    | Not_found -> 
+        print_endline "WTF 2";
+        0.0
+
+let term_csv func_word_lst doc =
+  let r = Util.range 0 (List.length func_word_lst) in 
+  let lst = List.rev_map string_of_float (List.rev_map (fun pos -> calc_term doc.terms pos) r) in 
+  String.concat "," lst
+
+let output_csv csv_lst =
+  let output_fh = open_out "text.csv" in 
+  List.iter (fun line -> output_string output_fh (line ^ "\n")) csv_lst;
+  close_out output_fh
 
 let list_of_dirs =
 [
@@ -168,5 +188,25 @@ let _ =
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
-  Util.output_func_words func_word_lst;
-  output_results docs_terms func_word_lst non_zero_terms
+  output_csv (List.rev_map (term_csv func_word_lst) docs_terms);
+  Util.output_func_words func_word_lst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
