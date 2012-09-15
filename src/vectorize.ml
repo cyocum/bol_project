@@ -100,13 +100,16 @@ let calc_idf docs term =
   let quotient = (float (abs num_docs)) /. (float (succ (abs num_docs_seen))) in 
   { term with idf = (log quotient) }
 
-let rec calc_all_idf docs rem accum =
-  match rem with
-    | x::xs ->
-        let nx = { x with terms = List.rev_map (calc_idf docs) x.terms } in 
-          calc_all_idf docs xs (nx::accum)
-    | [] ->
-        accum
+let calc_all_idf docs =
+  let rec do_calc rem accum =
+    match rem with
+      | x::xs ->
+          let nx = { x with terms = List.rev_map (calc_idf docs) x.terms } in 
+          do_calc xs (nx::accum)
+      | [] ->
+          accum
+  in 
+  do_calc docs [] 
 
 let create_doc filename =
   let words = load_file filename in
@@ -164,11 +167,9 @@ let output_results_cluto docs func_word_lst non_zero_terms =
 let calc_term terms pos =
   try
     let term = List.find (fun t -> t.pos = pos) terms in
-    print_endline "WTF 1";
       term.tf *. term.idf
   with
     | Not_found -> 
-        print_endline "WTF 2";
         0.0
 
 let term_csv func_word_lst doc =
@@ -196,7 +197,7 @@ let _ =
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
-  let docs_full = calc_all_idf docs docs [] in 
+  let docs_full = calc_all_idf docs_terms in 
   output_csv (List.rev_map (term_csv func_word_lst) docs_full);
   Util.output_func_words func_word_lst
 
