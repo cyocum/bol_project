@@ -88,7 +88,7 @@ let rec create_func_word_lst docs accum =
         create_func_word_lst xs (List.rev_append words accum)
     | [] -> List.fold_left Util.remove_dups [] accum
 
-let calc_idf term docs =
+let calc_idf docs term =
   let find_seen_terms doc =
     if UTF8Hash.mem doc.func_seen term.term then
       1
@@ -99,6 +99,14 @@ let calc_idf term docs =
   let num_docs = List.length docs in
   let quotient = (float (abs num_docs)) /. (float (succ (abs num_docs_seen))) in 
   { term with idf = (log quotient) }
+
+let rec calc_all_idf docs rem accum =
+  match rem with
+    | x::xs ->
+        let nx = { x with terms = List.rev_map (calc_idf docs) x.terms } in 
+          calc_all_idf docs xs (nx::accum)
+    | [] ->
+        accum
 
 let create_doc filename =
   let words = load_file filename in
@@ -141,12 +149,12 @@ let get_files list_of_dirs =
 let output_results_cluto docs func_word_lst non_zero_terms =
   let output_mat_fh = open_out "text.mat" in
   let output_mat_rows = open_out "rows.mat" in
-    output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
+  output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
   List.iter     
     (fun doc ->
       output_string output_mat_rows (doc.fn ^ "\n");
       List.iter (fun term ->
-        output_string output_mat_fh ((string_of_term (calc_idf term docs)) ^ " ")
+        output_string output_mat_fh ((string_of_term (calc_idf docs term)) ^ " ")
       ) doc.terms;
       output_string output_mat_fh "\n"
     ) docs;
@@ -156,7 +164,7 @@ let output_results_cluto docs func_word_lst non_zero_terms =
 let calc_term terms pos =
   try
     let term = List.find (fun t -> t.pos = pos) terms in
-      print_endline ("WTF" ^ (string_of_float (term.tf *. term.idf))); 
+    print_endline "WTF 1";
       term.tf *. term.idf
   with
     | Not_found -> 
@@ -188,7 +196,8 @@ let _ =
   let func_word_lst = create_func_word_lst docs [] in
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
-  output_csv (List.rev_map (term_csv func_word_lst) docs_terms);
+  let docs_full = calc_all_idf docs docs [] in 
+  output_csv (List.rev_map (term_csv func_word_lst) docs_full);
   Util.output_func_words func_word_lst
 
 
