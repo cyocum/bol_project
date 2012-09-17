@@ -139,7 +139,8 @@ let calc_tf func_word_lst doc  =
   { doc with terms = terms }
 
 let string_of_term term = 
-  (string_of_int term.pos) ^ " " ^ (string_of_float (term.tf *. term.idf)) 
+  (* shift position by one since cluto uses 1 rather than 0 as its index *)
+  (string_of_int (succ term.pos)) ^ " " ^ (string_of_float (term.tf *. term.idf)) 
 
 let create_full_path_files dir =
   let files = Array.to_list (Sys.readdir dir) in
@@ -148,21 +149,6 @@ let create_full_path_files dir =
 let get_files list_of_dirs =
   let filenames = List.rev_map create_full_path_files list_of_dirs in 
   (List.flatten filenames)
-
-let output_results_cluto docs func_word_lst non_zero_terms =
-  let output_mat_fh = open_out "text.mat" in
-  let output_mat_rows = open_out "rows.mat" in
-  output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
-  List.iter     
-    (fun doc ->
-      output_string output_mat_rows (doc.fn ^ "\n");
-      List.iter (fun term ->
-        output_string output_mat_fh ((string_of_term (calc_idf docs term)) ^ " ")
-      ) doc.terms;
-      output_string output_mat_fh "\n"
-    ) docs;
-  close_out output_mat_fh;
-  close_out output_mat_rows
 
 let calc_term terms pos =
   try
@@ -176,6 +162,22 @@ let term_csv func_word_lst doc =
   let r = Util.range 0 (List.length func_word_lst) in 
   let lst = List.rev_map string_of_float (List.rev_map (fun pos -> calc_term doc.terms pos) r) in 
   String.concat "," lst
+
+let term_space doc =
+  let lst = List.rev_map string_of_term doc.terms in
+  print_endline doc.fn;
+  String.concat " " lst
+
+let output_results_cluto docs doc_names func_word_lst non_zero_terms =
+  let output_mat_fh = open_out "text.mat" in
+  let output_mat_rows = open_out "rows.mat" in
+  output_string output_mat_fh ((string_of_int (List.length docs) ^ " " ^ (string_of_int (List.length func_word_lst)) ^ " " ^ (string_of_int non_zero_terms)) ^ "\n");
+  List.iter2 (fun d dn -> 
+    output_string output_mat_fh (d ^ "\n");
+    output_string output_mat_rows (dn ^ "\n")
+  ) docs doc_names;
+  close_out output_mat_fh;
+  close_out output_mat_rows
 
 let output_csv csv_lst =
   let output_fh = open_out "text.csv" in 
@@ -198,17 +200,12 @@ let _ =
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   let docs_full = calc_all_idf docs_terms in 
+  output_results_cluto 
+    (List.rev_map term_space docs_full) 
+    (List.rev ((List.fold_left (fun accum doc -> let fn = doc.fn in fn::accum) [] docs_full)))
+    func_word_lst non_zero_terms;
   output_csv (List.rev_map (term_csv func_word_lst) docs_full);
   Util.output_func_words func_word_lst
-
-
-
-
-
-
-
-
-
 
 
 
