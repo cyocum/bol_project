@@ -165,7 +165,6 @@ let term_csv func_word_lst doc =
 
 let term_space doc =
   let lst = List.rev_map string_of_term doc.terms in
-  print_endline doc.fn;
   String.concat " " lst
 
 let output_results_cluto docs func_word_lst non_zero_terms =
@@ -184,6 +183,13 @@ let output_csv csv_lst =
   List.iter (fun line -> output_string output_fh (line ^ "\n")) csv_lst;
   close_out output_fh
 
+let output_csv_2 docs func_word_lst =
+  let csv_lst = List.rev_map (fun d -> (d.fn ^ " " ^ (term_csv func_word_lst d))) docs in 
+  let ufh_out = new UTF8Line.output_line 
+    (new CharEncoding.out_channel CharEncoding.utf8 (open_out "texts.csv")) in
+  List.iter (fun csv -> ufh_out#put csv) csv_lst;
+  ufh_out#close_out ()
+
 let list_of_dirs =
 [
   "../texts/bol_book_1/";
@@ -201,5 +207,16 @@ let _ =
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   let docs_full = calc_all_idf docs_terms in 
   output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;
-  output_csv (List.rev_map (term_csv func_word_lst) docs_full);
+  output_csv_2 docs_full func_word_lst;
+(*  output_csv (List.rev_map (term_csv func_word_lst) docs_full);*)
   Util.output_func_words func_word_lst
+
+
+
+
+
+
+
+
+
+
