@@ -182,7 +182,7 @@ let output_csv docs func_word_lst =
   let csv_lst = List.rev_map (fun d -> (d.fn ^ " " ^ (term_csv func_word_lst d))) docs in 
   let ufh_out = new UTF8Line.output_line 
     (new CharEncoding.out_channel CharEncoding.utf8 (open_out "texts.csv")) in
-  List.iter (fun csv -> ufh_out#put csv) csv_lst;
+  List.iter ufh_out#put csv_lst;
   ufh_out#close_out ()
 
 let list_of_dirs =
@@ -202,7 +202,7 @@ let _ =
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   let docs_full = calc_all_idf docs_terms in 
   output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;
-  output_csv_2 docs_full func_word_lst;
+  output_csv docs_full func_word_lst;
   Util.output_func_words func_word_lst
 
 
