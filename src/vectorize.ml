@@ -178,12 +178,7 @@ let output_results_cluto docs func_word_lst non_zero_terms =
   close_out output_mat_fh;
   close_out output_mat_rows
 
-let output_csv csv_lst =
-  let output_fh = open_out "text.csv" in 
-  List.iter (fun line -> output_string output_fh (line ^ "\n")) csv_lst;
-  close_out output_fh
-
-let output_csv_2 docs func_word_lst =
+let output_csv docs func_word_lst =
   let csv_lst = List.rev_map (fun d -> (d.fn ^ " " ^ (term_csv func_word_lst d))) docs in 
   let ufh_out = new UTF8Line.output_line 
     (new CharEncoding.out_channel CharEncoding.utf8 (open_out "texts.csv")) in
@@ -208,7 +203,6 @@ let _ =
   let docs_full = calc_all_idf docs_terms in 
   output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;
   output_csv_2 docs_full func_word_lst;
-(*  output_csv (List.rev_map (term_csv func_word_lst) docs_full);*)
   Util.output_func_words func_word_lst
 
 
