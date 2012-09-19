@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+#include <cstdlib>
 
 #include <mlpack/core.hpp>
 #include <mlpack/core/kernels/cosine_distance.hpp>
@@ -18,9 +19,11 @@ int main(int argc, char **argv) {
   arma::Col<size_t> output;
 
   KMeans<CosineDistance, RandomPartition, MaxVarianceNewCluster> kmeans;
-  kmeans.Cluster(data, 20, output);
+  kmeans.Cluster(data, 80, output);
 
   std::cout << "Cluster Output" << std::endl;
   std::cout << output << std::endl;
   data::Save("clusters.csv", output, true);
+
+  return EXIT_SUCCESS;
 }
