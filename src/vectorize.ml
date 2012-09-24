@@ -61,7 +61,8 @@ let get_func_words words =
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
   List.iter (fun w ->
-    UTF8Hash.replace seen (CaseMap.lowercase w) (try (succ (UTF8Hash.find seen (CaseMap.lowercase w))) with Not_found -> 1)
+    let lc_w = (CaseMap.lowercase w) in 
+    UTF8Hash.replace seen lc_w (try (succ (UTF8Hash.find seen lc_w)) with Not_found -> 1)
   ) words;
   seen
 
@@ -204,13 +205,3 @@ let _ =
   output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;
   output_csv docs_full func_word_lst;
   Util.output_func_words func_word_lst
-
-
-
-
-
-
-
-
-
-
