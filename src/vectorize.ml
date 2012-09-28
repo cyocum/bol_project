@@ -180,9 +180,11 @@ let output_results_cluto docs func_word_lst non_zero_terms =
   close_out output_mat_rows
 
 let output_csv docs func_word_lst =
-  let csv_lst = List.rev_map (fun d -> (d.fn ^ " " ^ (term_csv func_word_lst d))) docs in 
+  let csv_lst = List.rev_map (fun d -> ("\"" ^ d.fn ^ "\"" ^ "," ^ (term_csv func_word_lst d))) docs in 
   let ufh_out = new UTF8Line.output_line 
     (new CharEncoding.out_channel CharEncoding.utf8 (open_out "texts.csv")) in
+  print_endline ("func num" ^ (string_of_int (List.length func_word_lst)));
+  ufh_out#put (String.concat "," func_word_lst);
   List.iter ufh_out#put csv_lst;
   ufh_out#close_out ()
 
