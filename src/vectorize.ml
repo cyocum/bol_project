@@ -153,19 +153,18 @@ let get_files list_of_dirs =
 
 let calc_term terms pos =
   try
-    let term = List.find (fun t -> t.pos = pos) terms in
-      term.tf *. term.idf
+    let term = List.find (fun t ->  t.pos = pos) terms in
+    term.tf *. term.idf
   with
     | Not_found -> 
         0.0
 
 let term_csv func_word_lst doc =
-  (* starts at 1 rather than 0 *)
-  let r = Util.range 1 (List.length func_word_lst) in 
-  let lst = List.rev_map string_of_float (List.rev_map (fun pos -> calc_term doc.terms pos) r) in 
-  let str_lst = String.concat "," lst in 
-  print_endline ("len " ^ (string_of_int (List.length lst)));
-  str_lst
+  (* this has to do with the fact that the length of the
+     list is ONE MORE than the number of func words *)
+  let r = Util.range 0 (pred (List.length func_word_lst)) in 
+  let lst = List.rev_map string_of_float (List.rev_map (calc_term doc.terms) r) in 
+  String.concat "," lst
 
 let term_space doc =
   let lst = List.rev_map string_of_term doc.terms in
