@@ -160,8 +160,7 @@ let calc_term terms pos =
         0.0
 
 let term_csv func_word_lst doc =
-  (* this works but I don't know why. I think it has to do with
-     counting starting at zero rather than 1 *)
+  (* starts at 1 rather than 0 *)
   let r = Util.range 1 (List.length func_word_lst) in 
   let lst = List.rev_map string_of_float (List.rev_map (fun pos -> calc_term doc.terms pos) r) in 
   let str_lst = String.concat "," lst in 
