@@ -160,9 +160,13 @@ let calc_term terms pos =
         0.0
 
 let term_csv func_word_lst doc =
-  let r = Util.range 0 (List.length func_word_lst) in 
+  (* this works but I don't know why. I think it has to do with
+     counting starting at zero rather than 1 *)
+  let r = Util.range 1 (List.length func_word_lst) in 
   let lst = List.rev_map string_of_float (List.rev_map (fun pos -> calc_term doc.terms pos) r) in 
-  String.concat "," lst
+  let str_lst = String.concat "," lst in 
+  print_endline ("len " ^ (string_of_int (List.length lst)));
+  str_lst
 
 let term_space doc =
   let lst = List.rev_map string_of_term doc.terms in
@@ -189,13 +193,13 @@ let output_csv docs func_word_lst =
   ufh_out#close_out ()
 
 let list_of_dirs =
-[
-  "../texts/bol_book_1/";
-  "../texts/bol_book_2/";
-  "../texts/bol_book_3/";
-  "../texts/bol_book_4/";
-  "../texts/bol_book_5/"
-]
+  [
+    "../texts/bol_book_1/";
+    "../texts/bol_book_2/";
+    "../texts/bol_book_3/";
+    "../texts/bol_book_4/";
+    "../texts/bol_book_5/"
+  ]
 
 let _ = 
   let files = get_files list_of_dirs in
