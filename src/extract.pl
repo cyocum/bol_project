@@ -2,6 +2,8 @@ use strict;
 use warnings;
 use utf8;
 
+use open qw(:utf8);
+
 use XML::XPath;
 use IO::File;
 use Data::Dumper;

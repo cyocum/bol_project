@@ -6,7 +6,7 @@ runskmeans <- function(x, knum) {
 }
 
 runcluto <- function(x, knum) {
-  cluto <- skmeans(x, k=knum, method="CLUTO", control=list(vcluster="~/cluto-2.1.2/Linux-x86_64/vcluster", colmodel="none", verbose=TRUE, control="-niter=1000 -ntrials=3000 -clmethod=rbr -crfun=h2"))
+  cluto <- skmeans(x, k=knum, method="CLUTO", control=list(vcluster="/home/cyocum/cluto-2.1.2/Linux-x86_64/vcluster", colmodel="none", verbose=TRUE, control="-niter=1000 -ntrials=3000 -clmethod=rbr -crfun=h2"))
   clutomat <- as.matrix(cluto$cluster)
   row.names(clutomat) <- row.names(x)
   clutomat <- clutomat[order(clutomat[,1]),]

@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "/dtds/tei/p4x/teicelt.dtd" [
+<!ENTITY % TEIbase "TEI.prose">
+]>
+<TEI.2 id="G302011">
+<teiHeader creator="Beatrix F&auml;rber" status="update" date.created="2000-08-29" date.updated="2011-07-26">
+<fileDesc>
+<titleStmt>
+<title type="uniform">Fingal R&oacute;n&aacute;in</title>
+<title type="gmd">An electronic edition</title>
+<author>Unknown</author>
+<editor id="DG">David Greene</editor>
+<respStmt>
+<resp>Electronic edition compiled by</resp>
+<name>Beatrix F&auml;rber</name>
+<name>Mavis Cournane</name>
+<name>Audrey Murphy</name>
+</respStmt>
+<funder>University College, Cork</funder>
+<funder>Professor Marianne McDonald via the CELT Project</funder>
+</titleStmt>
+<editionStmt>
+<edition n="3">Third draft.</edition>
+</editionStmt>
+<extent><measure type="words">3890</measure></extent>
+<publicationStmt>
+<publisher>CELT: Corpus of Electronic Texts: a project of University College, Cork</publisher>
+<address>
+<addrLine>College Road, Cork, Ireland&mdash;http://www.ucc.ie/celt</addrLine>
+</address>
+<date>2000</date>
+<date>2010</date>
+<distributor>CELT online at University College, Cork, Ireland.</distributor>
+<idno type="celt">G302011</idno>
+<availability status="restricted">
+<p>Available with prior consent of the CELT programme for purposes of academic research and teaching only.</p>
+</availability>
+<availability status="restricted">
+<p>Hardcopy copyright lies with the School of Celtic Studies (Dublin
+Institute for Advanced Studies).</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<head>Manuscript sources</head>
+<bibl id="L" n="1">Dublin, Trinity College Library, MS 1339, olim H. 2. 18, Book of Leinster, 271&ndash;273. For details see T. K. Abbott and E. J. Gwynn (eds.), Catalogue of Irish Manuscripts in the Library of Trinity College Dublin (Dublin 1921).</bibl>
+<bibl id="H" n="2">Dublin, Trinity College Library, MS 1337 olim H. 3. 18, 749&ndash;754.</bibl>
+<bibl n="3">Oxford, Bodleian Library, Rawl. B 502, 124b50 (text in Appendix A).</bibl>
+<bibl n="4">Bruxelles, Biblioth&egrave;que Royale, MS 4641, p.18) (text in Appendix B).</bibl>
+</listBibl>
+<listBibl>
+<head>Editions</head>
+<bibl n="1">Kuno Meyer, Fingal R&oacute;n&aacute;in. How R&oacute;n&aacute;in slew his son, Revue Celtique 13 (1892) 368&ndash;397. Text from Book of Leinster p. 271, with readings of MS 1337 (olim H. 3. 18), p. 749, and transl.</bibl>
+</listBibl>
+<listBibl>
+<head>Translations</head>
+<bibl n="1">Kuno Meyer, Fingal R&oacute;n&aacute;in. How R&oacute;n&aacute;in slew his son, Revue Celtique 13 (1892) 368&ndash;397. Text from Book of Leinster p. 271, with readings of H. 3. 18, p. 749, and transl.</bibl>
+<bibl n="2">Rudolf Thurneysen, Sagen aus dem alten Irland, Berlin 1901 [Ronans Sohnesmord]. repr. Leipzig und Weimar 1984; repr. as 'Keltische Sagen aus dem alten Irland', Wiesbaden 1987. [German]</bibl>
+<bibl n="3">David Greene &amp; Frank O'Connor, In: A golden treasury of Irish poetry, A.D. 600 to 1200. London [etc.] Macmillan 1967: Is &uacute;ar gaeth (20. R&oacute;n&aacute;ns lament).</bibl>
+</listBibl>
+<listBibl>
+<head>Select bibliography</head>
+<bibl n="1">David Greeene, In: Myles Dillon (ed.), Irish Sagas, Stationery Office 1959: pp. 167&ndash;181. (Thomas Davis Lectures, 1955). Republ. Cork, Mercier, 1968 (repr. 1970).</bibl>
+<bibl n="2">Thomas Charles-Edwards, Honour and status in some Irish and Welsh prose tales, &Eacute;riu 29 (1978) 123&ndash;144.</bibl>
+<bibl n="3">David N. Dumville, 'The conclusion of R&oacute;n&aacute;in', Studia Celtica 14&ndash;15 (1979&ndash;1980) 71&ndash;73.</bibl>
+<bibl n="4">Tom&aacute;s &Oacute; Cathasaigh, Varia III: 'The Trial of Mael Fothartaig', &Eacute;riu 36 (1985) 177&ndash;180.</bibl>
+<bibl n="5">Tom&aacute;s &Oacute; Cathasaigh, 'The Rhetoric of Fingal R&oacute;n&aacute;in', Celtica 17 (1985) 123&ndash;144.</bibl>
+<bibl n="6">Erich Poppe, 'A Note on the Jester in Fingal R&oacute;n&aacute;in', Studia Hibernica 27 (1993) 145&ndash;154.</bibl>
+<bibl n="7">Barbara Hillers, 'The Irish historical romance: a new development?', Proceedings of the Harvard Celtic Colloquium 11, (1993) 15&ndash;25.</bibl>
+<bibl n="8">Erich Poppe, 'Deception and Self-Deception in Fingal R&oacute;n&aacute;in', &Eacute;riu 47 (1996) 137&ndash;151.</bibl>
+<bibl n="9">Sheila Boll, 'Seduction, Vengeance, and Frustration in Fingal R&oacute;n&aacute;in: The Role of Foster-Kin in Structuring the Narrative', Cambrian Medieval Celtic Studies 47 (Summer 2004) 1&ndash;16.</bibl>
+<bibl n="10">Kaarina Hollo, 'Fingal R&oacute;n&aacute;in: The Medieval Irish Text as Argumentative Space', in: C&iacute;n Chille C&uacute;ile: Texts, Saints and Places. Essays in Honour of P&aacute;draig &Oacute; Riain. Edited by John Carey, M&aacute;ire Herbert and Kevin Murray (Aberystwyth 2004) 141&ndash;149.</bibl>
+<bibl n="11">J&uuml;rgen Uhlich, 'Some Textual Problems in R&oacute;n&aacute;n's Lament I: Two Quatrains Concerning Echaid's Daughter (Fingal R&oacute;n&aacute;in Lines 180&ndash;7)', &Eacute;riu 56 (2006) 13&ndash;62.</bibl>
+<bibl n="12">U&aacute;it&eacute;ar Mac Gearailt, 'The making of <hi rend="ital">Fingal R&oacute;n&aacute;in</hi>', Studia Hibernica 34 (2006&ndash;2007) 63&ndash;84.</bibl>
+</listBibl>
+<listBibl>
+<head>The edition used in the digital edition</head>
+<biblFull>
+<titleStmt>
+<title level="m">Fingal R&oacute;n&aacute;in and other stories</title>
+<editor>David Greene</editor>
+</titleStmt>
+<editionStmt>
+<edition>First edition</edition>
+</editionStmt>
+<extent>One volume. vi + 89 pp. Page iii Contents, pp v&ndash;vi Editor's Preface, pp 1&ndash;2 Introduction, pp 3&ndash;12 Text, 57&ndash;85 Vocabulary, 86&ndash;87 Names of persons and Animals, 88 Names of Places and Peoples.</extent>
+<publicationStmt>
+<publisher>Dublin Institute for Advanced Studies</publisher>
+<pubPlace>Dublin</pubPlace>
+<date>First published 1955</date>
+<date>Reprinted 1975, 1993</date>
+</publicationStmt>
+<seriesStmt>
+<title level="s">Mediaeval and Modern Irish Series</title>
+<idno type="volume">16</idno>
+</seriesStmt>
+</biblFull>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>CELT: Corpus of Electronic Texts</p>
+</projectDesc>
+<samplingDecl>
+<p>The present text represents pages 3&ndash;12 of the volume.</p>
+</samplingDecl>
+<editorialDecl>
+<correction status="medium">
+<p>Text has been checked and proofread twice.</p>
+</correction>
+<normalization>
+<p>The electronic text represents the edited text.</p>
+</normalization>
+<quotation>
+<p>Direct speech is not marked in the printed edition.</p>
+</quotation>
+<hyphenation>
+<p>Hyphens have been inserted after mutated words with h- in anlaut and after nasalisation. When a hyphenated word (hard or soft) crosses a page-break, the page-break is marked after the completion of the hyphenated word. Hyphens before line-breaks have been eliminated, with the words written in full before each line-break.</p>
+<p>Macrons have been replaced with fadas, where necessary.</p>
+</hyphenation>
+<interpretation>
+<p>Personal names and place names have been tagged.</p>
+</interpretation>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>By (an) unknown Irish monastic author(s). The story belongs to the Old and Middle Irish period.
+<dateRange from="700" to="1100" exact="none">c.700&ndash;1100?</dateRange></creation>
+<langUsage>
+<language id="ga">Text is in Middle Irish.</language>
+<language id="la">Part of the appendix is in Latin.</language>
+<language id="en">Notes are in English.</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>saga</term>
+<term>prose</term>
+<term>poetry</term>
+<term>medieval</term>
+<term>Kings Cycle</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2013-05-07</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Additions to header made.</item>
+</change>
+<change>
+<date>2011-07-26</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Header modified; file updated.</item>
+</change>
+<change>
+<date>2010-04-16</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Conversion script run; header updated; new wordcount made; file parsed.</item>
+</change>
+<change>
+<date>2008-10-05</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Header updated; keywords added; file validated.</item>
+</change>
+<change>
+<date>2008-07-25</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Value of div0 "type" attribute modified, content of 'langUsage' checked; minor modifications made to header.</item>
+</change>
+<change>
+<date>2006-06-15</date>
+<respStmt>
+<name>Benjamin Hazard</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Minor corrections made to text; file reparsed.</item>
+</change>
+<change>
+<date>2005-08-25</date>
+<respStmt>
+<name>Julianne Nyhan</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Normalised language codes and edited langUsage for XML conversion</item>
+</change>
+<change>
+<date>2005-08-04T15:55:40+0100</date>
+<respStmt>
+<name>Peter Flynn</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Converted to XML</item>
+</change>
+<change>
+<date>2000-09-21</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Text parsed using GNU Emacs.</item>
+</change>
+<change>
+<date>2000-08-29</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Header created; content markup applied.</item>
+</change>
+<change>
+<date>1996-10-04</date>
+<respStmt>
+<name>Mavis Cournane</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Text parsed.</item>
+</change>
+<change>
+<date>1996-08-29</date>
+<respStmt>
+<name id="AM">Audrey Murphy</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Structural markup added.</item>
+</change>
+<change>
+<date>1996-08-20</date>
+<respStmt>
+<name>Audrey Murphy</name>
+<resp>ed.</resp>
+</respStmt>
+<item>First proofing.</item>
+</change>
+<change>
+<date>?</date>
+<respStmt>
+<name>Desmond Durkin (TITUS Project)</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Text keyed in.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text n="G302011">
+<body>
+<div0 type="saga" lang="ga">
+<div1 type="text">
+<pb n="3"/>
+<head><frn lang="la">Incipit</frn> Fingal R&oacute;n&aacute;in</head>
+<p><lb n="1"/>R&iacute; amra ro bo&iacute; for <on>Laignib</on> .i. <ps><fn>R&oacute;n&aacute;n</fn> mac <fn>Aeda</fn></ps>, &ampersir; <ps><fn>Ethni</fn> ingen<lb n="2"/>
+<fn>Chummascaig</fn> maic <fn>Eogain</fn></ps> do <on>D&emacr;sib Muman</on> na &fdot;arrad. Co<lb n="3"/>
+rruc mac do .i. <ps><fn>Mael Fothartaig</fn> mac <fn>R&oacute;n&aacute;in</fn></ps>, mac is amru<lb n="4"/>
+t&amacr;nic <pn type="province">Laigniu</pn> riam. Is immi con-&emacr;irgitis fri d&amacr;la &ampersir; d&uacute;nada &ampersir;<lb n="5"/>
+cluichi ocus c&eacute;ti &ampersir; tressa ocus d&imacr;bircthi. Ba h&eacute; menmarc a n-ingen<lb n="6"/>
+ocus lenn&aacute;n a n-&oacute;cban uli <ps><fn>Ma&iacute;l Fothartaig</fn></ps>.</p>
+<p><lb n="7"/>Marb a m&aacute;thair. Ba&iacute; <ps><fn>R&oacute;n&aacute;n</fn></ps> cen mna&iacute; fri hed c&iacute;an.</p>
+<p><lb n="8"/>Cid na tucai mna&iacute;? or a mac. Ropad ferr duit ben it<lb n="9"/>
+arrad.</p>
+<p><lb n="10"/></p>
+<p>Ad-fiadar dam-sa, ol <ps><fn>R&oacute;n&aacute;n</fn></ps>, a-t&aacute; ingen ch&oacute;em la h-<ps><fn>Echthaig</fn></ps><lb n="11"/>
+(.i. r&iacute; <pn>D&uacute;in &Sdot;obairche</pn> an-t&uacute;aid).</p>
+<p><lb n="12"/>Nida c&eacute;ili ingine &eacute;m, or in gilla. Nach ben &fdot;orusta do-b&emacr;re?</p>
+<p><lb n="13"/>Ba c&oacute;ru lim duit ol-d&aacute;s scintline ingine.</p>
+<p><lb n="14"/>At-r&oacute;s a thairmesc, co n-dechaid coro fo&iacute; lee a-tuaid ocus<lb n="15"/>
+conda tuc lais i-lle. Do-ch&omacr;id <ps><fn>Mael Fothartaig</fn></ps> immorro co<lb n="16"/>
+mba&iacute; ar cuairt i n-desciurt <pn type="province">Lagen</pn>. Tic-si a-t&uacute;aid.</p>
+<p><lb n="17"/>Cade do mac-su, a <ps><fn>R&omacr;n&amacr;in</fn></ps>? or s&imacr;. Ad-fiadar dam-sa a-t&aacute; mac<lb n="18"/>
+maith lat-so.</p>
+<p><lb n="19"/>A-t&aacute; immorro, ar <ps><fn>R&oacute;n&aacute;n</fn></ps>, mac as dech fil la <pn type="province">Laigniu</pn>.</p>
+<p><lb n="20"/>Co&ndot;garar dam-sa didiu, conom ragba ocus co rragba mo<lb n="21"/>
+muntir ocus mo ma&iacute;ni ocus mo &sdot;&emacr;otu.</p>
+<p><lb n="22"/>Do-raga immorro, ar <ps><fn>R&omacr;n&aacute;n</fn></ps>.</p>
+<p><lb n="23"/>Tic-side iar sin ocus feraid f&amacr;ilti m&oacute;ir frie-si.</p>
+<p><lb n="24"/>Rot bia gr&amacr;dugud, or in gilla. A n-at-chotfam-ni do &Sdot;&emacr;taib &ampersir;<lb n="25"/>
+ma&imacr;nib, is duit ragas ar gr&amacr;dugud <ps><fn>R&omacr;n&amacr;in</fn></ps>.</p>
+<p><lb n="26"/>Is maith lim-sa, or s&imacr;, mo les do d&emacr;nam duit-siu.</p>
+<p><lb n="27"/>&Oacute;cben ch&oacute;em ina h-inaltus-si. Ros fa&imacr;d chuci fo-ch&Emacr;t&oacute;ir dia<lb n="28"/>
+athchungid (.i. Ma&imacr;l &Fdot;othartaig). N&imacr;ro lam ind &oacute;cben a r&amacr;d, n&amacr;<lb n="29"/>
+ros marba <ps><fn>Mael Fothartaig</fn></ps>, coro b&amacr;ig-si frie a cend do b&eacute;im di<lb n="30"/>
+acht mani aprad. Fecht and ba&iacute; <ps><fn>Mael Fothartaig</fn></ps> oc imbirt <pb n="4"/><lb n="31"/>
+&fdot;idchille fria d&amacr; chomalta .i. <ps><fn>Dond</fn></ps> ocus <ps><fn>Congal</fn></ps>, d&amacr; mac a aiti; it<lb n="32"/>
+eat no b&iacute;tis imbi do gr&eacute;s. Gaibid ind &oacute;cben chucu co m-bo&iacute; oc<lb n="33"/>
+imbirt fidchille friu. No thriallad a r&aacute;d; n&imacr; laimed, no imdergtha<lb n="34"/>
+impi. Airigit ind &fdot;ir a n-&iacute;-sin. Luid <ps><fn>Mael Fothartaig</fn></ps> uaidib.</p>
+<p><lb n="35"/>Cid ass &amacr;il duit-siu do r&amacr;d? ar <ps><fn>Congal</fn></ps> frisin mna&imacr;.</p>
+<p><lb n="36"/>N&imacr; dam ass &amacr;il, or s&imacr;, acht do ingin Echach rop &aacute;il Mael<lb n="37"/>
+Fothartaig na cardess.</p>
+<p><lb n="38"/>N&amacr; h-apair, a ben, or <ps><fn>Congal</fn></ps>. Bia marb dianat chluine Mael<lb n="39"/>
+Fothartaig. Do-g&emacr;n-sa do les-su f&eacute;in fris-seom chena, mad &aacute;il<lb n="40"/>
+duit.</p>
+<p><lb n="41"/>At-beir ind &oacute;cben frie-si.</p>
+<p><lb n="42"/>Is maith lem, or si-si, ar ro-l&emacr;ma-su a r&amacr;d ind aithisc acht co<lb n="43"/>
+comr&iacute;s f&emacr;in fris; ocus d&emacr;na mo les-sa iarum friss.</p>
+<p><lb n="44"/>Do-gn&imacr;ther. Foid ind &oacute;cben leis .i. la <ps><fn>Mael Fothartaig</fn></ps>.</p>
+<p><lb n="45"/>Maith tra, or si, n&imacr; dingne-su mo les-sa a fecht-sa. Is ferr<lb n="46"/>
+let in fer ucut t'oenur. Bet marb-so dano lim-sa.</p>
+<p><lb n="47"/>Feccaid in ben laa n-and ic co&iacute; fri <ps><fn>Male Fothartaig</fn></ps>.</p>
+<p><lb n="48"/>Cid da&iacute;, a ben? or s&emacr;.</p>                        
+<p><lb n="49"/>Ingen Echdach oc b&aacute;ig mo marbtha frim, olsi, uair nach
+<lb n="50"/>d&emacr;naim a lles frit-so, co comairsed frit.</p>
+<p><lb n="51"/>D&oacute;ich dano, or s&emacr;. N&imacr; sechbaid duit, or s&emacr;, ro gabais chom-
+<lb n="52"/>mairchi. Dianom bertha-sa, a ben, or s&emacr;, i cualchlais tened fo
+<lb n="53"/>thr&iacute; co ndernad min &ampersir; luaith d&iacute;m, n&iacute; chomraicfind fri mna&imacr;
+<lb n="54"/>R&oacute;n&amacr;in, cid ed nomm ainsed airi sin uile. Regat-sa dano, or s&emacr;,
+<lb n="55"/>for a h-imgab&amacr;il.</p>
+<p><lb n="56"/>Luid iar sin co&imacr;cait laech co m-ba&iacute; hi cr&iacute;ch Alban. Fo-geib<lb n="57"/>
+f&aacute;lti m&oacute;ir la r&imacr;g n-<pn>Alban</pn>. Coin le[s]-side fri m&iacute;la maige, coin fri<lb n="58"/>
+muca, coin fri h-aige. Nos marbtais immorro Do&iacute;l&imacr;n ocus Daithlend<lb n="59"/>
+cach toffond ar &uacute;air ar a m-b&emacr;laib-side .i. d&amacr; choin <ps><fn>Maele<lb n="60"/>
+Fothartaig</fn></ps>. Cach cath ocus cach immarec no maided re r&iacute;g<lb n="61"/>
+Alban, is <ps><fn>Mael Fothartaig</fn></ps> nod &mdot;brissed.</p>
+<p><lb n="62"/>Cid so, a <ps><fn>R&oacute;n&amacr;in</fn></ps>? or <ps><fn>Lagin</fn></ps>. In <corr sic="tusssu">tussu</corr> ruc <ps><fn>Mael Fothartaig</fn></ps><lb n="63"/>
+as t&iacute;r? Beat marb-so lin-ni mani thora a-ridisi.</p>
+<pb n="5"/>
+<p><lb n="64"/>At-fiadar d&omacr;-som &omacr;n; do-thaot-som an-air a-ridisi.</p>
+<p><lb n="65"/>Is ed do-rala an-air, do <pn>D&uacute;n Sobairchi</pn>. Ferthair f&amacr;ilti m&oacute;r<lb n="66"/>
+friss. Is olc duit-siu, a <ps><fn>Mael Fothartaig</fn></ps>, n&amacr;c[h] ru&imacr; fri ar<lb n="67"/>
+n-ingin-ni. Is duit dos-ratsam, ocus n&imacr; dont &Sdot;enaithiuch ucut.</p>
+<p><lb n="68"/>Olc &oacute;n immorro, ol <ps><fn>Mael Fothartaig</fn></ps>.</p>
+<p><lb n="69"/>Do-th&aacute;et <ps><fn>Mael Fothartaig</fn></ps> co <on>Laigniu</on>, ocus ferait f&amacr;ilti m&oacute;ir<lb n="70"/>
+fris. Foid ind &oacute;cben ch&emacr;tna leis.</p>
+<p><lb n="71"/>In fer uait dam-sa, or ingen <ps><fn>Echdach</fn></ps> fria s&emacr;tchi, n&oacute; b&aacute;s fort<lb n="72"/>
+b&emacr;olu!</p>
+<p><lb n="73"/>Ad-f&emacr;t-side do <ps><fn>Mael Fothartaig</fn></ps>.</p>
+<p><lb n="74"/>Cid do-g&Emacr;n friss so, a <ps><fn>Chongail</fn></ps>? or <ps><fn>Mael Fothartaig</fn></ps>.</p>
+<p><lb n="75"/>Tuc a l&omacr;g dam-sa, or <ps><fn>Congal</fn></ps>, ocus ding&emacr;bat in mna&imacr; d&iacute;t<lb n="76"/>
+conn&amacr;chat imr&amacr;idfe etir.</p>
+<p><lb n="77"/>Rot bia mo ech cona &Sdot;rian ocus mo dechelt, or <ps><fn>Mael Fothartaig</fn></ps>.<lb n="78"/></p>
+<p><lb n="79"/>N&imacr; g&emacr;b, ar <ps><fn>Congal</fn></ps>, acht na d&amacr; choin, co rraib mo &Sdot;elb forru<lb n="80"/>
+na-mm&aacute;.</p>
+<p><lb n="81"/>Rot biat, or <ps><fn>Mael Fothartaig</fn></ps>.</p>
+<p><lb n="82"/>Airg-siu &aacute;m i-mb&aacute;rach, ar <ps><fn>Congal</fn></ps>, co m-b&emacr; oc <pn>Buaib A&imacr;fe</pn><lb n="83"/>
+oc taffond.</p>
+<p><lb n="84"/>(<pn>Bae A&imacr;fi</pn> .i. clocha filet la t&oacute;eb int &Sdot;l&eacute;ibe. It cosmaile fri b&uacute;<lb n="85"/>
+finna do ch&eacute;in. For a&imacr;fe int &Sdot;l&emacr;ibe a-taat.)</p>
+<p><lb n="86"/>Eirg-siu didiu co rrabais oc m&imacr;lruth and. Ocus d&aacute;lfaid in ben<lb n="87"/>
+a ss&eacute;tchi chucund, ocus no cureb-sa d&iacute;t.</p>
+<p><lb n="88"/>Ba f&iacute;r s&omacr;n. As-bert a s&emacr;tig frie. Ba fota lee co matain. Do-llotar<lb n="89"/>
+ arna-b&amacr;rach ina n-urd&aacute;il. Co n-accatar <ps><fn>Congal</fn></ps> ar a ciund.</p>
+<p><lb n="90"/>Cia leth so, a dorman? or s&emacr;. N&iacute; maith duit imthecht<lb n="91"/>
+t'oenur, acht mani[d] d&aacute;il fir no th&emacr;ig. Eirgg dot tig, ar s&emacr;,<lb n="92"/>
+ocus beir miscaid.</p>
+<p><lb n="93"/>Luid <ps><fn>Congal</fn></ps> lee coa teg. Co n-accatar cuccu do-ridisi.</p>
+<p><lb n="94"/>Amein, ar <ps><fn>Congal</fn></ps>, is imdergad r&imacr;g <pn>Lagen</pn> iss &aacute;il duit, a<lb n="95"/>
+drochben! Dianat accur-sa do-ridisi, or s&Emacr;, b&Emacr;rat do chend co<pb n="6"/><lb n="96"/>
+<note resp="AM" lang="en">line numbering is incorrect in text</note><lb n="97"/>
+rraib for cuailli ar b&emacr;laib <ps><fn>R&omacr;n&amacr;in</fn></ps>. Drochben dia imdergad i<lb n="98"/>
+claidib ocus muinib a h-o&iacute;nur i n-d&aacute;il gilla.</p>
+<p><lb n="99"/>Ro gab echlaisc di conda fargaib ina tig.</p>
+<p><lb n="100"/>Ro-b&emacr;r-sa dano, or s&imacr;, loim fola it beolu-so.</p>
+<p><lb n="101"/>Tic <ps><fn>R&omacr;n&aacute;n</fn></ps> dia thig. Do-thaet a munter ria <ps><fn>Ma&imacr;l Fothartaig</fn></ps><lb n="102"/>
+is-tech. Anaid-seom a oenur a-mmaig oc m&imacr;lruth.</p>
+<p><lb n="103"/>Cade <ps><fn>Mael Fothartaig</fn></ps> i-nnocht, a <ps><fn>Chongail</fn></ps>? ar <ps><fn>R&omacr;n&aacute;n</fn></ps>.</p>
+<p><lb n="104"/>A-t&aacute; i-mmaig, ar <ps><fn>Congal</fn></ps>.</p>
+<p><lb n="105"/>F&emacr; amai mo mac-sa do bith i-mmaig a oenur ocus a l&iacute;n dia<lb n="106"/>
+tabair mathius.</p>
+<p><lb n="107"/>Ro bodrais sind, or s&imacr;, oc imr&aacute;dud do maic.</p>
+<p><lb n="108"/>Is c&oacute;ir a imr&amacr;dud, ol <ps><fn>R&omacr;n&aacute;n</fn></ps>, ar n&imacr; fil i n-<pn>H&emacr;rinn</pn> mac as &fdot;err do<lb n="109"/>
+r&emacr;ir a athar. Ár is cumma a &eacute;t immon fer &ampersir; immon mna&iacute; oc<lb n="110"/>
+<pn>Áth Cl&iacute;ath</pn> &ampersir; oc <pn>Cl&aacute;r Daire M&oacute;ir</pn> &ampersir; oc <pn>Drochiut Charpri</pn> amail<lb n="111"/>
+bid a anim fessin no beth mom d&aacute;gin-se, corop s&aacute;m dam ocus<lb n="112"/>
+duit-siu, a ben, ar <ps><fn>R&omacr;n&amacr;n</fn></ps>.</p>
+<p><lb n="113"/>N&imacr; &eacute;tann &uacute;am-si &aacute;m, or si-si, in s&amacr;mchaire ass &aacute;il d&oacute; .i.<lb n="114"/>
+comrac frim dot chind-so. Nocha beo-sa iarum oc gab&aacute;il fris<lb n="115"/>
+n&imacr; bas s&imacr;riu. Rom-uc-sa <ps><fn>Congal</fn></ps> chuci co bo thr&iacute; &omacr; matin co<lb n="116"/>
+n-erl&oacute;s ar &eacute;cin assa l&amacr;maib.</p>
+<p><lb n="117"/>Mallacht fort beolu, a drochben, ar <ps><fn>R&oacute;n&aacute;n</fn></ps>. Is g&oacute; duit.</p>
+<p><lb n="118"/>At-chicera didiu comartha airi inn-ossa, or si-ssi. G&emacr;b-sa<lb n="119"/>
+lethrand d&uacute;s in ba cubaid frissa &ndot;g&emacr;ba-som.</p>
+<p><lb n="120"/>Do-gn&imacr;th-som &omacr;n cech n-iadchi do airiuc thuli di-ssi. No<lb n="121"/>
+gaibed-som lethrand, no gaibed-si a lleth n-aill.</p>
+<p><lb n="122"/>Do-lluid-som didiu a-mmaig co m-bo&iacute; oc t&imacr;rad a cholptha<lb n="123"/>
+frisin tenid, ocus <ps><fn>Congal</fn></ps> inna &fdot;arrad. Bu&iacute; in dr&uacute;th <ps><fn>Mael Fothartaig</fn></ps><lb n="124"/>
+ .i. <ps><fn>Mac Glass</fn></ps>, oc clessaib for l&aacute;r in taige. Is and as-bert,<lb n="125"/>
+ar rop &uacute;ar in laa
+<text type="poem">
+<body>
+<lg n="1" type="half of quatrain">
+<lb n="126"/>
+<l>Is &uacute;ar fri clo&iuml; &ndot;gaeithe</l>
+<lb n="127"/>
+<l>do neoch in-gair <pn>B&umacr; A&imacr;fe</pn>.</l>
+</lg>
+</body>
+</text><pb n="7"/><lb n="128"/>
+Cluinti seo, a <ps><fn>R&omacr;n&amacr;in</fn></ps>, or si-si. Gaib sin do-ridisi, or s&imacr;.
+<text type="poem">
+<body>
+<lg n="1" type="quatrain">
+<lb n="129"/>
+<l>Is &uacute;ar fri clo&iuml; &ndot;ga&iacute;the</l>
+<lb n="130"/>
+<l>do neoch in-gair <pn>B&umacr; A&imacr;fe</pn>.</l>
+<lb n="131"/>
+<l>Iss ed ingaire mada, or si-se</l>
+<lb n="132"/>
+<l>cen b&uacute;, cen nech no chara.</l>
+</lg>
+</body>
+</text><lb n="133"/></p>
+<p>(.i. sech n&imacr; r&amacr;nac-sa, n&imacr; thucais-siu na b&uacute; lat.)</p>
+<p><lb n="134"/>Is f&imacr;r s&omacr;n a fecht-sa, ol <ps><fn>R&oacute;n&amacr;n</fn></ps>.</p>
+<p><lb n="135"/>Caur ro ba&iacute; for l&aacute;im <ps><fn>R&oacute;n&amacr;in</fn></ps> .i. <ps><fn>Aed&amacr;n</fn> mac <fn>Fiachnai</fn> L&aacute;ra</ps>.</p>
+<p><lb n="136"/>A <ps><fn>Aed&aacute;n</fn></ps>, or s&emacr;, ga&imacr; i m-<ps><fn>Mael Fothartaig</fn></ps>, ocus riced n&iacute; uait<lb n="137"/>
+dano <ps><fn>Congal</fn></ps>.</p>
+<p><lb n="138"/>&Omacr; ro bo&imacr; a druim friu frisin tenid, nod clanna <ps><fn>Aed&amacr;n</fn></ps> ind<lb n="139"/>
+in ga&imacr;, co rruc a rrindi triit, co tarlai ina &Sdot;uidi. Oc &eacute;irgiu do<lb n="140"/>
+<ps><fn>Chongal</fn></ps> dos-beir <ps><fn>Aed&aacute;n</fn></ps> in &ndot;ga&imacr; ind co tarla tr&iacute;na chride. Ro<lb n="141"/>
+leblai&ndot;g in dr&uacute;th. Dos-l&eacute;ce <ps><fn>Aed&aacute;n</fn></ps> in gae ina diaid co rruc a<lb n="142"/>
+inathar ass.</p>
+<p><lb n="143"/>Is l&oacute;r, a <ps><fn>Aed&aacute;n</fn></ps>, immot-beri forna feraib, or <ps><fn>Mael Fothartaig</fn></ps><lb n="144"/>
+assa &Sdot;uidi.</p>
+<p><lb n="145"/>Sirsan d&uacute;ib &aacute;m, ar <ps><fn>R&oacute;n&amacr;n</fn></ps>, n&amacr; fuarais-[s]iu mna&iacute; do guidi<lb n="146"/>
+acht mo ben-sa.</p>
+<p><lb n="147"/>Is truag in br&eacute;c sin, a <ps><fn>R&omacr;n&aacute;n</fn></ps>, or in gilla, do-ratad immut,<lb n="148"/>
+marbad d'oenmaic cen chinaid. Dar th'ordan-su ocus darsin<lb n="149"/>
+d&aacute;il i tiag-sa .i. d&aacute;l b&aacute;is, n&iacute; m&oacute; mo chin-sa do imr&amacr;dud comraic<lb n="150"/>
+frie ol-daas con-r&imacr;sainn frim m&amacr;thair, acht a-t&aacute; ocom chungid &oacute;<lb n="151"/>
+th&amacr;nic a t&iacute;r-se, conda tuc <ps><fn>Congal</fn></ps> fo thr&iacute; i-ndiu for c&uacute;lu n&amacr;cham<lb n="152"/>
+rosed-sa. N&imacr; bu&iacute; cin a marbtha la <ps><fn>Congal</fn></ps>.</p>
+<p><lb n="153"/>No bered immorro in fiach a inathar &omacr;n dr&umacr;th for irdrochiut.<lb n="154"/>
+ No &fdot;e&ndot;cad a beolu. No thibt&iacute;s ind athig. Mebul la <ps><fn>Mael<lb n="155"/>
+Fothartaig</fn></ps>. Is and as-bert-som
+<text type="poem">
+<body>
+<lg n="1" type="quatrain">
+<lb n="156"/>
+<l>A <ps><fn>Mic Glais</fn></ps></l>
+<lb n="157"/>
+<l>timthais t'inathar inniut,</l>
+<lb n="158"/>
+<l>cid n&amacr; fetar-su n&aacute;ire?</l>
+<lb n="159"/>
+<l>athaig oc g&aacute;ire immut.</l>
+</lg>
+</body>
+</text><pb n="8"/></p>
+<p><lb n="160"/>Marba iarum a triur. Ructha i tech fo leith. Luid <ps><fn>R&omacr;n&aacute;n</fn></ps> co<lb n="161"/>
+mbu&iacute; f&oacute; chind a maic tri laa &ampersir; teora aidche.</p>
+<p><lb n="162"/>Luid immorro <ps><fn>Dond</fn></ps> comalta <ps><fn>Mael Fothartaig</fn></ps>, br&aacute;thair<lb n="163"/>
+<ps><fn>Congaile</fn></ps>, fichit marcach co <pn>D&uacute;n Sobairche</pn>, co tartsat br&eacute;ic im<lb n="164"/>
+<ps><fn>Echdaig</fn></ps> do thuidecht co h-or cr&imacr;che ar cend <ps><fn>Mael Fothartaig</fn></ps> ar<lb n="165"/>
+tabairt a ingini-seom for aithed, co tucsat a chend &ampersir; cend a<lb n="166"/>
+maic ocus a mn&aacute;.</p>
+<p><lb n="167"/>Is and as-bert <ps><fn>R&oacute;n&aacute;n</fn></ps> fo chind a maicc:
+<text type="poem">
+<body>
+<lg n="1" type="quatrain">
+<lb n="168"/>
+<l n="1">Is h-uar fri cl&oacute;&iuml; nga&imacr;the</l>
+<lb n="169"/>
+<l n="2">do neoch in-gair <pn>B&uacute; A&imacr;fe;</pn></l>
+<lb n="170"/>
+<l n="3">iss ed ingaire mada</l>
+<lb n="171"/>
+<l n="4">cen b&umacr;, cen neoch no chara.</l>
+</lg>
+<lg n="2" type="quatrain">
+<lb n="172"/>
+<l n="1">Is &uacute;ar gaeth</l>
+<lb n="173"/>
+<l n="2">i n-dorus tige na llaech;</l>
+<lb n="174"/>
+<l n="3">batar inmaine laoich</l>
+<lb n="175"/>
+<l n="4">b&imacr;tis etrainn ocus ga&imacr;th.</l>
+</lg>
+<lg n="3" type="quatrain">
+<lb n="176"/>
+<l>Cotail, a ingen <ps><fn>Echach</fn></ps>,</l>
+<lb n="177"/>
+<l>is m&oacute;r aichri na ga&iacute;thi;</l>
+<lb n="178"/>
+<l>saeth lim-sa <ps><fn>Mael Fothartaig</fn></ps></l>
+<lb n="179"/>
+<l>do guin i cin mn&amacr; ba&imacr;the.</l>
+</lg>
+<lg n="4" type="quatrain">
+<lb n="180"/>
+<l>Cotail, a ingen <ps><fn>Echach</fn></ps>;</l>
+<lb n="181"/>
+<l>n&iacute; s&aacute;m lim, cen co tola,</l>
+<lb n="182"/>
+<l>aicsin <ps><fn>Mael[e] Fothartaig</fn></ps></l>
+<lb n="183"/>
+<l>inna l&eacute;ni l&amacr;n &fdot;ola.</l>
+</lg>
+<lb n="184"/>
+<sp>
+<speaker>Ingen Echach:</speaker>
+<lg n="5" type="quatrain">
+<l>Mo-nuar, a marb&aacute;in ch&umacr;ili, or si-si</l>
+<lb n="185"/>
+<l>immon-rualaid l&iacute;n s&umacr;le,</l>
+<lb n="186"/>
+<l>a n-do-ring&eacute;nsam do chul</l>
+<lb n="187"/>
+<l>rop s&iacute; do phian iat t'athchur.</l>
+</lg>
+</sp>
+<pb n="9"/>
+<lb n="188"/>
+<sp>
+<speaker><ps><fn>R&omacr;n&amacr;n</fn></ps>:</speaker>
+<lg n="6" type="quatrain">
+<lb n="189"/>
+<l>Cotail, a ingen <ps><fn>Echach</fn></ps>,</l>
+<lb n="190"/>
+<l>n&imacr;dat mera na doene;</l>
+<lb n="191"/>
+<l>cia bro&iacute;na-so do bratt&aacute;n</l>
+<lb n="192"/>
+<l>n&imacr; h&eacute; mo macc&amacr;n cha&iacute;ne.</l>
+</lg>
+</sp>
+</body>
+</text></p>
+<p><lb n="193"/>Is and-sin tr&amacr; t&amacr;nic <ps><fn>Dond</fn></ps> co tarlaic cend a h-athar for a<lb n="194"/>
+brunni-si, &ampersir; cend a mm&aacute;thar &ampersir; cend a derbr&amacr;thar. At-raig<lb n="195"/>
+suas iar sin co tarlaic imma sc&iacute;n co m-bu&iacute; triana druim suas iar<lb n="196"/>
+sin. Is and as-bert <ps><fn>R&oacute;n&aacute;n</fn></ps>.
+<text type="poem">
+<body>
+<lg n="1" type="quatrain">
+<lb n="197"/>
+<l>Ro gab <ps><fn>Eochaid</fn></ps> oenl&emacr;ni</l>
+<lb n="198"/>
+<l>iar &mdot;beith i lleind loborde;</l>
+<lb n="199"/>
+<l>in br&oacute;n&amacr;n fil for <pn>D&uacute;n n-Áis</pn></l>
+<lb n="200"/>
+<l>a-t&aacute; for <pn>D&uacute;n Soborche</pn>.</l>
+</lg>
+<lg n="2" type="quatrain">
+<lb n="201"/>
+<l>Tabraid bi&auml;d, tabraid dig</l>
+<lb n="202"/>
+<l>do choin <ps><fn>Maoile Fothartaig</fn></ps>,</l>
+<lb n="203"/>
+<l>ocus tabrad nech aile</l>
+<lb n="204"/>
+<l>bi&auml;d do choin <ps><fn>Chongaile</fn></ps>.</l>
+</lg>
+<lg n="3" type="quatrain">
+<lb n="205"/>
+<l>Tabraid bi&auml;d, tabraid dig</l>
+<lb n="206"/>
+<l>do choin <ps><fn>Ma&imacr;le Fothertaig</fn></ps>,</l>
+<lb n="207"/>
+<l>c&umacr; fir do-b&eacute;r(e)ad bi&auml;d</l>
+<lb n="208"/>
+<l>do neoch, cid luaig no cri&auml;d.</l>
+</lg>
+<lg n="4" type="quatrain">
+<lb n="209"/>
+<l>Saeth lim c&umacr;rad <name type="hound">Dathlinne</name></l>
+<lb n="210"/>
+<l>flescaib tinne dar toebu;</l>
+<lb n="211"/>
+<l>n&imacr; fil ar n-aithber fuirri</l>
+<lb n="212"/>
+<l>n&iacute; s&imacr; ro rir ar coemu.</l>
+</lg>
+<lg n="5" type="quatrain">
+<lb n="213"/>
+<l><name type="hound">Do&imacr;l&emacr;ne</name></l>
+<lb n="214"/>
+<l>acum-sa fo-rro&imacr;g&emacr;ne;</l>
+<lb n="215"/>
+<l>a cend fo choim c&amacr;ich ar uair</l>
+<lb n="216"/>
+<l>oc cungid neich n&amacr; fog&eacute;be.</l>
+</lg>
+<pb n="6"/>
+<lg n="15" type="quatrain">
+<lb n="217"/>
+<l>Ind &fdot;ir, ind &oacute;&iuml;c, ind eich,</l>
+<lb n="218"/>
+<l>b&iacute;tis im <ps><fn>Mael Fothartaig</fn></ps>,</l>
+<lb n="219"/>
+<l>n&imacr;pt&iacute;s formtig caemnai neich</l>
+<lb n="220"/>
+<l>i m-bethaid a n-airchinnig.</l>
+</lg>
+<lg n="7" type="quatrain">
+<lb n="221"/>
+<l>Ind &fdot;ir, ind &oacute;&iuml;c, ind eich,</l>
+<lb n="222"/>
+<l>b&iacute;tis im <ps><fn>Mael Fothartaig</fn></ps>,</l>
+<lb n="223"/>
+<l>do-gn&iacute;tis cen cosc a-maig</l>
+<lb n="224"/>
+<l>fo-&fdot;ertais graffaind graigig.</l>
+</lg>
+<lg n="8" type="quatrain">
+<lb n="225"/>
+<l>Ind &fdot;ir, ind &oacute;&iuml;c, ind eich</l>
+<lb n="226"/>
+<l>b&iacute;tis im <ps><fn>Mael Fothartaig</fn></ps></l>
+<lb n="227"/>
+<l>batar menci-som uaraib</l>
+<lb n="228"/>
+<l>fo ilaig iar m-bithbuadaib.</l>
+</lg>
+<lg n="9" type="quatrain">
+<lb n="229"/>
+<l>Munter <ps><fn>Mael[e] Fothartaig</fn></ps></l>
+<lb n="230"/>
+<l>cet lim cenpt&iacute;s desruithe;</l>
+<lb n="231"/>
+<l>n&imacr; maith ro gabsat oc fir</l>
+<lb n="232"/>
+<l>do-ficed a n-esbuide.</l>
+</lg>
+<lg n="10" type="quatrain">
+<lb n="233"/>
+<l>Mo mac-sa <ps><fn>Mael Fothartaig</fn></ps></l>
+<lb n="234"/>
+<l>diambo adba fid fata,</l>
+<lb n="235"/>
+<l>n&imacr; scoirtis cen immaire</l>
+<lb n="236"/>
+<l>r&imacr;g n&amacr; r&imacr;gdomna aca.</l>
+</lg>
+<lg n="11" type="quatrain">
+<lb n="237"/>
+<l>Mo mac-sa <ps><fn>Mael Fothartaig</fn></ps></l>
+<lb n="238"/>
+<l>im[me]-r&emacr;id <pn>Albain</pn> oraig,</l>
+<lb n="239"/>
+<l>ba laech etir laechradaib,</l>
+<lb n="240"/>
+<l>im-bered a baind foraib.</l>
+</lg>
+<lg n="12" type="quatrain">
+<lb n="241"/>
+<l>Mo mac-sa <ps><fn>Mael Fothartaig</fn></ps></l>
+<lb n="242"/>
+<l>ba h&emacr; cunnid na cuane,</l>
+<lb n="243"/>
+<l>eo find fota for lassair</l>
+<lb n="244"/>
+<l>ro gab adba co n-uare. </l>
+</lg>
+<trailer>Is uar.</trailer>
+</body>
+</text></p>
+<pb n="11"/>
+<p><lb n="245"/>Iar sin tr&aacute; b&amacr;tar <on>Lagin</on> im <ps><fn>R&omacr;n&amacr;n</fn></ps> ocon ch&amacr;iniud. Ro&iacute;ntir<lb n="246"/>
+<ps><fn>R&omacr;n&amacr;n</fn></ps> dar a ais. Tiagair for tairr <ps><fn>Aed&aacute;in</fn></ps> ocus air-gabthair la da<lb n="247"/>
+mac <ps><fn>Mael[e] Fothartaig</fn></ps> .i. <ps><fn>Aed</fn></ps> ocus <ps><fn>Mael Tuile</fn></ps>. Nod goin int<lb n="248"/>
+<ps><fn>Aed</fn></ps> co n-derna criathar focha de.</p>
+<p><lb n="249"/>Nom l&eacute;icid suas, a &oacute;cu, or s&emacr;, manip mo marbad as &amacr;il d&uacute;ib.</p>
+<p><lb n="250"/>In marb in fer? or s&emacr;.</p>
+<p><text>
+<body>
+<lg n="22" type="quatrain">
+<lb n="251"/>
+<l>Marb immorro, or ind &omacr;ic.</l>
+<lb n="252"/>
+<l>Cia rod marb? or s&emacr;.</l>
+<lb n="253"/>
+<l>Rod marb <ps><fn>Aed</fn></ps>, ar ind &omacr;ic.</l>
+<lb n="254"/>
+<l><ps><fn>Mael Tuile</fn></ps> in rubai? or s&emacr;.</l>
+<lb n="255"/>
+<l>N&amacr;th&oacute;, ar ind &oacute;ic.</l>
+</lg>
+</body>
+</text></p>
+<p><lb n="256"/>N&imacr;ra gona duine co br&aacute;th! or s&emacr;. Buaid &ndot;gaile immorro &ampersir;<lb n="257"/>
+gaiscid don mac rod m-b&iacute;.</p>
+<lb n="258"/>
+<p>Is and as-bert <ps><fn>R&omacr;n&amacr;n</fn></ps>
+<text>
+<body>
+<lg n="23" type="quatrain">
+<lb n="259"/>
+<l>Is m&oacute;r br&iacute;g</l>
+<lb n="260"/>
+<l>do mac aithig guin maic r&iacute;g;</l>
+<lb n="261"/>
+<l>ba mend ina l&oacute; d&aacute;la</l>
+<lb n="262"/>
+<l>d'<ps><fn>Aed&aacute;n</fn></ps> mac <ps><fn>&Fdot;iachnai L&amacr;ra</fn></ps>.</l>
+</lg>
+</body>
+</text></p>
+<p><lb n="263"/>Tucad tr&amacr; iar sin in cocad chucai-seom co dorus in taige.<lb n="264"/>
+Is and as-bert-som
+<text>
+<body>
+<lg n="24" type="quatrain">
+<lb n="265"/>
+<l>[In] cocad-so forsin maig</l>
+<lb n="266"/>
+<l>anim cen <ps><fn>Mael Fothartaig</fn></ps>;</l>
+<lb n="267"/>
+<l>toeb frisin cocad nu&auml;</l>
+<lb n="268"/>
+<l>n&imacr; &fdot;ulai&ndot;g in senru&auml;.</l>
+</lg>
+</body>
+</text></p>
+<p><lb n="269"/>La sodain maidid a loim fola for a beolu ocus at-bail fo<lb n="270"/>
+ch&emacr;t&oacute;ir.</p>
+<p><lb n="271"/>Fingal <ps><fn>R&omacr;n&amacr;in</fn></ps> in sin.</p>
+</div1>
+<div1 type="appendix">
+<head>Appendix A (Rawl. B 502, 124b50)</head>
+<p><lb n="272"/>Mac dano do <ps><fn>R&omacr;n&amacr;n</fn></ps> <ps><fn>Mael Fathardaig</fn></ps>; is eside ro marbad la<lb n="273"/>
+athair tria h-&emacr;t, amal is irdairc, &ampersir; n&imacr; f&amacr;rcaib claind; <frn lang="la">tamen inuenitur<pb n="12"/><lb n="274"/>
+in alio loco habuisse duos filios, id est <ps><fn>Mael Tuile</fn></ps> scilicet &ampersir; <ps><fn>Aed</fn></ps>,<lb n="275"/>
+qui interfectorum(!) patris sui, uidelicet <ps><fn>Aed&amacr;n</fn> filium <fn>Fiacha</fn></ps>, in<lb n="276"/>
+contentione L&amacr;ra interfecit, unde dicitur</frn>
+<text>
+<body>
+<lg n="1" type="quatrain">
+<lb n="277"/>
+<l n="1">Is m&omacr;r gn&imacr;m</l>
+<lb n="278"/>
+<l n="2">do mac aithich guin meic r&imacr;g;</l>
+<lb n="279"/>
+<l n="3">is mend hi llaithiu d&amacr;la</l>
+<lb n="280"/>
+<l n="4"><ps><fn>Aed&amacr;n</fn> mac <fn>Fiachnae</fn> L&amacr;ra</ps>.</l>
+</lg>
+</body>
+</text></p>
+</div1>
+<div1 type="appendix">
+<head>Appendix B (Bruss. 4641, p.18)</head>
+<p><lb n="281"/><ps><fn>Eochaid Iarlaithe</fn></ps> r&iacute; <on>D&aacute;il Araidhe</on> do marbad do chomhailtibh<lb n="282"/>
+<ps><fn>Maoil Fothartaigh</fn> mic <fn>R&oacute;n&aacute;in</fn></ps>. Uair ingen d'<ps><fn>Eochaid Iarlaithe</fn></ps><lb n="283"/>
+ro bh&aacute;oi ag <ps><fn>R&oacute;n&aacute;n</fn></ps>, ag r&iacute; <pn>Laigen</pn>; &oacute;g an ingen, sen an <ps><fn>R&oacute;n&aacute;n</fn></ps>, go<lb n="284"/>
+ttug s&iacute; gr&aacute;dh do mac <ps><fn>R&oacute;n&aacute;in</fn></ps> .i. do <ps><fn>Mhaol Fothartaig</fn></ps>, agus go<lb n="285"/>
+raibh si ga ghuidhe go fada agus ni fhuair uaidh a faomhadh; agus<lb n="286"/>
+&oacute;r n&aacute; f&uacute;air, as eadh dorigne, cumdach a cinn do mhionughadh,<lb n="287"/>
+agus a h-aighidh do sgr&iacute;obadh, agus fuilredh <sic>ma</sic> h-aighidh, agus<lb n="288"/>
+toidheacht d'ionnsoigh <ps><fn>Ron&aacute;in</fn></ps> amhlaidh sin.</p>
+<p><lb n="289"/>Cr&eacute;d sin, a ingen? ar <ps><fn>Ron&aacute;n</fn></ps>.</p>
+<p><lb n="290"/>Do mhac s&uacute;gachsa, ar s&iacute;, <ps><fn>Maol Fothartaig</fn></ps>, dom sh&aacute;rughadh<lb n="291"/>
+agus mo bhrisiodh dh&oacute;, agus comhrac frium.</p>
+<p><lb n="292"/>Marbthar [Maol Fothartaigh] la <ps><fn>Ron&aacute;n</fn></ps> iar sin. Tiaghaid dano<lb n="293"/>
+comhaltadha <ps><fn>Maoil Fothartaigh</fn></ps> iar sin go nuig bail i raibhe<lb n="294"/>
+<ps><fn>Eochuidhe Iarlaithe</fn></ps> agus gairmid leo amach &eacute; &oacute; ch&aacute;ch agus<lb n="295"/>
+marbhaid i gcionta na nerna a ingen. <frn lang="la">Unde <ps><fn>Flaittir</fn></ps> cecinit</frn>:
+<text type="poem">
+<body>
+<lg n="1" type="quatrain">
+<lb n="296"/>
+<l n="1">Indi&uacute; dellioghair lige</l>
+<lb n="297"/>
+<l n="2"><ps><fn>Eochaidh</fn> mic <fn>Fiachach</fn> <an> Lurgan</an></ps>;</l>
+<lb n="298"/>
+<l n="3">i n-&uacute;ir <pn>Cille Coindeire</pn></l>
+<lb n="299"/>
+<l n="4">o gabh roithes a ghulban.</l>
+</lg>
+<lg n="2" type="quatrain">
+<lb n="300"/>
+<l>Ra gabh <ps><fn>Eochaidh</fn></ps> aoncaimse</l>
+<lb n="301"/>
+<l>ina linn leabairthe;</l>
+<lb n="302"/>
+<l>br&oacute;nan fil for Dh&uacute;n</l>
+<lb n="303"/>
+<l>at&aacute; for <pn>D&uacute;n Sobhairche</pn>.</l>
+</lg>
+</body>
+</text></p>
+</div1>
+</div0>
+</body>
+</text>
+</TEI.2>
