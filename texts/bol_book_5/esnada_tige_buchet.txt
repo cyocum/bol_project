@@ -1,58 +1,58 @@
-Esnada Tige Buchet Boí coire fēile la Laigniu, Buchat a ainm. Tech n-oeged fer
-nH-Ērenn a thech in Buchet. Nīro díbdad teni fo a choiriu ō
-ro gab threbad. Ingen do Chathaír Mór mac Feidlimthe, do
-ríg Laigen ina h-ucht .i. Ethni ingen Chathaīr. Dā mac deac
-ar fichit la Cathaīr. Tictis-side do oīgidecht ⁊ do acallaim a
-sethar. Do-meltis oīgidechta fichtib ⁊ trīchtaib. Ba robec leo-som
- ón co mbertis aisceda. Ba menic didiu a timgaire, uair
-do-bered fer díb h-eochu ⁊ in fer eili in seisrig ⁊ fer eili scoī dona
-buaib, coro fāsaigset maic Cathaīr fo deoid, connā fargabsat
-leis acht .vii. mbaī ⁊ tarb, bale i rrabatar na .vii. n-árge. Luid-seom
- iarum dia accoíne fri Cathaír. Senóir díblide side in tan-sin.
+Boí coire fēile la/FUNC Laigniu, Buchat a/FUNC ainm. Tech n-oeged fer
+nH-Ērenn a/FUNC thech in/FUNC Buchet. Nīro díbdad teni fo/FUNC a/FUNC choiriu ō/FUNC
+ro gab threbad. Ingen do/FUNC Chathaír Mór mac Feidlimthe, do/FUNC
+ríg Laigen ina/FUNC h-ucht .i. Ethni ingen Chathaīr. Dā/FUNC mac deac
+ar/FUNC fichit la/FUNC Cathaīr. Tictis-side do/FUNC oīgidecht ⁊/FUNC do/FUNC acallaim a/FUNC
+sethar. Do-meltis oīgidechta fichtib ⁊/FUNC trīchtaib. Ba robec leo-som/FUNC
+ ón co/FUNC mbertis aisceda. Ba menic didiu/FUNC a/FUNC timgaire, uair
+do-bered fer díb/FUNC h-eochu ⁊/FUNC in/FUNC fer eili in/FUNC seisrig ⁊/FUNC fer eili scoī dona/FUNC
+buaib, coro/FUNC fāsaigset maic Cathaīr fo/FUNC deoid, connā/FUNC fargabsat
+leis/FUNC acht/FUNC .vii. mbaī ⁊/FUNC tarb, bale i/FUNC rrabatar na/FUNC .vii. n-árge. Luid-seom
+ iarum/FUNC dia/FUNC accoíne fri/FUNC Cathaír. Senóir díblide side/FUNC in/FUNC tan-sin.
  Et as-bert Buchet:
-A mmo chóir Cathaīr, co torecht ruacbath uas H-Ērenn íath?Ad coimse mo chrod dot chainmacniu;cen chinta fīra fallsigthe fó,ar ba fíu mo brugas-[s]a cach mbrugas cona bēsaib brugad an-bít.Bid anim mór mo dīth do Chathaīr crīch.Macne Chathaīr ro chloīset mo brugas búar
+A/FUNC mmo chóir Cathaīr, co/FUNC torecht ruacbath uas H-Ērenn íath? Ad coimse mo/FUNC chrod dot chainmacniu; cen/FUNC chinta fīra/FUNC fallsigthe fó/FUNC, ar/FUNC ba fíu mo brugas-[s]a cach/FUNC mbrugas cona/FUNC bēsaib brugad an-bít. Bid anim mór mo/FUNC dīth do/FUNC Chathaīr crīch. Macne Chathaīr ro chloīset mo/FUNC brugas búar
 (.i. Ros Rúadbuillech, Crimthand Cétguinech, Dáre Trebanda,
 Lōscán Án, Echaid Airigda, Bressal Enechglas, Fiacha Foltlebor
- fortbia cách.)
-Buchat nī bia feib ro mboí ríamco rrí ailethuaith nād rosset h-uí Feidlimthi Find.Is and-sin fris-rogart Cathaīr a n-as-bert:
-Fír, a Buchat, basa brugaid bíata dám.Buaid do gal, do gart, do gaisced, do gen fāilte fri cach n-óen it midchuairt már;Acht com-messind-se mo maccu, nī dingentais do chride chrád.Nert nī dernaimRith nī rordaimLēim nī rolngaimRodarc ní cían cungnamar.Rīge do-rumalt-sa .l. mbliadan mbúan;Acht con-messind, do-fessind do Buchat a búar.Ním thā-sa cumang duit, a Buchet, acht a aithe.Luid Buchet for teiched uadib assin tír .i. fut na h-aidchi co 
-matin i ngait, co mbaí i Cenannas na ríg a-tuaid. Ocus ba bec
-ind immirgi rucad ann .i. .vii. mbaī ⁊ tarb ocus se-sseom ⁊ a 
-chaillech ⁊ ind ingen .i. Ethni ingen Chathaīr. Bátar i mbothīn
-bic and a-tuaid ⁊ ind ingen oca timthirecht.Buī Cormac matan moch fecht and i Cenannas iar ngabāil
-rīge, co n-accai in n-ingin oc blegon na mbó. A cétblegon i
-llestar for leith, a ndeadblegon i llestar n-aile. Adas cid dano
-oc búain na luachra, ⁊ medón in tuimm luachra lee i n-airbir
-fo leith. Oc tabairt ind usci dano assa ur int srotha issind ara
-lestar, a n-aill assa medón issin lestar n-aile. Ro iarfaig fecht
-and int ī Cormac in n-ingin:
+ fortbia cách/FUNC.)
+Buchat nī/FUNC bia feib ro mboí ríamco rrí ailethuaith nād/FUNC rosset h-uí Feidlimthi Find. Is and-sin/FUNC fris-rogart Cathaīr a/FUNC n-as-bert:
+Fír, a/FUNC Buchat, basa brugaid bíata dám/FUNC. Buaid do/FUNC gal, do/FUNC gart, do/FUNC gaisced, do/FUNC gen fāilte fri/FUNC cach/FUNC n-óen it midchuairt már; Acht/FUNC com-messind-se mo/FUNC maccu, nī/FUNC dingentais do/FUNC chride chrád. Nert nī/FUNC dernaim Rith nī/FUNC rordaim Lēim nī/FUNC rolngaim Rodarc ní/FUNC cían cungnamar. Rīge do-rumalt-sa .l. mbliadan mbúan; Acht/FUNC con-messind, do-fessind do/FUNC Buchat a/FUNC búar. Ním thā-sa cumang duit/FUNC, a/FUNC Buchet, acht/FUNC a/FUNC aithe. Luid Buchet for/FUNC teiched uadib/FUNC assin/FUNC tír .i. fut na/FUNC h-aidchi co/FUNC 
+matin i/FUNC ngait, co/FUNC mbaí i/FUNC Cenannas na/FUNC ríg a-tuaid. Ocus/FUNC ba bec
+ind/FUNC immirgi rucad ann/FUNC .i. .vii. mbaī ⁊/FUNC tarb ocus/FUNC se-sseom/FUNC ⁊/FUNC a/FUNC 
+chaillech ⁊/FUNC ind/FUNC ingen .i. Ethni ingen Chathaīr. Bátar i/FUNC mbothīn
+bic and/FUNC a-tuaid ⁊/FUNC ind/FUNC ingen oca/FUNC timthirecht. Buī Cormac matan moch fecht and/FUNC i/FUNC Cenannas iar/FUNC ngabāil
+rīge, co/FUNC n-accai in/FUNC n-ingin oc/FUNC blegon na mbó. A/FUNC cétblegon i/FUNC
+llestar for/FUNC leith, a/FUNC ndeadblegon i/FUNC llestar n-aile. Adas cid dano/FUNC
+oc/FUNC búain na/FUNC luachra, ⁊/FUNC medón in/FUNC tuimm luachra lee i/FUNC n-airbir
+fo/FUNC leith. Oc/FUNC tabairt ind/FUNC usci dano/FUNC assa/FUNC ur int/FUNC srotha issind ara/FUNC
+lestar, a/FUNC n-aill assa/FUNC medón issin/FUNC lestar n-aile/FUNC. Ro iarfaig fecht
+and/FUNC int/FUNC ī/FUNC Cormac in/FUNC n-ingin:
 
-Cia taí, a ingen? or Cormac.Ingen bachlaig thrúaig sund ūt,
-olsi.Cest, cid ma ndēnai-si in n-usce ⁊ in luachair ⁊ in t-ass do
-chomraind?Fer ro baí i n-airmitin riam, or sī, dia mberar a medón na
-luachra ⁊ in t-iarmblegon, ⁊ dam-sa a n-aill connā raib-seom
-didiu cen airmitin do neoch fo-gēb-sa. Dia fagbaind-se dano
-airmitin bad moo, ro mbiadsom.Is dōchu a fagbáil duit, or Cormac. Cia dia tabar[r] ind
+Cia taí, a/FUNC ingen? or Cormac. Ingen bachlaig thrúaig sund ūt,
+olsi. Cest, cid ma/FUNC ndēnai-si in/FUNC n-usce ⁊/FUNC in/FUNC luachair ⁊/FUNC in/FUNC t-ass do/FUNC
+chomraind? Fer ro baí i/FUNC n-airmitin riam, or sī/FUNC, dia/FUNC mberar a/FUNC medón na/FUNC
+luachra ⁊/FUNC in/FUNC t-iarmblegon, ⁊/FUNC dam-sa/FUNC a/FUNC n-aill connā/FUNC raib-seom
+didiu/FUNC cen/FUNC airmitin do/FUNC neoch/FUNC fo-gēb-sa. Dia/FUNC fagbaind-se dano/FUNC
+airmitin bad moo, ro mbiadsom. Is dōchu a/FUNC fagbáil duit/FUNC, or Cormac. Cia dia/FUNC tabar[r] ind/FUNC
 airmitiu?
-Buchet a ainm, olsi.
+Buchet a/FUNC ainm, ol si/FUNC.
 Buchat Lagen ón? or Cormac.
-Sé immorro, or si-si.
-In tussu ind Eithni Thoebfota? or Cormac.
-Is dóig, or si-si.Iar sin trā do-chuas co Buchat dia cungid. Nīs tarat-side, ar
-nírbo leis acht la h-athair a tabairt. As-berat trā is ar ēcin rucad
-si chuca-som dadaig, ⁊ ní foí leis acht in n-aidchi sin, ⁊ at-rullai
-úad, ⁊ issin n-aidchi sin do-rala ina broinn in Corpri Liphechair
- mac Cormaic (.i. ro char Liphe ⁊ i lLiphechair ro h-alt
-etir a māithre ⁊ a athre). Ocus níra gaib Cormac in mac coro
-luigset Laigin corbo leis. Ocus robo i-si iar sin ba rīgan i fail 
-Chormaic. Nīra gaib immorro can a tindscra do Buchet. Is ed
-do-rat Cormac dó, an ro-siacht a radarc di múr Chenandsa,
-etir boin ⁊ duine ⁊ dam ⁊ ech. Co cenn sechtmaine for-rēimdes
-a mbreith la Buchet dar Rigi fa-dess na rucc d'indilib i crích
-Lagen a-ridisi.Esnad tige Buchet dona dámaib (.i. a gen gáre ass frisna
-dāma): Fo-chen dúib, bid maith dúib linni, bud maith dano
-dūn-ni lib-si.Esnad in choīcat láech cona n-ētaigib corcraib ⁊ cona n-erredaib,
- do airfitiud in tan batis mesca na dáma.Esnad dano in choīcat ingen for lár in tige ina lennaib corcraib
- cona mongaib órbuidib dara n-ētaige ⁊ a n-esnad oc airfitiud
- int sluaig.Esnad in .l. chruitte iar sin co mmatin ac tālgud int slúaig.
-Is de sin a-tá Esnada Tigi Buchat.
+Sé immorro/FUNC, or si-si/FUNC.
+In/FUNC tussu ind/FUNC Eithni Thoebfota? or Cormac.
+Is dóig, or si-si/FUNC. Iar/FUNC sin/FUNC trā/FUNC do-chuas co/FUNC Buchat dia/FUNC cungid. Nīs tarat-side, ar/FUNC
+nírbo leis/FUNC acht/FUNC la/FUNC h-athair a/FUNC tabairt. As-berat trā is ar/FUNC ēcin rucad
+si chuca-som dadaig, ⁊/FUNC ní/FUNC foí leis/FUNC acht/FUNC in/FUNC n-aidchi sin/FUNC, ⁊/FUNC at-rullai
+úad/FUNC, ⁊/FUNC issin n-aidchi sin/FUNC do-rala ina/FUNC broinn in/FUNC Corpri Liphechair
+ mac Cormaic (.i. ro char Liphe ⁊/FUNC i/FUNC lLiphechair ro h-alt
+etir/FUNC a/FUNC māithre ⁊ a/FUNC athre). Ocus/FUNC níra gaib Cormac in/FUNC mac coro/FUNC
+luigset Laigin corbo leis/FUNC. Ocus/FUNC robo i-si iar/FUNC sin/FUNC ba rīgan i/FUNC fail 
+Chormaic. Nīra gaib immorro/FUNC can a/FUNC tindscra do/FUNC Buchet. Is ed/FUNC
+do-rat Cormac dó/FUNC, an ro-siacht a/FUNC radarc di/FUNC múr Chenandsa,
+etir/FUNC boin ⁊/FUNC duine ⁊/FUNC dam ⁊ ech. Co/FUNC cenn sechtmaine for-rēimdes
+a/FUNC mbreith la/FUNC Buchet dar/FUNC Rigi fa-dess na/FUNC rucc d'indilib i/FUNC crích
+Lagen a-ridisi. Esnad tige Buchet dona/FUNC dámaib (.i. a/FUNC gen gáre ass/FUNC frisna/FUNC
+dāma): Fo-chen dúib/FUNC, bid maith dúib/FUNC linni, bud maith dano/FUNC
+dūn-ni lib-si. Esnad in/FUNC choīcat láech cona/FUNC n-ētaigib corcraib ⁊/FUNC cona/FUNC n-erredaib,
+ do/FUNC airfitiud in/FUNC tan batis mesca na/FUNC dáma. Esnad dano/FUNC in/FUNC choīcat ingen for/FUNC lár in/FUNC tige ina/FUNC lennaib corcraib
+ cona/FUNC mongaib órbuidib dara n-ētaige ⁊/FUNC a/FUNC n-esnad oc/FUNC airfitiud
+ int/FUNC sluaig. Esnad in/FUNC .l. chruitte iar/FUNC sin/FUNC co/FUNC mmatin ac/FUNC tālgud int/FUNC slúaig.
+Is de/FUNC sin/FUNC a-tá Esnada Tigi Buchat.
