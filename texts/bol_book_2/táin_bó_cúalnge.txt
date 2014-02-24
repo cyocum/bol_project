@@ -799,16 +799,16 @@ tarthatar in/FUNC dá gilla chétna .i. dá/FUNC mac Nera meic
 Uatair meic Tacáin
 é/FUNC icond auropair sin/FUNC ⁊/FUNC ba tetarrachtain dóib/FUNC cia 
 díb/FUNC no bérad a/FUNC
-chétguine fair ⁊ no benfad a chend de ar tús. 
-Impádar Cú Chulaind friu ⁊
-tópacht a cethri cinnu díb colléic ⁊ tuc cend 
-cech fir díb ara beind
-do bennaib na
-gabla. Ocus léicis Cú Chulaind eocho in 
-fiallaig sin
-i n-agid fer nHérend i frithdruing na sliged cétna 
-⁊ a n-ésse
-airslaicthi ⁊ a méide forderga ⁊ cuirp na curad ic 
+chétguine fair ⁊/FUNC no benfad a/FUNC chend de/FUNC ar/FUNC tús. 
+Impádar Cú Chulaind friu/FUNC ⁊/FUNC
+tópacht a/FUNC cethri cinnu díb/FUNC colléic ⁊/FUNC tuc cend 
+cech/FUNC fir díb/FUNC ara/FUNC beind
+do/FUNC bennaib na/FUNC
+gabla. Ocus/FUNC léicis Cú Chulaind eocho in/FUNC 
+fiallaig sin/FUNC
+i/FUNC n-agid fer nHérend i/FUNC frithdruing na/FUNC sliged cétna 
+⁊/FUNC a/FUNC n-ésse
+airslaicthi ⁊/FUNC a/FUNC méide forderga ⁊/FUNC cuirp na/FUNC curad ic/FUNC 
 tindsaitin a fola sell
 sís for crettaib na carpat. Dáig níbá miad 
 nó níba maiss leiss echrad
