@@ -3215,518 +3215,446 @@ timchell ar/FUNC galaib óenfir, ní/FUNC ricub-sa arís/FUNC in/FUNC fer
 cétna. Conid/FUNC Comrac Fergusa and/FUNC sin/FUNC. Cinnit Ferchon and/FUNC so/FUNC innossa FErchú Longsech ésen do/FUNC Chonnachtaib, baí-side 
 bar gail ⁊/FUNC bar fogail Ailella ⁊/FUNC Medba. Án/FUNC ló 
 ra gabsatar ríge ní/FUNC thánic fecht 'na/FUNC ndúnud 
-ná/FUNC slúagad ná hairc ná écen ná 
-écendál acht ac argain ⁊ ac indred a críchi 
-⁊ a feraind dia n-éis. Is and barrecaibsium
-i n-airthiur Aí in tan sain. Dá fer 
-déc bá ssed a lín. Racúas dó-som 
-óenfer ac fostúd ⁊ ac immfuirech cethri 
-n-ollchóiced Hérend ó lúan taite samna co 
-taite n-imbuilc ac marbad fir ar áth cach laí díb 
-⁊ cét láech cach n-aidchi. Da mídair-sium a 
-chomairle aice ra muntir. Cid bad ferr dún in chomairle 
+ná/FUNC slúagad ná/FUNC hairc ná/FUNC écen ná/FUNC 
+écendál acht ac/FUNC argain ⁊/FUNC ac/FUNC indred a/FUNC críchi 
+⁊/FUNC a/FUNC feraind dia/FUNC n-éis. Is and/FUNC barrecaibsium
+i/FUNC n-airthiur Aí in/FUNC tan/FUNC sain. Dá/FUNC fer 
+déc bá ssed a/FUNC lín. Racúas dó-som/FUNC 
+óenfer ac/FUNC fostúd ⁊/FUNC ac/FUNC immfuirech cethri 
+n-ollchóiced Hérend ó/FUNC lúan taite samna co/FUNC 
+taite n-imbuilc ac/FUNC marbad fir ar/FUNC áth cach/FUNC laí díb/FUNC 
+⁊/FUNC cét láech cach/FUNC n-aidchi. Da/FUNC mídair-sium a/FUNC 
+chomairle aice/FUNC ra/FUNC muntir. Cid bad ferr dún in/FUNC chomairle 
 dagénmais, bar ésium,
-ná dul d'fópairt ind fir út 
-fail ic fostúd ⁊ ac imfuirech cethri 
-n-ollchóiced Hérend ⁊ a chend 
-⁊ a choscor do breith lind d'indsaigid Ailella ⁊ Medba. 
-Cid mór d'olcaib ⁊ d'écóraib daringsem ri 
-hAilill ⁊ ra Meidb, dagébam ar síd fair acht co 
-táeth in fer sain lind. Is hí-sein comairle ba nirt 
-leó-som, ⁊ táncatar rempo go airm i mbaí
-Cú Chulaind, ⁊ and úair 
-tháncatar, ní fír fer ná comlond 
-óenfir ra damsatar dó acht imsáiset na dá 
-feraib déc fóe fa chétóir. Imsóe 
-Cú Chulaind friu-som 'no ⁊ eiscis a dá cend 
-déc díb fá chétóir ⁊ 
-sádis dá lia déc leó i talmain. Acus atbert cend 
-cach fir díb bara lííc ⁊ atbert cend Ferchon 
-Longsig 'no bara lííc.Conid Cinnit
-Ferchon Longsig áit i fargab Ferchú Longsech a 
-chend .i. Cennáit Ferchon.IS and sin ra himráided ac feraib Hérend cia bad 
-chóir do chomruc ⁊ do chomlund ra Coin Culaind ra 
-húair na maitne muche arnabárach. Iss ed ra ráidsetar 
-uile combad é Calatín Dána
-cona secht maccaib fichet ⁊ a úa Glass mac 
-Delga. Is amlaid ra bátar-saide neim ar cach fir díb 
-⁊ neim ar cach arm dá n-armaib, ⁊ ní 
-theilged nech díb urchor n-imraill, ⁊ ní fuil 
-bara fuliged nech díb, manbad marb a chétóir, rabad 
-marb ria cind nómaide. Doragelta comada móra dóib arin 
-comlund ⁊ arin comruc  do
-dénam, ⁊ ra gabsat do láim a 
-dénam ⁊ bad fiadnaisi d'Fergus ra naidmthea sain, 
-⁊ ra fémmid tiachtain taris. Dáig iss ed ra 
-ráidsetar corbo chomlund óenfir leó Calatín 
-Dána cona secht maccaib fichet ⁊ a úa Glass mac 
-Delga, dáig iss ed ra ráidset corbo ball dá ballaib a 
-mac ⁊ corbo irrand dá irrandaib ⁊ combad ra 
-Calatín
-Dána sochraiti a chuirp fadessin.Tánic Fergus reme dochum a phupla ⁊ a muntiri ⁊ 
-rabert a osnad scísi bar aird. Is trúag lind in gním 
-doníther imbárach and, bar Fergus. Garsa gním 
-sain? bar a munter. Cú Chulaind do marbad, bar 
-ésium. Uch! bar íat-som, cia marbas? 
+ná/FUNC dul d'fópairt ind/FUNC fir út 
+fail ic/FUNC fostúd ⁊/FUNC ac/FUNC imfuirech cethri 
+n-ollchóiced Hérend ⁊/FUNC a/FUNC chend 
+⁊/FUNC a/FUNC choscor do/FUNC breith lind d'indsaigid Ailella ⁊/FUNC Medba. 
+Cid mór d'olcaib ⁊/FUNC d'écóraib daringsem ri/FUNC 
+hAilill ⁊/FUNC ra/FUNC Meidb, dagébam ar síd fair acht/FUNC co/FUNC 
+táeth in/FUNC fer sain lind. Is hí-sein/FUNC comairle ba nirt 
+leó-som/FUNC, ⁊/FUNC táncatar rempo/FUNC go/FUNC airm i/FUNC mbaí
+Cú Chulaind, ⁊/FUNC and/FUNC úair/FUNC 
+tháncatar, ní/FUNC fír fer ná/FUNC comlond 
+óenfir ra damsatar dó/FUNC acht/FUNC imsáiset na/FUNC dá/FUNC 
+feraib déc fóe fa/FUNC chétóir. Imsóe 
+Cú Chulaind friu-som/FUNC 'no/FUNC ⁊/FUNC eiscis a/FUNC dá/FUNC cend 
+déc díb/FUNC fá/FUNC chétóir ⁊/FUNC 
+sádis dá/FUNC lia déc leó/FUNC i/FUNC talmain. Acus/FUNC atbert cend 
+cach/FUNC fir díb/FUNC bara lííc ⁊/FUNC atbert cend Ferchon 
+Longsig 'no/FUNC bara lííc. Conid/FUNC Cinnit
+Ferchon Longsig áit i/FUNC fargab Ferchú Longsech a/FUNC 
+chend .i. Cennáit Ferchon. IS and/FUNC sin/FUNC ra himráided ac/FUNC feraib Hérend cia bad 
+chóir do/FUNC chomruc ⁊/FUNC do/FUNC chomlund ra Coin Culaind ra 
+húair na/FUNC maitne muche arnabárach. Iss ed/FUNC ra ráidsetar 
+uile/FUNC combad é/FUNC Calatín Dána
+cona/FUNC secht maccaib fichet ⁊/FUNC a/FUNC úa Glass mac 
+Delga. Is amlaid ra bátar-saide neim ar/FUNC cach/FUNC fir díb/FUNC 
+⁊/FUNC neim ar/FUNC cach/FUNC arm dá/FUNC n-armaib, ⁊/FUNC ní/FUNC 
+theilged nech/FUNC díb/FUNC urchor n-imraill, ⁊/FUNC ní/FUNC fuil 
+bara fuliged nech/FUNC díb/FUNC, manbad marb a/FUNC chétóir, rabad 
+marb ria/FUNC cind nómaide. Doragelta comada móra dóib/FUNC arin/FUNC 
+comlund ⁊/FUNC arin/FUNC comruc do/FUNC
+dénam, ⁊/FUNC ra gabsat do/FUNC láim a/FUNC 
+dénam ⁊/FUNC bad fiadnaisi d'Fergus ra naidmthea sain/FUNC, 
+⁊/FUNC ra/FUNC fémmid tiachtain taris. Dáig iss ed/FUNC ra/FUNC 
+ráidsetar corbo chomlund óenfir leó/FUNC Calatín 
+Dána cona/FUNC secht maccaib fichet ⁊/FUNC a/FUNC úa/FUNC Glass mac 
+Delga, dáig iss ed/FUNC ra ráidset corbo ball dá/FUNC ballaib a/FUNC 
+mac ⁊/FUNC corbo irrand dá/FUNC irrandaib ⁊/FUNC combad ra/FUNC 
+Calatín Dána sochraiti a/FUNC chuirp fadessin/FUNC. Tánic Fergus reme/FUNC dochum a/FUNC phupla ⁊/FUNC a/FUNC muntiri ⁊/FUNC 
+rabert a/FUNC osnad scísi bar aird. Is trúag lind in/FUNC gním 
+doníther imbárach and/FUNC, bar Fergus. Garsa gním 
+sain? bar a/FUNC munter. Cú Chulaind do/FUNC marbad, bar 
+ésium/FUNC. Uch! bar íat-som/FUNC, cia marbas? 
 Calatín Dána, bar
-ésium, cona secht maccaib fichet ⁊ 
-a úa Glass mac Delga. Is amlaid atát neim ar cach fir 
-díb ⁊ neim ar cach arm dá n-armaib, ⁊ 
-ní fuil bara fuliged nech díb, munub marb a 
-chétóir, nába marb ria cind nómaide, ⁊ 
-ní fuil digsed dá fiss dam-sa bad fiadnaisi don 
-chomlund ⁊ don chomroc ⁊ da berad a fiss dam mar da 
+ésium/FUNC, cona/FUNC secht maccaib fichet ⁊/FUNC 
+a/FUNC úa/FUNC Glass mac Delga. Is amlaid atát neim ar/FUNC cach/FUNC fir 
+díb/FUNC ⁊/FUNC neim ar/FUNC cach/FUNC arm dá/FUNC n-armaib, ⁊/FUNC 
+ní/FUNC fuil bara fuliged nech/FUNC díb/FUNC, munub marb a/FUNC 
+chétóir, nába marb ria/FUNC cind nómaide, ⁊/FUNC 
+ní/FUNC fuil digsed dá/FUNC fiss dam-sa/FUNC bad fiadnaisi don/FUNC 
+chomlund ⁊/FUNC don/FUNC chomroc ⁊/FUNC da/FUNC berad a/FUNC fiss dam/FUNC mar da/FUNC 
 mairbfithea Cú Chulaind,
-ná tibrind mo bennachtain 
-⁊ m'eirred. Rachat-sa and, bar Fiachu mac Fir Aba. 
-Dessetar and in n-aidchi sin. Atraacht Calatín Dána co moch 
-arnabárach cona secht maccaib fichet ⁊ a úa 
-Glass mac Delga, ⁊ táncatar rempo co hairm i mbáe 
-Cú Chulaind, ⁊ tánic 'no Fiacho mac Fir Aba. Ocus 
-án úair ránic Calatín co
-airm i mbáe Cú Chulaind, tarlaicset a nnóe 
-ngae fichet fair a chétóir ⁊ ní dechaid 
-urchur n-imruill díb secha. Doringni Cú Chulaind 
-fáebarchless don scíath comdas ralatar uile coa 
-mbolgánaib 'sin scíath. Acht nírb 
-urchur n-imruill dóib-sium sain, nír fulig ⁊ 
-nír forderg gae díb fair-sium. Is and sin barróisc 
-Cú Chulaind in
-claidiub assa intiuch Bodba d'imscothad na n-arm ⁊ 
-d'immétrommugud in scéith fair. I céin ra 
-buí-seom aice-sain, ra ethsat-som chuce ⁊ ra 
-sáidsetar na nóe ndesndurnu fichet i 
-nn-óenfecht ina chend. Da chúrsatar-sun ⁊ ra 
-chrommsatar leó é co tarla a gnúis ⁊ a aged 
-⁊ a einech ra grian ⁊ ra ganem inn átha. Rabert-sun 
-a
-rucht míled bar aird ⁊ a iachtad 
-n-écomlaind connach baí d'Ultaib i mbethaid do neoch 
-donárbo chotlud ná cúala. And-saic dariacht Fiacha mac 
-Fir Aba dá saigid ⁊ atconnairc aní sin, 
-⁊ tánic a ell chondailbi fair, ⁊ 
-barróisc in claideb asa intiuch Bodba ⁊ rabert béim 
-dóib coro scoth a nóe ndesndurnu fichet 
-d'óenbulli díb co
-torchratar uile dara n-aiss ra dichracht ind fedma 
-⁊ in gremma i rrabatar.Túargaib Cú Chulaind a chend ⁊ ra theilg a 
-anáil ⁊ rabert a osnaid
-scísi fair anechtair ⁊ rachonnaic intí ra 
-fóir é. Is teóir i n-éim, a 
-derbchomalta, bar Cú Chulaind. Cid teóir i n-éim 
-duit-siu é,
-níba teóir a n-éim dúnni, 
-dóig ra fuilemm trichait chét i n-as dech clainne Rudraige i 
-ndúnud ⁊ i llongphurt fer nHérend ⁊ rarbérthar uile fa gin gae ⁊ 
-chlaidib, cid bec lat-su in béim ra benas-sa, mad dia festar forund 
-é. Tiur-sa bréthir, bar Cú Chulaind, 
-ó thúargabusa mo chend ⁊ ára thelggius 
-m'anál, acht mana derna badessin
-scél fort, nach nech díb-siút 
-dagéna fadesta. Is and sin imsóe Cú Chulaind friu 
-⁊ ra gab bara slaide ⁊ bara slechtad coros cuir 
-
-úad 'na n-ágib minta ⁊ 'na cethramthanaib fodalta ar 
-fut inn átha sair ⁊ siar. Ra étlá 
-óenfer díb úad i mmunigin a retha i céin ra 
-buí-sium ac díchennad cháich .i. Glas mac Delga. Ocus
-rabert Cú Chulaind sidi friss ⁊ tánic 
-reme timchell pupla Ailella ⁊ Medba, ⁊ ní arnecair 
-úad a ráda acht Fiach! fiach! tráth rabert 
-Cú Chulaind béim dó co tópacht a chend de.Is troit ra báss risin fer út, bar Medb. 
-Gá fíach sút ra imráid, a Ferguis? 
-Nád fetar, bar Fergus, acht meni dlessad 
-fíachu do
-neoch 'sin dúnud ⁊ 'sin longphurt. Is 
-íat ra boí ara ari. Acht atá 
-ní chena, bar Fergus, is fíach fola ⁊ 
-feóla dó-som é. Atiur-sa bréthir chena, bar 
-Fergus, is innossa ra íctha a féich uile i 
-n-óenfecht riss.Darochair Calatín Dána bán cóir sin ra Coin 
-Culaind cona secht
-maccaib fichet ⁊ a úa Glass mac Delga. Conid 
-marthanach ar lár inn átha fóss in chloch 'ma ndernsat 
-a sróengal ⁊ a n-imresón. Inad elta a claideb inti 
-⁊ a nglúni ⁊ a n-ullend ⁊ erlanna a 
-sleg. Conid Fuil Iairn ra Áth Fir Diad aníar ainm inn 
-átha. Is aire atberar Fuil Iairn ris 
-dáig báe fuil dar fáebor and.Conid Comrac Clainne Calatín 
-connice sin.Comrac Fir Dead in soIS and sin ra imráided oc feraib Hérend cia bad 
-chóir do chomlond ⁊ do chomrac ra Coin Culaind ra 
-húair na maitni muchi arnabárach. Iss ed ra ráidsetar 
-uile combad é Fer Diad mac Damáin
-meic Dáre, in mílid mórchalma 
-d'feraib Domnand. Dáig ba cosmail ⁊ ba comadas a 
-comlond ⁊ a comrac. Ac óenmummib darónsat 
-gnímrada gaile ⁊ gascid do foglaim, ac Scáthaig 
-⁊ ac Úathaig ⁊ ac Aífe. Ocus ní 
-baí immarcraid neich díb ac araile acht cless in gae bulga ac 
-Coin Culaind. Cid ed ón ba conganchnessach
-Fer Diad ac comlund ⁊ ac comrac ra láech ar 
-áth 'na agid-side.Is and sin ra faíttea fessa ⁊ techtaireda ar cend 
-Fir Diad. Ra érastar ⁊ ra éittchestar ⁊ 
-ra repestar Fer Diad na techta sin ⁊ ní thánic 
-leó dáig rafitir aní 'ma rabatar dó, do 
-chomlond ⁊ do
-chomrac re charait, re chocle ⁊ re chomalta, re Coin 
-Culaind mac Sualtaim, ⁊ ní thánic leó. Is and 
-sin faítte Medb na drúith ⁊ na glámma 
-⁊ na crúadgressa ar cend Fir Diad ar co 
-nderntaís teóra áera sossaigthe dó ⁊ 
-teóra glámma dícend go tócbaitís 
-teóra bolga bara agid, ail ⁊ anim ⁊ athis, murbud 
-marb a chétóir combad marb
-re cind nómaide, munu thísed. Tánic Fer 
-Diad leó dar cend a enig, dáig ba hussu les-sium a thuttim do 
-gaib gaile ⁊ gascid ⁊ engnama ná a thuttim de 
-gaaib aíre ⁊ écnaig ⁊ imdergtha. Ocus 
-á daríacht, ra fíadaiged ⁊ ra fritháled 
-é ⁊ ra dáled lind soóla sochaín somesc 
-fair gurbo mesc medarchaín é, ⁊ ra gelta comada 
-móra dó
-arin comlond ⁊ arin comrac do dénam .i. carpat 
-cethri secht cumal ⁊ timthacht dá fer déc 
-d'étgud cacha datha ⁊ comméit a feraind de 
-mín Maige hAí gan cháin gan chobach, 
-gan dúnad, gan slúagad  gan 
-écendáil dá mac ⁊ dá úa 
-⁊ dá iarmúa go brunni mbrátha ⁊ 
-betha, ⁊ Findabair d'óenmnaí ⁊ in 
-t-eó óir báe i mbrutt
-Medba fair anúas.Is amlaid ra baí Medb 'gá ráda ⁊ rabert na 
-briathra and ⁊ ra frecair Fer Diad:
-
-
-[M.:]Rat fia lúach mór mbuinne,rat chuit maige is chaille,ra saíre do chlainneá 'ndiu co tí bráth.A Fir Diad meic Damáin,eirggi guin is gabail,'tetha ás cech anáil,cid duit gana gabáilaní gabas cách?[F.D.:]Ní géb-sa gan árachdáig ním láech gan lámach,bud tromm form imbárach,bud fortrén in feidm.Cú dán comainm Culand,is amnas in urrand,ní furusa a fulang,bud tairpech in teidm.[M.:]Rat fíat laích rat láma.noco raga ar dála,sréin ⁊ eich ánadabertatar rit láim.A Fir Diad inn ága,dáig isat duni dána,dam-sa bat fer grádasech cách gan nach cáin.[F.Dead:]Ní rag-sa gan ráthado chluchi na n-átha,méraid co llá mbráthago mbruth is co mbríg.Noco géb ge ésti,gera beth dom résci,gan gréin ⁊ éscila muir ⁊ tír.[M.:]Gá chan duit a fuirech,naisc-siu gorbat buidechfor deiss ríg is ruirech,doragat rat láim.Fuil sund nachat tuilfea,rat fia cach ní chungfea.dáig rafess co mairbfeain fer thic it dáil.[F.D.:]Ní géb gan sé curu,níba ní bas lugu,sul donéor mo mudui mbail i mbíat slúaig.Dánam thorrsed m'ardarc.cinnfet cuncup comnart,co ndernur in comracra Coin Culaind crúaid.[M.:]Cid Domnall ná Charprená Níamán án airgne,gid íat lucht na bairddne,rot fíat-su gid acht.Fonasc latt ar Morand,mad áill latt a chomall,naisc Carpre mín Manand,is naisc ar dá macc.[F.D.:]A Medb co mét mbúafaid,nít chredb caíne núachair,is derb is tú is búachailar Crúachain na clad.Ard glór is art gargnert,domroiched sról santbrecc,tuc dam th'ór is t'argetdáig ro fairgged dam.[M.:]Nach tussu in caur codnachdá tiber delgg ndrolmach?Ó'ndiu co tí domnachníba dál bas sía.A laích blatnig bladmair,cach sét cáem ar talmaindabérthar duit amlaid,is uili rot fía.R.Finnabair na fergga,rígan íarthair Elgga,ar ndíth Chon na Cerdda,a Fir Diad, rot 
-fía.R.Is and sain rasiacht Medb máeth n-áraig bar 
-Fer nDiad im chomlond ⁊ im chomrac ra sessiur curad 
-arnabárach ná im chomlond ⁊ im chomrac ra Coin 
-Culaind a óenur dámbad assu leiss. Rasiacht Fer Diad 
-máeth n-áraig furri-si, nó andar leis, im chur in 
-tsessir chétna imna comadaib ra gellad dó do chomallud 
-riss mad dá
-tóetsad Cú Chulaind leiss.And sain ra gabait a eich d'Fergus ⁊ ra hindled a charpat, 
-⁊ tánic reme co airm i mbaí Cú 
-Chulaind dá innisin dó sain. Firiss
-
-Cú Chulaind fálti riss.  Mo chen 
-do thíchtu, a mo phopa Ferguis, bar Cú Chulaind. 
-Tarissi lim inní inn fálti, a daltáin, bar 
-Fergus,
-acht is dó radechad-sa dá innisin duit 
-intí rotháet do chomlond ⁊ do chomruc rutt re 
-húair na maitne muche imbárach. Clunem-ni latt 
-didiu, bar Cú Chulaind. Do chara féin ⁊ do 
-chocle ⁊ do chomalta, t'fer comchliss ⁊ comgascid 
-⁊ comgníma, Fer Diad mac Damáin meic Dáre, in 
-mílid mórchalma d'feraib Domnand. Attear ar 
-cobais,
-bar Cú Chulaind, ní 'na dáil 
-dúthracmar ar cara do thuidecht. Is aire-sein iarum ale, 
-bar Fergus, ara n-airichlea ⁊ ara n-airelma, dáig 
-ní mar chách conarnecar comlund ⁊ comrac riut for 
-Táin Bó Cúalnge don chur sa Fer Diad mac Damáin 
-meic Dáre. Attú-sa sund ám, bar Cú 
-Chulaind, ac fostud ⁊ ac imfurech cethri 
-n-ollchóiced
-nHérend ó lúan taite samna co 
-tate imbuilg, ⁊ ní rucus traig techid re 
-n-óenfer risin ré sin ⁊ is dóig lim 
-ní mó bérat remi-sium. Acus is samlaid ra 
+ná/FUNC tibrind mo/FUNC bennachtain 
+⁊/FUNC m'eirred. Rachat-sa and/FUNC, bar Fiachu mac Fir Aba. 
+Dessetar and/FUNC in/FUNC n-aidchi sin/FUNC. Atraacht Calatín Dána co/FUNC moch 
+arnabárach cona/FUNC secht maccaib fichet ⁊/FUNC a/FUNC úa/FUNC 
+Glass mac Delga, ⁊/FUNC táncatar rempo/FUNC co/FUNC hairm i/FUNC mbáe 
+Cú Chulaind, ⁊/FUNC tánic 'no/FUNC Fiacho mac Fir Aba. Ocus/FUNC 
+án/FUNC úair ránic Calatín co/FUNC
+airm i/FUNC mbáe Cú Chulaind, tarlaicset a/FUNC nnóe 
+ngae fichet fair a/FUNC chétóir ⁊/FUNC ní/FUNC dechaid 
+urchur n-imruill díb/FUNC secha. Doringni Cú Chulaind 
+fáebarchless don/FUNC scíath comdas ralatar uile/FUNC coa/FUNC 
+mbolgánaib 'sin/FUNC scíath. Acht/FUNC nírb 
+urchur n-imruill dóib-sium/FUNC sain/FUNC, nír fulig ⁊/FUNC 
+nír forderg gae díb/FUNC fair-sium/FUNC. Is and/FUNC sin/FUNC barróisc 
+Cú Chulaind in/FUNC
+claidiub assa/FUNC intiuch Bodba d'imscothad na/FUNC n-arm ⁊/FUNC 
+d'immétrommugud in/FUNC scéith fair/FUNC. I/FUNC céin ra/FUNC 
+buí-seom aice-sain/FUNC, ra/FUNC ethsat-som chuce/FUNC ⁊/FUNC ra 
+sáidsetar na/FUNC nóe ndesndurnu fichet i/FUNC 
+nn-óenfecht ina/FUNC chend. Da/FUNC chúrsatar-sun ⁊/FUNC ra 
+chrommsatar leó/FUNC é/FUNC co/FUNC tarla a/FUNC gnúis ⁊/FUNC a/FUNC aged 
+⁊/FUNC a/FUNC einech ra/FUNC grian ⁊/FUNC ra/FUNC ganem inn/FUNC átha. Rabert-sun 
+a/FUNC rucht míled bar aird ⁊/FUNC a/FUNC iachtad 
+n-écomlaind connach baí d'Ultaib i/FUNC mbethaid do/FUNC neoch/FUNC 
+donárbo chotlud ná/FUNC cúala. And-saic/FUNC dariacht Fiacha mac 
+Fir Aba dá/FUNC saigid ⁊/FUNC atconnairc aní/FUNC sin/FUNC, 
+⁊/FUNC tánic a/FUNC ell chondailbi fair/FUNC, ⁊/FUNC 
+barróisc in/FUNC claideb asa/FUNC intiuch Bodba ⁊/FUNC rabert béim 
+dóib/FUNC coro/FUNC scoth a/FUNC nóe ndesndurnu fichet 
+d'óenbulli díb/FUNC co/FUNC
+torchratar uile/FUNC dara/FUNC n-aiss ra dichracht ind/FUNC fedma 
+⁊/FUNC in/FUNC gremma i/FUNC rrabatar. Túargaib Cú Chulaind a/FUNC chend ⁊/FUNC ra theilg a/FUNC anáil ⁊/FUNC rabert a/FUNC osnaid
+scísi fair anechtair ⁊/FUNC rachonnaic intí/FUNC ra 
+fóir é/FUNC. Is teóir i/FUNC n-éim, a/FUNC 
+derbchomalta, bar Cú Chulaind. Cid teóir i/FUNC n-éim 
+duit-siu/FUNC é/FUNC,
+níba teóir a/FUNC n-éim dúnni, 
+dóig ra fuilemm trichait chét i/FUNC n-as dech clainne Rudraige i/FUNC 
+ndúnud ⁊/FUNC i llongphurt fer nHérend ⁊/FUNC rarbérthar uile/FUNC fa gin gae ⁊/FUNC chlaidib, cid bec lat-su/FUNC in/FUNC béim ra benas-sa, mad dia/FUNC festar forund é/FUNC. Tiur-sa bréthir, bar Cú Chulaind, 
+ó/FUNC thúargabusa mo/FUNC chend ⁊/FUNC ára/FUNC thelggius 
+m'anál, acht/FUNC mana derna badessin
+scél fort/FUNC, nach/FUNC nech/FUNC díb-siút/FUNC 
+dagéna fadesta. Is and/FUNC sin/FUNC imsóe Cú Chulaind friu/FUNC 
+⁊/FUNC ra/FUNC gab bara slaide ⁊/FUNC bara slechtad coros cuir 
+úad/FUNC 'na n-ágib minta ⁊/FUNC 'na cethramthanaib fodalta ar/FUNC 
+fut inn átha sair ⁊/FUNC siar. Ra étlá 
+óenfer díb/FUNC úad/FUNC i/FUNC mmunigin a/FUNC retha i/FUNC céin ra 
+buí-sium ac/FUNC díchennad cháich .i. Glas mac Delga. Ocus/FUNC
+rabert Cú Chulaind sidi friss/FUNC ⁊/FUNC tánic 
+reme/FUNC timchell pupla Ailella ⁊/FUNC Medba, ⁊/FUNC ní/FUNC arnecair 
+úad/FUNC a/FUNC ráda acht/FUNC Fiach! fiach! tráth rabert 
+Cú Chulaind béim dó/FUNC co/FUNC tópacht a/FUNC chend de/FUNC. Is troit ra/FUNC báss risin/FUNC fer út, bar Medb. 
+Gá fíach sút ra imráid, a/FUNC Ferguis? 
+Nád/FUNC fetar, bar Fergus, acht/FUNC meni/FUNC dlessad 
+fíachu do/FUNC
+neoch/FUNC 'sin/FUNC dúnud ⁊/FUNC 'sin/FUNC longphurt. Is 
+íat/FUNC ra/FUNC boí ara/FUNC ari. Acht/FUNC atá 
+ní/FUNC chena, bar Fergus, is fíach fola ⁊/FUNC 
+feóla dó-som/FUNC é/FUNC. Atiur-sa bréthir chena, bar 
+Fergus, is innossa ra íctha a/FUNC féich uile/FUNC i/FUNC 
+n-óenfecht riss/FUNC.  Darochair Calatín Dána bán cóir sin/FUNC ra Coin 
+Culaind cona/FUNC secht
+maccaib fichet ⁊/FUNC a/FUNC úa Glass mac Delga. Conid/FUNC 
+marthanach ar/FUNC lár inn/FUNC átha fóss in/FUNC chloch 'ma ndernsat 
+a/FUNC sróengal ⁊/FUNC a/FUNC n-imresón. Inad elta a/FUNC claideb inti/FUNC 
+⁊/FUNC a/FUNC nglúni ⁊/FUNC a/FUNC n-ullend ⁊/FUNC erlanna a/FUNC 
+sleg. Conid/FUNC Fuil Iairn ra/FUNC Áth Fir Diad aníar ainm inn/FUNC 
+átha. Is aire atberar Fuil Iairn ris/FUNC 
+dáig báe fuil dar fáebor and/FUNC. Conid/FUNC Comrac Clainne Calatín 
+connice sin/FUNC. Comrac Fir Dead in/FUNC so/FUNC IS and/FUNC sin/FUNC ra/FUNC imráided oc/FUNC feraib Hérend cia bad 
+chóir do/FUNC chomlond ⁊/FUNC do/FUNC chomrac ra/FUNC Coin Culaind ra/FUNC 
+húair na/FUNC maitni muchi arnabárach. Iss ed/FUNC ra/FUNC ráidsetar 
+uile/FUNC combad é/FUNC Fer Diad mac Damáin
+meic Dáre, in/FUNC mílid mórchalma 
+d'feraib Domnand. Dáig ba cosmail ⁊/FUNC ba comadas a/FUNC 
+comlond ⁊/FUNC a/FUNC comrac. Ac/FUNC óenmummib darónsat 
+gnímrada gaile ⁊/FUNC gascid do/FUNC foglaim, ac/FUNC Scáthaig 
+⁊/FUNC ac/FUNC Úathaig ⁊/FUNC ac/FUNC Aífe. Ocus/FUNC ní/FUNC 
+baí immarcraid neich díb/FUNC ac/FUNC araile acht/FUNC cless in/FUNC gae bulga ac/FUNC Coin Culaind. Cid ed/FUNC ón ba conganchnessach
+Fer Diad ac/FUNC comlund ⁊/FUNC ac/FUNC comrac ra/FUNC láech ar/FUNC 
+áth 'na/FUNC agid-side. Is and/FUNC sin/FUNC ra/FUNC faíttea fessa/FUNC ⁊/FUNC techtaireda ar/FUNC cend 
+Fir Diad. Ra érastar ⁊/FUNC ra éittchestar ⁊/FUNC 
+ra/FUNC repestar Fer Diad na/FUNC techta sin/FUNC ⁊/FUNC ní/FUNC thánic 
+leó/FUNC dáig rafitir aní/FUNC 'ma/FUNC rabatar dó/FUNC, do/FUNC 
+chomlond ⁊/FUNC do/FUNC
+chomrac re/FUNC charait, re/FUNC chocle ⁊/FUNC re/FUNC chomalta, re/FUNC Coin 
+Culaind mac Sualtaim, ⁊/FUNC ní/FUNC thánic leó/FUNC. Is and/FUNC 
+sin/FUNC faítte Medb na/FUNC drúith ⁊/FUNC na/FUNC glámma 
+⁊/FUNC na/FUNC crúadgressa ar/FUNC cend Fir Diad ar/FUNC co/FUNC 
+nderntaís teóra áera sossaigthe dó/FUNC ⁊/FUNC 
+teóra glámma dícend go/FUNC tócbaitís 
+teóra bolga bara agid, ail ⁊/FUNC anim ⁊/FUNC athis, murbud 
+marb a/FUNC chétóir combad marb
+re/FUNC cind nómaide, munu thísed. Tánic Fer 
+Diad leó/FUNC dar/FUNC cend a/FUNC enig, dáig ba hussu les-sium/FUNC a/FUNC thuttim do/FUNC 
+gaib gaile ⁊/FUNC gascid ⁊/FUNC engnama ná/FUNC a/FUNC thuttim de/FUNC 
+gaaib aíre ⁊/FUNC écnaig ⁊/FUNC imdergtha. Ocus/FUNC 
+á/FUNC daríacht, ra/FUNC fíadaiged ⁊/FUNC ra/FUNC fritháled 
+é/FUNC ⁊/FUNC ra/FUNC dáled lind soóla sochaín somesc 
+fair/FUNC gurbo mesc medarchaín é/FUNC, ⁊/FUNC ra/FUNC gelta comada 
+móra dó/FUNC
+arin/FUNC comlond ⁊/FUNC arin/FUNC comrac do/FUNC dénam .i. carpat 
+cethri secht cumal ⁊/FUNC timthacht dá/FUNC fer déc 
+d'étgud cacha datha ⁊/FUNC comméit a/FUNC feraind de/FUNC 
+mín Maige hAí gan/FUNC cháin gan/FUNC chobach, 
+gan/FUNC dúnad, gan/FUNC slúagad  gan/FUNC 
+écendáil dá/FUNC mac ⁊/FUNC dá/FUNC úa/FUNC 
+⁊/FUNC dá/FUNC iarmúa go/FUNC brunni mbrátha ⁊/FUNC 
+betha, ⁊/FUNC Findabair d'óenmnaí ⁊/FUNC in/FUNC 
+t-eó óir báe i/FUNC mbrutt
+Medba fair/FUNC anúas/FUNC. Is amlaid ra/FUNC baí Medb 'gá ráda ⁊/FUNC rabert na/FUNC briathra and/FUNC ⁊/FUNC ra/FUNC frecair Fer Diad:
+Rat fia lúach mór mbuinne, rat chuit maige is chaille, ra saíre do/FUNC chlainneá 'ndiu co/FUNC tí bráth. A/FUNC Fir Diad meic Damáin, eirggi guin is gabail,'tetha ás/FUNC cech/FUNC anáil, cid duit/FUNC gana gabáilaní gabas cách/FUNC? Ní/FUNC géb-sa gan/FUNC árachdáig ním láech gan/FUNC lámach, bud tromm form/FUNC imbárach, bud fortrén in/FUNC feidm. Cú dán comainm Culand, is amnas in/FUNC urrand, ní/FUNC furusa a/FUNC fulang, bud tairpech in/FUNC teidm.  Rat fíat laích rat láma. noco/FUNC raga ar/FUNC dála, sréin ⁊/FUNC eich ánadabertatar rit láim. A/FUNC Fir Diad inn/FUNC ága, dáig isat duni dána, dam-sa/FUNC bat fer grádasech cách/FUNC gan/FUNC nach/FUNC cáin. Ní/FUNC rag-sa gan/FUNC ráthado chluchi na/FUNC n-átha, méraid co/FUNC llá mbráthago mbruth is co/FUNC mbríg. Noco géb ge ésti, gera beth dom/FUNC résci, gan/FUNC gréin ⁊/FUNC éscila muir ⁊/FUNC tír. Gá chan duit a/FUNC fuirech, naisc-siu gorbat buidechfor deiss ríg is ruirech, doragat rat láim. Fuil sund/FUNC nachat tuilfea, rat fia cach/FUNC ní/FUNC chungfea. dáig rafess co/FUNC mairbfeain fer thic it dáil. Ní/FUNC géb gan/FUNC sé/FUNC curu, níba ní/FUNC bas lugu, sul donéor mo/FUNC mudui mbail i/FUNC mbíat slúaig. Dánam thorrsed m'ardarc. cinnfet cuncup comnart, co/FUNC ndernur in/FUNC comracra Coin Culaind crúaid. Cid Domnall ná/FUNC Charprená Níamán án airgne, gid íat/FUNC lucht na/FUNC bairddne, rot fíat-su gid acht/FUNC. Fonasc latt/FUNC ar/FUNC Morand, mad/FUNC áill latt/FUNC a/FUNC chomall,naisc Carpre mín Manand, is naisc ar/FUNC dá/FUNC macc. A/FUNC Medb co/FUNC mét mbúafaid, nít chredb caíne núachair, is derb is tú/FUNC is búachailar Crúachain na/FUNC clad. Ard glór is art gargnert, domroiched sról santbrecc, tuc dam/FUNC th'ór is t'argetdáig ro/FUNC fairgged dam. Nach/FUNC tussu/FUNC in/FUNC caur codnachdá tiber delgg ndrolmach? Ó'ndiu co/FUNC tí domnachníba dál bas sía. A/FUNC laích blatnig bladmair, cach/FUNC sét cáem ar/FUNC talmaindabérthar duit/FUNC amlaid, is uili/FUNC rot fía. R .Finnabair na/FUNC fergga, rígan íarthair  Elgga, ar/FUNC ndíth Chon na/FUNC Cerdda, a/FUNC Fir Diad, rot fía. R. Is and/FUNC sain/FUNC rasiacht Medb máeth n-áraig bar 
+Fer nDiad im/FUNC chomlond ⁊/FUNC im/FUNC chomrac ra/FUNC sessiur curad 
+arnabárach ná/FUNC im/FUNC chomlond ⁊/FUNC im/FUNC chomrac ra Coin 
+Culaind a/FUNC óenur dámbad assu/FUNC leiss/FUNC. Rasiacht Fer Diad 
+máeth n-áraig furri-si/FUNC, nó/FUNC andar leis/FUNC, im/FUNC chur in/FUNC 
+tsessir chétna imna/FUNC comadaib ra gellad dó/FUNC do/FUNC chomallud 
+riss/FUNC mad dá/FUNC
+tóetsad Cú Chulaind leiss/FUNC. And sain/FUNC ra/FUNC gabait a/FUNC eich d'Fergus ⁊/FUNC ra/FUNC hindled a/FUNC charpat, 
+⁊/FUNC tánic reme/FUNC co/FUNC airm i/FUNC mbaí Cú 
+Chulaind dá/FUNC innisin/FUNC dó/FUNC sain/FUNC. Firiss
+Cú Chulaind fálti riss/FUNC.  Mo/FUNC chen 
+do/FUNC thíchtu, a/FUNC mo/FUNC phopa Ferguis, bar Cú Chulaind. 
+Tarissi lim/FUNC inní/FUNC inn/FUNC fálti, a/FUNC daltáin, bar 
+Fergus, acht/FUNC is dó/FUNC radechad-sa dá/FUNC innisin/FUNC duit/FUNC 
+intí/FUNC rotháet do/FUNC chomlond ⁊/FUNC do/FUNC chomruc rutt re/FUNC 
+húair na/FUNC maitne muche imbárach. Clunem-ni latt/FUNC 
+didiu/FUNC, bar Cú Chulaind. Do/FUNC chara féin/FUNC ⁊/FUNC do/FUNC 
+chocle ⁊/FUNC do/FUNC chomalta, t'fer comchliss ⁊/FUNC comgascid 
+⁊/FUNC comgníma, Fer Diad mac Damáin meic Dáre, in/FUNC 
+mílid mórchalma d'feraib Domnand. Attear ar/FUNC 
+cobais, bar Cú Chulaind, ní/FUNC 'na/FUNC dáil 
+dúthracmar ar/FUNC cara do/FUNC thuidecht. Is aire-sein iarum/FUNC ale, 
+bar Fergus, ara/FUNC n-airichlea ⁊/FUNC ara/FUNC n-airelma, dáig 
+ní/FUNC mar chách/FUNC conarnecar comlund ⁊/FUNC comrac riut/FUNC for/FUNC 
+Táin Bó Cúalnge don/FUNC chur sa/FUNC Fer Diad mac Damáin 
+meic Dáre. Attú-sa sund/FUNC ám, bar Cú 
+Chulaind, ac/FUNC fostud ⁊/FUNC ac/FUNC imfurech cethri 
+n-ollchóiced nHérend ó/FUNC lúan taite samna co/FUNC 
+tate imbuilg, ⁊/FUNC ní/FUNC rucus traig techid re/FUNC 
+n-óenfer risin/FUNC ré/FUNC sin/FUNC ⁊/FUNC is dóig lim/FUNC 
+ní/FUNC mó bérat remi-sium/FUNC. Acus/FUNC is samlaid ra/FUNC 
 baí Fergus gá rád 'gá báeglugud 
-⁊ rabert na briathra ⁊ ra frecair Cú Chulaind:
-
-[F.:]A Chú Chulaind, comal nglé,atchíu is mithig duit éirge,atá sund chucut ra feirgFer Diad mac Damáin drechdeirg.[C.C.:]Atú-sa sund, ní seól seng,ac trénastud fer nHérend.Ní rucus for teched traigar apa chomlund óenfir.[F.:]Amnas in fer dalae feirgas luss a chlaidib cródeirg,cnes congna im Fer nDiad na ndrong,ris ní geib cath ná comlond.[C.C.:]Bí tost, ná tacair do scél,a Ferguis na n-arm n-imthrén,dar cach ferand, dar cach fonddam-sa nochon écomlond.[F.:]Amnas in fer, fichtib gal,nochon furusa a thróethad,nert cét 'na churp, calma in mod,nín geib rind, nín tesc fáebor.[C.C.:]Mad dia comairsem bar áth,missi is Fer Diad gascidgnáth.níba é in scarad gan sceó,bud ferggach ar fáebargleó.[F.:]Rapad ferr lem andá lúag,a Chú Chulaind chlaidebrúad.combad tú raberad saircoscur Fir Diad díummasaig.[C.C.:]Atiur-sa bréthir co mbáiggen com maith-se oc immarbáig.is missi búadaigfes debar mac nDamáin meic Dáre.[F.:]Is mé targlaim na slúagu sair,lúag mo sáraigthe d'Ultaib,lim tháncatar á tíriba curaid, a cathmílid.[C.C.:]Munbud Chonchobor 'na chess,rápad chrúaid in comadchess,ní thánic Medb Maige in Scáilturus ríam bad mó 
-congáir.[F.:]Ra fail gním is mó bard láim,gleó ra Fer nDiad mac nDamáin.Arm cruaid catut cardda raindbíd acut, a Chú 
-Chulaind.A.Tánic Fergus reme dochum ndúnaid ⁊ 
-longphuirt. Luid Fer Diad dochum a pupla ⁊ a muntiri ⁊ 
-rachúaid dóib máeth n-áraig
-do tharrachtain do Meidb fair im chomlond ⁊ im chomrac 
-ra sessiur curad arnabárach ná im chomlund ⁊ im 
-chomrac ra Coin Culaind a óenur diambad assu leiss. Dachúaid 
-dóib 'no máeth n-áraig do tharrachtain dó-som 
-for Meidb im chuir in tsessir churad
-
-
-chétna imna comadaib ra gellad dó do chomallad riss mad 
-dá
-táetsad Cú Chulaind leiss.Nírdar subaig sámaig sobbrónaig 
-somenmnaig lucht puible Fir Diad in n-aidhchi sin  acht rapsat dubaig dobbrónaig domenmnaig, dóig 
-rafetatar airm condricfaitis na dá curaid ⁊ na dá 
-chliathbernaid chét co táetsad cechtar díb and 
-nó co táetsaitís a
-ndís, ⁊ dám nechtar díb, 
-dóig leó-som gombad é a tigerna féin. 
-Dáig níba réid comlond nó comrac ra Coin Culaind 
-for Táin Bó Cúalnge.Ra chotail Fer Diad tossach na haidchi co rothromm, ⁊ á 
-thánic deired na haidchi rachúaid a chotlud úad 
-⁊ raluid a mesci de.
-Ocus da baí ceist in chomlaind ⁊ in chomraic 
-fair, ⁊ ra gab láim ara araid ara ngabad a eocho 
-⁊ ara n-indled a charpat. Ra gab in t-ara 'gá imthairmesc 
-imme.Rapad ferr dúib anad iná dul and 
-sin, ar se in gilla. Bí tost dín, a gillai, 
-ar Fer Diad. Ocus is samlaid ra boí 'gá rád ⁊ 
-rabert na bríathra and ⁊ ra frecair in gilla:
-
-
-Tiagam issin dáil-seado chosnam ind fir-seago rrísem in n-áth-sa,áth fors ngéra in Badb.I comdáil Con Culaind,dá guin tre chreitt cumainggo rruca thrít urraindcorop de bus marb.Rapad ferr dúib anad,níba mín far magar,biaid nech diamba galar,bar scarad bud snéid.Techt i ndáil ailt Ulad,is dál dia mbia pudar,is fata bas chuman,mairg ragas in réim.Ní cóir ana rádi,ní hopair niad náre,ní dlegar dín ále,ní anfam fad dáig.Bí tost dín, a gillai.Bid calma ár síst sinni,ferr teinni ná timmi,tiagam isin dáil.Ra gabait a eich Fir Diad ⁊ ra indled a charpat ⁊ 
-tánic reme co
-áth in chomraic, ⁊ ní thánic 
-lá cona lánsoilsi dó and itir. Maith a 
-gillai, bar Fer Diad, scar dam fortcha ⁊ forgemen mo 
-charpait fóm and so coro tholiur mo thromthairthim súain 
-⁊ chotulta and so, dáig níra chotlus deired na 
-haidchi ra ceist in chomlaind ⁊ in chomraic. Ra scoir in gilla 
-na eich. Ra díscuir in carpat fóe.
-Toilis a thromthairthim cotulta fair.Imthúsa Con Culaind sunda innossa: ní erracht-side itir co 
-tánic láa cona lánsoilse dó dáig 
-ná hapraitis fir Hérend is ecla nó is úamun 
-dobérad fair mad dá n-éirged. Ocus ó 
-thánic láa cona lánsolsi, ra gab láim 
-ara araid ara ngabad a eocho ⁊ ara 
-n-indled a charpat.
-Maith a gillai, bar Cú Chulaind, geib ar 
-n-eich dún ⁊ innill ar carpat dáig is 
-mochérgech in láech ra dáil 'nar ndáil, Fer 
-Diad mac Damáin meic Dáre. Is gabtha na eich, iss 
-innilti in carpat. Cind-siu and ⁊ ní tár dot 
-gasciud.Is and sin cininis in cur cetach clessamnach cathbúadach 
-claidebderg,
-Cú Chulaind mac Sualtaim, ina charpat. Gura 
-gáirsetar imme boccánaig ⁊ bánanaig ⁊ 
-geniti glinne ⁊ demna aeóir, dáig dabertis 
-Túatha Dé Danand a ngáriud immi-sium combad 
-móti a gráin ⁊ a ecla ⁊ a urúad 
-⁊ a urúamain in cach cath ⁊ in cach cathroí, 
-in cach comlund ⁊ in cach comruc i téiged.Nírbo chian d'araid Fir Diad co cúala 
-inní in fúaim ⁊ an fothram ⁊ 
-in fidrén ⁊ in toirm ⁊ in torann ⁊ 
- in sestanib ⁊ in sésilbi .i. 
-sceldgur na scíath cliss ⁊ slicrech na sleg ⁊ 
-glondbéimnech na claideb ⁊ bressimnech in chathbarr 
-⁊ drongar na lúrigi ⁊ imchommilt na n-arm, 
-dechraidecht na cless, téteinmnech na tét ⁊ 
-núallgrith
-na roth ⁊ culgaire in charpait ⁊ basschaire 
-na n-ech ⁊ trommchoblach in churad ⁊ in chathmíled 
-dochum inn átha dá saigid.Tánic in gilla ⁊ forromair a láim fora thigerna. 
-Maith a Fir
-
-Diad, bar in gilla, comérig ⁊ atáthar sund 
-chucut dochum inn átha.
-Ocus rabert in gilla na briathra and:
-
-Atchlunim cul carpaitra cuing n-álaind n-argait,is fúath fir co forbairtás droich carpait chrúaid.Dar Bregross, dar Braine,fochengat in slige,sech bun Baile in Bileis búadach a mbúaid.Is cú airgdech aiges,is carptech glan geibes,is seboc sáer slaidessa eocho fadess.Is cródatta in cua,is demin donrua,rafess, níba tua,dobeir dún in tress.Mairg bías isin tulaigar cind in chon cubaid,barrarngert-sa ánuraidticfad giped chuin.Cú na hEmna Macha,cú co ndeilb cach datha,cú crichi, cú catha,dochlunim, rar 
-cluin.At.Maith a gillai, bar Fer Diad, gá fáth ma ra 
-molais in fer sain
-ó thánac ót tig? 
-Ocus is súail nach fatha conais dait a romét ros molais, 
-⁊ barairngert Ailill ⁊ Medb dam-sa go táetsad 
-in fer sain lemm, ⁊ dáig is dar cend lúage 
-lochērthair lem-sa co llúath é ⁊ is mithig in 
-chobair. Ocus rabert na briathra and ⁊ ra frecair
-in gilla:
-
-Is mithig in chabair,bí tost dín, nach mbladaig,nárbu gním ar codaildáig ní bráth dar brúach.Má 'tchí churaid Cúalngeco n-adabraib úalle,dáig is dar cend lúagelochērthair co llúath.Má 'tchím curaid Cúalngeco n-adabraib úalle,ní 'r teiched téit úanneacht is cucaind tic.Reithid is ní romall,gid rogáeth ní rogand,mar usci d'forallná mar thoraind tricc.Súail nach fotha conaisa romét ras molaiss,gá fáth 'ma ra thogaisó thánac ót tig?Iss innossa thócbait,atát acá fúacairt,ní thecat dá fúapairtacht mad athig 
-mith.M.Nírbo chían d'araid Fir Diad dia mboí and co facca 
-ní, in carpat
-caín cúicrind cethirrind go llúth go 
-llúais go lángliccus, go pupaill úanide, go creit 
+⁊/FUNC rabert na/FUNC briathra ⁊/FUNC ra/FUNC frecair Cú Chulaind:
+A/FUNC Chú Chulaind, comal nglé,atchíu is mithig duit/FUNC éirge, atá sund/FUNC chucut ra/FUNC feirg Fer Diad mac Damáin drechdeirg. Atú-sa sund/FUNC, ní/FUNC seól seng, ac/FUNC trénastud fer nHérend. Ní/FUNC rucus for/FUNC teched traigar apa chomlund óenfir. Amnas in/FUNC fer dalae feirgas luss a/FUNC chlaidib cródeirg, cnes congna im/FUNC Fer nDiad na/FUNC ndrong, ris ní/FUNC geib cath ná/FUNC comlond. Bí tost, ná/FUNC tacair do/FUNC scél, a/FUNC Ferguis na/FUNC n-arm n-imthrén, dar/FUNC cach/FUNC ferand, dar/FUNC cach/FUNC fonddam-sa nochon écomlond. Amnas in/FUNC fer, fichtib gal, nochon furusa a/FUNC thróethad, nert cét 'na/FUNC churp, calma in/FUNC mod, nín geib rind, nín tesc fáebor. Mad dia/FUNC comairsem bar áth, missi/FUNC is Fer Diad gascidgnáth. níba é/FUNC in/FUNC scarad gan/FUNC sceó, bud ferggach ar/FUNC fáebarg leó/FUNC. Rapad ferr lem/FUNC andá lúag, a/FUNC Chú Chulaind chlaidebrúad. combad tú/FUNC raberad saircoscur Fir Diad díummasaig. Atiur-sa bréthir co/FUNC mbáiggen com maith-se oc/FUNC immarbáig. is missi/FUNC búadaigfes debar mac nDamáin meic Dáre. Is mé/FUNC targlaim na/FUNC slúagu sair, lúag mo/FUNC sáraigthe d'Ultaib, lim/FUNC tháncatar á/FUNC tíriba curaid, a/FUNC cathmílid. Munbud Chonchobor 'na/FUNC chess, rápad chrúaid in/FUNC comadchess, ní/FUNC thánic Medb Maige in/FUNC Scáilturus ríam/FUNC bad mó 
+congáir. Ra fail gním is mó bard láim, gleó ra/FUNC Fer nDiad mac nDamáin. Arm cruaid catut cardda raindbíd acut/FUNC, a/FUNC Chú 
+Chulaind. A. Tánic Fergus reme/FUNC dochum ndúnaid ⁊/FUNC 
+longphuirt. Luid Fer Diad dochum a/FUNC pupla ⁊/FUNC a/FUNC muntiri ⁊/FUNC 
+rachúaid dóib/FUNC máeth n-áraig
+do/FUNC tharrachtain do/FUNC Meidb fair im/FUNC chomlond ⁊/FUNC im/FUNC chomrac 
+ra sessiur curad arnabárach ná/FUNC im/FUNC chomlund ⁊/FUNC im/FUNC 
+chomrac ra/FUNC Coin Culaind a/FUNC óenur diambad assu/FUNC leiss/FUNC. Dachúaid dóib/FUNC 'no/FUNC máeth n-áraig do/FUNC tharrachtain dó-som/FUNC 
+for/FUNC Meidb im/FUNC chuir in/FUNC tsessir churad
+chétna imna/FUNC comadaib ra/FUNC gellad dó/FUNC do/FUNC chomallad riss/FUNC mad dá/FUNC táetsad Cú Chulaind leiss/FUNC. Nírdar subaig sámaig sobbrónaig 
+somenmnaig lucht puible Fir Diad in/FUNC n-aidhchi sin/FUNC acht/FUNC rapsat dubaig dobbrónaig domenmnaig, dóig 
+rafetatar airm condricfaitis na/FUNC dá/FUNC curaid ⁊/FUNC na/FUNC dá 
+chliathbernaid chét co/FUNC táetsad cechtar díb/FUNC and/FUNC 
+nó/FUNC co/FUNC táetsaitís a/FUNC
+ndís, ⁊/FUNC dám nechtar díb/FUNC, 
+dóig leó-som/FUNC gombad é/FUNC a/FUNC tigerna féin/FUNC. 
+Dáig níba réid comlond nó/FUNC comrac ra/FUNC Coin Culaind 
+for/FUNC Táin Bó Cúalnge. Ra chotail Fer Diad tossach na/FUNC haidchi co/FUNC rothromm, ⁊/FUNC á/FUNC 
+thánic deired na/FUNC haidchi rachúaid a/FUNC chotlud úad/FUNC 
+⁊/FUNC raluid a/FUNC mesci de/FUNC.
+Ocus/FUNC da/FUNC baí ceist in/FUNC chomlaind ⁊/FUNC in/FUNC chomraic 
+fair/FUNC, ⁊/FUNC ra gab láim ara/FUNC araid ara/FUNC ngabad a/FUNC eocho 
+⁊/FUNC ara/FUNC n-indled a/FUNC charpat. Ra gab in/FUNC t-ara 'gá imthairmesc 
+imme/FUNC. Rapad ferr dúib/FUNC anad iná/FUNC dul and/FUNC 
+sin/FUNC, ar/FUNC se/FUNC in/FUNC gilla. Bí tost dín/FUNC, a/FUNC gillai, 
+ar/FUNC Fer Diad. Ocus/FUNC is samlaid ra/FUNC boí 'gá rád ⁊/FUNC 
+rabert na/FUNC bríathra and/FUNC ⁊/FUNC ra/FUNC frecair in/FUNC gilla:
+Tiagam issin/FUNC dáil-seado chosnam ind/FUNC fir-seago rrísem in/FUNC n-áth-sa, áth fors ngéra in/FUNC Badb. I/FUNC comdáil Con Culaind, dá/FUNC guin tre chreitt cumainggo rruca thrít urraindcorop de/FUNC bus marb. Rapad ferr dúib/FUNC anad, níba mín far/FUNC magar, biaid nech/FUNC diamba galar, bar scarad bud snéid. Techt i/FUNC ndáil ailt Ulad, is dál dia/FUNC mbia pudar, is fata bas chuman, mairg ragas in/FUNC réim. Ní/FUNC cóir ana/FUNC rádi, ní/FUNC hopair niad náre, ní/FUNC dlegar dín ále, ní/FUNC anfam fad dáig. Bí tost dín/FUNC, a/FUNC gillai. Bid calma ár/FUNC síst sinni, ferr teinni ná/FUNC timmi, tiagam isin/FUNC dáil. Ra gabait a/FUNC eich Fir Diad ⁊/FUNC ra/FUNC indled a/FUNC charpat ⁊/FUNC 
+tánic reme co/FUNC áth in/FUNC chomraic, ⁊/FUNC ní/FUNC thánic 
+lá cona/FUNC lánsoilsi dó/FUNC and/FUNC itir/FUNC. Maith a/FUNC 
+gillai, bar Fer Diad, scar dam/FUNC fortcha ⁊/FUNC forgemen mo/FUNC 
+charpait fóm/FUNC and/FUNC so/FUNC coro/FUNC tholiur mo/FUNC thromthairthim súain ⁊/FUNC chotulta and/FUNC so/FUNC, dáig níra chotlus deired na/FUNC 
+haidchi ra ceist in/FUNC chomlaind ⁊/FUNC in/FUNC chomraic. Ra scoir in/FUNC gilla na/FUNC eich. Ra díscuir in/FUNC carpat fóe.
+Toilis a/FUNC thromthairthim cotulta fair/FUNC. Imthúsa Con Culaind sunda/FUNC innossa: ní/FUNC erracht-side itir/FUNC co/FUNC 
+tánic láa cona/FUNC lánsoilse dó/FUNC dáig 
+ná/FUNC hapraitis fir Hérend is ecla nó/FUNC is úamun 
+dobérad fair mad dá/FUNC n-éirged. Ocus/FUNC ó/FUNC 
+thánic láa cona/FUNC lánsolsi, ra/FUNC gab láim 
+ara/FUNC araid ara/FUNC ngabad a/FUNC eocho ⁊/FUNC ara/FUNC 
+n-indled a/FUNC charpat.
+Maith a/FUNC gillai, bar Cú Chulaind, geib ar/FUNC 
+n-eich dún ⁊/FUNC innill ar/FUNC carpat dáig is 
+mochérgech in/FUNC láech ra/FUNC dáil 'nar ndáil, Fer 
+Diad mac Damáin meic Dáre. Is gabtha na/FUNC eich, iss 
+innilti in/FUNC carpat. Cind-siu and/FUNC ⁊/FUNC ní/FUNC tár dot 
+gasciud. Is and/FUNC sin/FUNC cininis in/FUNC cur cetach clessamnach cathbúadach claidebderg, Cú Chulaind mac Sualtaim, ina/FUNC charpat. Gura 
+gáirsetar imme/FUNC boccánaig ⁊/FUNC bánanaig ⁊/FUNC 
+geniti glinne ⁊/FUNC demna aeóir, dáig dabertis 
+Túatha Dé Danand a/FUNC ngáriud immi-sium/FUNC combad 
+móti a/FUNC gráin ⁊/FUNC a/FUNC ecla ⁊/FUNC a/FUNC urúad 
+⁊/FUNC a/FUNC urúamain in/FUNC cach/FUNC cath ⁊/FUNC in/FUNC cach cathroí, 
+in/FUNC cach/FUNC comlund ⁊/FUNC in/FUNC cach comruc i/FUNC téiged. Nírbo chian d'araid Fir Diad co/FUNC cúala 
+inní/FUNC in/FUNC fúaim ⁊/FUNC an/FUNC fothram ⁊/FUNC 
+in/FUNC fidrén ⁊/FUNC in/FUNC toirm ⁊/FUNC in/FUNC torann ⁊/FUNC 
+ in/FUNC sestanib ⁊/FUNC in/FUNC sésilbi .i. 
+sceldgur na/FUNC scíath cliss ⁊/FUNC slicrech na/FUNC sleg ⁊/FUNC 
+glondbéimnech na/FUNC claideb ⁊/FUNC bressimnech in/FUNC chathbarr 
+⁊/FUNC drongar na/FUNC lúrigi ⁊/FUNC imchommilt na/FUNC n-arm, 
+dechraidecht na/FUNC cless, téteinmnech na/FUNC tét ⁊/FUNC 
+núallgrith na/FUNC roth ⁊/FUNC culgaire in/FUNC charpait ⁊/FUNC basschaire 
+na/FUNC n-ech ⁊/FUNC trommchoblach in/FUNC churad ⁊/FUNC in/FUNC chathmíled 
+dochum inn/FUNC átha dá/FUNC saigid. Tánic in/FUNC gilla ⁊/FUNC forromair a/FUNC láim fora/FUNC thigerna. 
+Maith a/FUNC Fir Diad, bar in/FUNC gilla, comérig ⁊/FUNC atáthar sund/FUNC 
+chucut/FUNC dochum inn/FUNC átha.
+Ocus/FUNC rabert in/FUNC gilla na/FUNC briathra and/FUNC:
+Atchlunim cul carpaitra cuing n-álaind n-argait, is fúath fir co/FUNC forbairtás droich carpait chrúaid. Dar Bregross, dar Braine, fochengat in/FUNC slige, sech/FUNC bun Baile in/FUNC Bileis búadach a/FUNC mbúaid. Is cú airgdech aiges, is carptech glan geibes, is seboc sáer slaidessa eocho fadess. Is cródatta in/FUNC cua, is demin donrua, rafess, níba tua, dobeir dún in/FUNC tress. Mairg bías isin/FUNC tulaigar cind in/FUNC chon cubaid, barrarngert-sa ánuraidticfad giped chuin. Cú na/FUNC hEmna Macha, cú co/FUNC ndeilb cach/FUNC datha, cú/FUNC crichi, cú/FUNC catha,dochlunim, rar cluin. At. Maith a/FUNC gillai, bar Fer Diad, gá fáth ma/FUNC ra/FUNC molais in/FUNC fer sain/FUNC ó/FUNC thánac ót tig? 
+Ocus/FUNC is súail nach/FUNC fatha conais dait a/FUNC romét ros molais, 
+⁊/FUNC barairngert Ailill ⁊/FUNC Medb dam-sa/FUNC go/FUNC táetsad 
+in/FUNC fer sain/FUNC lemm/FUNC, ⁊/FUNC dáig is dar cend lúage 
+lochērthair lem-sa/FUNC co/FUNC llúath é/FUNC ⁊/FUNC is mithig in/FUNC 
+chobair. Ocus/FUNC rabert na/FUNC briathra and/FUNC ⁊/FUNC ra frecair
+in/FUNC gilla:
+Is mithig in/FUNC chabair, bí tost dín, nach/FUNC mbladaig, nárbu gním ar/FUNC codaildáig ní/FUNC bráth dar brúach. Má/FUNC 'tchí churaid Cúalngeco n-adabraib úalle, dáig is dar cend lúagelochērthair co/FUNC llúath. Má/FUNC 'tchím curaid Cúalngeco n-adabraib úalle, ní/FUNC 'r teiched téit úanneacht is cucaind tic. Reithid is ní/FUNC romall, gid rogáeth ní/FUNC rogand, mar usci d'forallná mar thoraind tricc. Súail nach/FUNC fotha conaisa romét ras molaiss, gá/FUNC fáth 'ma ra/FUNC thogaisó thánac ót tig? Iss innossa thócbait, atát acá/FUNC fúacairt, ní/FUNC thecat dá/FUNC fúapairtacht mad athig 
+mith. M. Nírbo chían d'araid Fir Diad dia/FUNC mboí and/FUNC co/FUNC facca 
+ní/FUNC, in/FUNC carpat caín cúicrind cethirrind go/FUNC llúth go/FUNC 
+llúais go/FUNC lángliccus, go/FUNC pupaill úanide, go/FUNC creit 
 chráestana chráestírim chlessaird cholgfata 
-churata, ar dá n-echaib lúatha lémnecha ómair 
+churata, ar/FUNC dá/FUNC n-echaib lúatha lémnecha ómair 
 bulid bedgaig bolgsróin uchtlethna 
 beochridi blénarda basslethna cosscháela forttréna 
-forráncha
-fúa. Ech líath leslethan lugléimnech lebormongach
-fándara chuing don charput. Ech dub dúalach 
-dulbrass druimlethan fán chuing anaill. Ba samalta ra sebacc 
-dá chlaiss i lló chrúadgaíthi ná ra sidi 
-répgaíthi erraig i lló mártai dar muni machairi 
-ná ra tétag n-allaid arna chétglúasacht  do chonaib do chétroí dá ech Con 
-Culaind immon carpat, marbad ar licc áin
-tentidi co crothsat ⁊ co mbertsat in talmain ra tricci 
-na dírma.Acus daríacht Cú Chulaind dochum inn átha. Tarassair 
-Fer Diad barsan leith descertach ind átha. Dessid Cú Chulaind 
-barsan leith túascertach. Firis Fer Diad fáilte fri Coin 
-Culaind. Mo chen do thíchtu, a Chú 
-Chulaind, bar Fer Diad. Tarissi lim
-ní ind fálti mad costráthsa, bar 
-Cú Chulaind, ⁊ indiu ní dénaim tarissi de 
-chena. Acus a Fir Diad. bar Cú Chulaind, rapo 
-chóru dam-sa fálti d'ferthain frit-su ná dait-siu 
-a ferthain rum-sa, dáig is tú daríacht in 
-crích ⁊ in cóiced i tú-sa, ⁊ 
-níra chóir duit-siu tíchtain do chomlund ⁊ do 
-chomrac rim-sa ⁊ rapa chóru dam-sa
-dol do chomlond ⁊ do chomrac rut-sa, dáig is 
-romut-sa atát mo mná-sa ⁊ mo meic ⁊ mo 
-maccáemi, m'eich ⁊ m'echrada, m'albi ⁊ 
-m'éiti ⁊ m'indili. Maith a Chú Chulaind, 
-bar Fer Diad, cid rot tuc-su do chomlund ⁊ do chomrac rim-sa 
-itir? Dáig dá mbámmar ac Scáthaig ⁊ ac 
-Úathaig ⁊ ac Aífi, is tussu ba forbfer 
-frithálma
-dam-sa .i. ra armad mo slega ⁊ ra déirged 
-mo lepaid. Is fír ám sain ale, bar Cú 
-Chulaind. Ar óice ⁊ ar oítidchi donín-sea 
-duit-siu, ⁊ ní hí sin tuarascbáil bá 
-tú-sa indiu itir, acht ní fil barsin bith láech 
-nach dingéb-sa indiu.Acus iss and sin ferais cechtar n-aí díb athchossán n-athgér
-n-athcharatraid ráraile. Acus rabert Fer Diad na 
-briathra and ⁊ ra frecair Cú 
-Chulaind:
-
-Cid rat tuc, a Chúa,do throit ra níaid núa?Bud cróderg da chrúaás análaib th'ech.Mairg tánic do thurus,bud atód ra haires,ricfa a less do legess,mad dá rís do thech.Dodechad ré n-ócaibim torc trethan trétaig,re cathaib, re cétaib,dot chur-su fán lind,d'feirg rut is dot fromadbar comrac cét conarcorop dait bas fogaldo chosnom do chind.Fail sund nech rat méla,is missi rat génadáig is dím facríth.Cronugud a curadi fiadnassi Ulad,gorop cian bas chuman,gorop dóib bus díth.Car cinnas condricfam?In ar collaib cneittfem?Gid leind rarrficfamdo chomrac ar áth?Inn ar claidbib crúadaib,ná 'n ar rennaib rúadaib,dot slaidi rit slúagaibmá thánic a thráth?Re funiud re n-aidchemádit éicen airrthe,comrac dait re Baircheníba bán in gleó.Ulaid acot gairm-siu,ra ngabastar aillsiu,bud olc dóib in taidbsiu,rachthair thairsiu is treó.Datrála i mbeirn mbáegail,tánic cend do sáegail,imbérthair fort fáebair,níba fóill in fáth.Bud mórglonnach bías,condricfa cach días,níba tóesech tríastú á' ndiu go tí bráth.Beir ass dín do robud,is tú is brassi for domon,nít fía lúag ná logud,nídat doss ós duss.Is missi ratfitir,a chride ind eóin ittig,at gilla co ngicgil,gan gasced, gan gus.Dá, mbámmar ac Scáthaiga llus gascid gnáthaig,is aróen imréidmís,imthéigmís cach fích.Tú mo chocne cride,tú m'aiccme, tú m'fine,ní fúar riam bad dile,ba dursan do díth.Romór fácbai th'einechconná dernam deibech,siul gairmes in cailechbiaid do chend ar bir.A Chú Chulaind Cúalnge,rot gab baile is búadre,rot fía cach olc úanne,dáig is dait a 
-chin.C.Maith a Fir Diad, bar Cú Chulaind, nír 
-chóir duit-siu tíachtain do chomlund ⁊ do chomrac 
-rum-sa trí indlach ⁊ etarchossaít Ailella
-⁊ Medba, ⁊ cach óen tánic, 
-ní ruc búaid ná bissech dóib ⁊ 
-darochratar limm-sa. Acus ní mó béras búaid 
-ná, bissech duit-siu ⁊ rafáethaisiu limm.Is amlaid ra baí 'gá rád ⁊ rabert na 
-briathra ⁊ ra gab Fer Diad clostecht fris:
-
-Ná, tair chucum a laích láin,a Fir Diad, a meic Damáin,is messu duit na mbía decontirfe brón sochaide.Ná tair chucum dar fír cert,is lim-sa atá do thiglecht,cid ná breth and dait nammámo gleó-sa ra míleda?Nachat mucled ilar clessgirsat corcra conganchness,inn ingen asa taí oc báig,níba lett, a meic Damáin.Findabair ingea Medba,gé beith d'febas a delba,in ingen gid cáem a cruthnochos tibrea re cétluth.Findabair ingen in ríg,in dráth atberar a fír,sochaide 'ma tart bréic⁊ do loitt do lethéit.Ná briss form lugi gan fess,ná bris chíg, ná briss cairdess,ná briss bréthir báig,ná tair chucum, a laích láin. N. Ra dáled do choícait láechin ingen, ní dál dimbáeth;is limm-sa ra faíd a llecht,ní rucsat úaim acht crandchert.Giara maess menmnach Fer Báethacá mbaí teglach dagláech,gar úar gur furmius a bruth,ra marbus din óenurchur.Srubdaire serb seirge a gal,ba rúnbale na cét mban,mór a bladalt ra baí than,nír anacht ór ná étgad.Dámbad dam ra naidmthea in beinrís tib cend na cóiced cain,nocho dergfaind-se do chlíabtess ná túaid ná thíar ná 
-tair.N.Maith a Fir Diad, bar Cú Chulaind, is 
-aire sin nára chóir duit-siu tíachtain do chomlund 
-⁊ do chomruc rim-sa dáig dá mbámmar ac 
-Scáthaig ⁊ ac Úathaig ⁊ ac Aífe, is 
-aróen imthéigmís cach cath ⁊ cach 
-cathroí, cach comlund ⁊ cach comrac, cach fid ⁊ 
-cach fásach, cach dorcha ⁊ cach díamair. Acus is 
-amlaid ra baí 'gá ráda ⁊
-rabert na briathra and:
-
-r. Ropar cocle cridi,ropar cáemthe caille,ropar fir chomdéirgide,contulmis tromchotludar trommníthaibi críchaib ilib echtrannaib;aróen imréidmís,imthéigmís cach fid,forcetul fri Scáthaig.
-
-r. A Chú Chulaind 
-cháemchlessachra chindsem ceird comdána,ra chlóiset cuir caratraid,bocritha do chétguine,ná cumnig in comaltus,a Chúa nachat chobradar,a Chúa nachat chobrathar.Rofata atám amlaid seo badesta, bar Fer Diad, 
-⁊ gá gasced ara ragam indiu, a Chú Chulaind? 
-Lat-su do roga gascid chaidchi indiu, bar Cú Chulaind, 
-dáig is tú daríacht in n-áth ar 
-tús. Indat
-mebair-siu itir, bar Fer Diad, isna airigthib gascid 
-danímmís ac Scáthaig ⁊ ac Úathaig 
-⁊ ac Aífe? Isamm mebair ám écin, 
-bar Cú Chulaind. Masa mebair, tecam.Dachúatar bara n-airigthib gascid. Ra gabsatar dá 
-scíath chliss chomardathacha forro ⁊ a n-ocht 
-ocharchliss ⁊ a n-ocht clettíni ⁊
-a n-ocht cuilg ndét ⁊ a n-ocht 
-ngothnatta néit. Imréitis úathu ⁊
-
-chuccu mar beocho  áinle. Ní 
-thelgtis nád amsitis. Ra gab cách díb ac 
-díburgun araile dina clesradaib sin á dorblas na matne muche 
-go mide medóin laí gora chlóesetar a n-ilchlessarda ra 
-tilib ⁊ chobradaib na scíath cliss. Giara baí 
-d'febas in imdíburcthi ra
-boí d'febas na himdegla nára fulig 
-⁊ nára forderg cách díb bar araile risin 
-ré sin. Scurem din gaisced sa fodesta, a Chú Chulaind, 
-bar Fer Diad, dáig ní de seo tic ar n-etergléod. 
-Scurem ám écin má thánic a thráth, 
-bar Cú Chulaind. Ra scoirsetar. Focherdsetar a clesrada 
-úathaib i llámaib a n-arad.Gá gasced i rragam ifesta, a Chú 
-Chulaind? bar Fer Diad. Let-su do roga gascid chaidche, bar 
-Cú Chulaind, dáig is tú doríacht in 
-n-áth ar tús. Tiagam iarum, bar Fer Diad, barar 
-slegaib sneitti snasta slemunchrúadi go súanemnaib lín 
+forráncha fúa. Ech líath leslethan lugléimnech lebormongach
+fándara chuing don/FUNC charput. Ech dub dúalach 
+dulbrass druimlethan fán/FUNC chuing anaill. Ba samalta ra/FUNC sebacc 
+dá/FUNC chlaiss i/FUNC lló chrúadgaíthi ná/FUNC ra/FUNC sidi 
+répgaíthi erraig i/FUNC lló mártai dar/FUNC muni machairi 
+ná/FUNC ra/FUNC tétag n-allaid arna/FUNC chétglúasacht do/FUNC chonaib do/FUNC chétroí dá/FUNC ech Con Culaind immon/FUNC carpat, marbad ar/FUNC licc áin
+tentidi co/FUNC crothsat ⁊/FUNC co/FUNC mbertsat in/FUNC talmain ra tricci 
+na/FUNC dírma. Acus/FUNC daríacht Cú Chulaind dochum inn/FUNC átha. Tarassair 
+Fer Diad barsan leith descertach ind/FUNC átha. Dessid Cú Chulaind 
+barsan leith túascertach. Firis Fer Diad fáilte fri/FUNC Coin 
+Culaind. Mo/FUNC chen do/FUNC thíchtu, a/FUNC Chú 
+Chulaind, bar Fer Diad. Tarissi lim/FUNC
+ní/FUNC ind/FUNC fálti mad/FUNC costráthsa, bar 
+Cú Chulaind, ⁊/FUNC indiu/FUNC ní/FUNC dénaim tarissi de/FUNC 
+chena. Acus/FUNC a/FUNC Fir Diad. bar Cú Chulaind, rapo 
+chóru dam-sa/FUNC fálti d'ferthain frit-su/FUNC ná/FUNC dait-siu/FUNC 
+a/FUNC ferthain rum-sa/FUNC, dáig is tú/FUNC daríacht in/FUNC 
+crích ⁊/FUNC in/FUNC cóiced i/FUNC tú-sa, ⁊/FUNC 
+níra chóir duit-siu/FUNC tíchtain do/FUNC chomlund ⁊/FUNC do/FUNC 
+chomrac rim-sa/FUNC ⁊/FUNC rapa chóru dam-sa/FUNC
+dol do/FUNC chomlond ⁊/FUNC do/FUNC chomrac rut-sa, dáig is 
+romut-sa atát mo/FUNC mná-sa ⁊/FUNC mo/FUNC meic ⁊/FUNC mo/FUNC 
+maccáemi, m'eich ⁊/FUNC m'echrada, m'albi ⁊/FUNC 
+m'éiti ⁊/FUNC m'indili. Maith a/FUNC Chú Chulaind, 
+bar Fer Diad, cid rot tuc-su do/FUNC chomlund ⁊/FUNC do/FUNC chomrac rim-sa/FUNC itir/FUNC? Dáig dá/FUNC mbámmar ac/FUNC Scáthaig ⁊/FUNC ac/FUNC 
+Úathaig ⁊/FUNC ac/FUNC Aífi, is tussu/FUNC ba forbfer 
+frithálma dam-sa/FUNC .i. ra/FUNC armad mo/FUNC slega ⁊/FUNC ra/FUNC déirged 
+mo/FUNC lepaid. Is fír ám sain ale, bar Cú 
+Chulaind. Ar/FUNC óice ⁊/FUNC ar/FUNC oítidchi donín-sea 
+duit-siu/FUNC, ⁊/FUNC ní/FUNC hí/FUNC sin/FUNC tuarascbáil bá 
+tú-sa/FUNC indiu/FUNC itir/FUNC, acht/FUNC ní/FUNC fil barsin bith láech 
+nach/FUNC dingéb-sa indiu. Acus/FUNC iss and/FUNC sin/FUNC ferais cechtar n-aí díb/FUNC athchossán n-athgér
+n-athcharatraid ráraile. Acus/FUNC rabert Fer Diad na/FUNC 
+briathra and/FUNC ⁊/FUNC ra frecair Cú Chulaind:
+Cid rat tuc, a/FUNC Chúa, do/FUNC throit ra/FUNC níaid núa? Bud cróderg da/FUNC chrúaás análaib th'ech. Mairg tánic do/FUNC thurus, bud atód ra/FUNC haires, ricfa a/FUNC less do/FUNC legess, mad/FUNC dá/FUNC rís do/FUNC thech. Dodechad ré/FUNC n-ócaibim torc trethan trétaig, re/FUNC cathaib, re/FUNC cétaib, dot chur-su fán/FUNC lind, d'feirg rut is dot fromadbar comrac cét conarcorop dait bas fogaldo chosnom do/FUNC chind. Fail sund/FUNC nech rat méla, is missi/FUNC rat génadáig is dím/FUNC facríth. Cronugud a/FUNC curadi fiadnassi Ulad, gorop cian bas chuman, gorop dóib/FUNC bus díth. Car cinnas condricfam? In/FUNC ar/FUNC collaib cneittfem? Gid leind rarrficfam do/FUNC chomrac ar/FUNC áth? Inn ar/FUNC claidbib crúadaib, ná/FUNC 'n ar/FUNC rennaib rúadaib, dot slaidi rit slúagaibmá thánic a/FUNC thráth? Re/FUNC funiud re/FUNC n-aidchemádit éicen airrthe, comrac dait re/FUNC Baircheníba bán in/FUNC gleó. Ulaid acot gairm-siu, ra/FUNC ngabastar aillsiu, bud olc dóib/FUNC in/FUNC taidbsiu, rachthair thairsiu is/FUNC treó. Datrála i/FUNC mbeirn mbáegail, tánic cend do/FUNC sáegail, imbérthair fort/FUNC fáebair, níba fóill in/FUNC fáth. Bud mórglonnach bías, condricfa cach/FUNC días, níba tóesech tríastú á' ndiu go/FUNC tí bráth. Beir ass/FUNC dín/FUNC do/FUNC robud, is tú/FUNC is brassi for/FUNC domon, nít fía lúag ná/FUNC logud, nídat doss ós/FUNC duss. Is missi/FUNC ratfitir, a/FUNC chride ind/FUNC eóin ittig, at gilla co/FUNC ngicgil, gan/FUNC gasced, gan/FUNC gus. Dá, mbámmar ac/FUNC Scáthaiga llus gascid gnáthaig, is aróen imréidmís, imthéigmís cach/FUNC fích. Tú/FUNC mo/FUNC chocne cride, tú/FUNC m'aiccme, tú/FUNC m'fine, ní/FUNC fúar riam/FUNC bad dile, ba dursan do/FUNC díth. Romór fácbai th'einechconná dernam deibech, siul gairmes in/FUNC cailechbiaid do/FUNC chend ar/FUNC bir. A/FUNC Chú Chulaind Cúalnge, rot gab baile is búadre, rot fía cach/FUNC olc úanne, dáig is dait a/FUNC 
+chin. C. Maith a/FUNC Fir Diad, bar Cú Chulaind, nír 
+chóir duit-siu/FUNC tíachtain do/FUNC chomlund ⁊/FUNC do/FUNC chomrac 
+rum-sa/FUNC trí indlach ⁊/FUNC etarchossaít Ailella
+⁊/FUNC Medba, ⁊/FUNC cach/FUNC óen tánic, 
+ní/FUNC ruc búaid ná/FUNC bissech dóib/FUNC ⁊/FUNC 
+darochratar limm-sa/FUNC. Acus/FUNC ní/FUNC mó béras búaid 
+ná/FUNC, bissech duit-siu/FUNC ⁊/FUNC rafáethaisiu limm/FUNC. Is amlaid ra/FUNC baí 'gá rád ⁊/FUNC rabert na/FUNC briathra ⁊/FUNC ra/FUNC gab Fer Diad clostecht fris/FUNC:
+Ná/FUNC, tair chucum a/FUNC laích láin, a/FUNC Fir Diad, a/FUNC meic Damáin, is messu/FUNC duit/FUNC na/FUNC mbía decontirfe brón sochaide. Ná/FUNC tair chucum/FUNC dar/FUNC fír cert, is lim-sa/FUNC atá do/FUNC thiglecht, cid ná/FUNC breth and/FUNC dait nammámo gleó-sa ra/FUNC míleda? Nachat mucled ilar clessgirsat corcra conganchness, inn/FUNC ingen asa/FUNC taí oc/FUNC báig, níba lett, a/FUNC meic Damáin. Findabair ingea Medba, gé beith d'febas a/FUNC delba, in/FUNC ingen gid cáem a/FUNC cruthnochos tibrea re/FUNC cétluth. Findabair ingen in/FUNC ríg, in/FUNC dráth atberar a/FUNC fír, sochaide 'ma tart bréic ⁊/FUNC do/FUNC loitt do/FUNC lethéit. Ná/FUNC briss form/FUNC lugi gan/FUNC fess, ná/FUNC bris chíg, ná/FUNC briss cairdess, ná/FUNC briss bréthir báig, ná/FUNC tair chucum/FUNC, a/FUNC laích láin. N. Ra dáled do/FUNC choícait láechin ingen, ní/FUNC dál dimbáeth; is limm-sa/FUNC ra faíd a/FUNC llecht, ní/FUNC rucsat úaim/FUNC acht/FUNC crandchert. Giara maess menmnach Fer Báethacá mbaí teglach dagláech, gar úar gur furmius a/FUNC bruth, ra marbus din/FUNC óenurchur. Srubdaire serb seirge a/FUNC gal, ba rúnbale na/FUNC cét mban, mór a/FUNC bladalt ra baí than, nír anacht ór ná/FUNC étgad. Dámbad dam/FUNC ra naidmthea in/FUNC beinrís tib cend na/FUNC cóiced cain, nocho dergfaind-se do/FUNC chlíabtess ná/FUNC túaid ná/FUNC thíar ná/FUNC tair. N. Maith a/FUNC Fir Diad, bar Cú Chulaind, is 
+aire sin/FUNC nára chóir duit-siu/FUNC tíachtain do/FUNC chomlund 
+⁊/FUNC do/FUNC chomruc rim-sa/FUNC dáig dá/FUNC mbámmar ac/FUNC 
+Scáthaig ⁊/FUNC ac/FUNC Úathaig ⁊/FUNC ac/FUNC Aífe, is 
+aróen imthéigmís cach/FUNC cath ⁊/FUNC cach/FUNC 
+cathroí, cach/FUNC comlund ⁊/FUNC cach/FUNC comrac, cach/FUNC fid ⁊/FUNC 
+cach/FUNC fásach, cach/FUNC dorcha ⁊/FUNC cach/FUNC díamair. Acus/FUNC is 
+amlaid ra/FUNC baí 'gá ráda ⁊/FUNC
+rabert na/FUNC briathra and/FUNC
+r. Ropar cocle cridi, ropar cáemthe caille, ropar fir chomdéirgide, contulmis tromchotludar trommníthaibi críchaib ilib echtrannaib; aróen imréidmís, imthéigmís cach fid, forcetul fri/FUNC Scáthaig.
+r. A/FUNC Chú Chulaind 
+cháemchlessachra chindsem ceird comdána, ra chlóiset cuir caratraid, bocritha do/FUNC chétguine, ná/FUNC cumnig in/FUNC comaltus, a/FUNC Chúa nachat chobradar, a/FUNC Chúa nachat chobrathar. Rofata atám amlaid seo/FUNC badesta, bar Fer Diad, ⁊/FUNC gá gasced ara/FUNC ragam indiu, a/FUNC Chú Chulaind? 
+Lat-su do/FUNC roga gascid chaidchi indiu/FUNC, bar Cú Chulaind, 
+dáig is tú/FUNC daríacht in/FUNC n-áth ar/FUNC 
+tús. Indat mebair-siu itir/FUNC, bar Fer Diad, isna/FUNC airigthib gascid 
+danímmís ac/FUNC Scáthaig ⁊/FUNC ac/FUNC Úathaig 
+⁊/FUNC ac/FUNC Aífe? Isamm mebair ám écin, 
+bar Cú Chulaind. Masa mebair, tecam. Dachúatar bara/FUNC n-airigthib gascid. Ra/FUNC gabsatar dá/FUNC scíath chliss chomardathacha forro/FUNC ⁊/FUNC a/FUNC n-ocht ocharchliss ⁊/FUNC a/FUNC n-ocht clettíni ⁊/FUNC
+a/FUNC n-ocht cuilg ndét ⁊/FUNC a/FUNC n-ocht 
+ngothnatta néit. Imréitis úathu ⁊/FUNC
+chuccu/FUNC mar beocho áinle. Ní/FUNC 
+thelgtis nád/FUNC amsitis. Ra/FUNC gab cách/FUNC díb/FUNC ac/FUNC 
+díburgun araile dina/FUNC clesradaib sin/FUNC á/FUNC dorblas na/FUNC matne muche go/FUNC mide medóin laí gora chlóesetar a/FUNC n-ilchlessarda ra/FUNC 
+tilib ⁊/FUNC chobradaib na/FUNC scíath cliss. Giara baí 
+d'febas in/FUNC imdíburcthi ra/FUNC
+boí d'febas na/FUNC himdegla nára fulig 
+⁊/FUNC nára forderg cách/FUNC díb/FUNC bar araile risin/FUNC 
+ré/FUNC sin/FUNC. Scurem din gaisced sa/FUNC fodesta, a/FUNC Chú Chulaind, 
+bar Fer Diad, dáig ní/FUNC de/FUNC seo/FUNC tic ar/FUNC n-etergléod. 
+Scurem ám écin má/FUNC thánic a/FUNC thráth, 
+bar Cú Chulaind. Ra scoirsetar. Focherdsetar a/FUNC clesrada 
+úathaib i/FUNC llámaib a/FUNC n-arad. Gá gasced i/FUNC rragam ifesta, a/FUNC Chú Chulaind? bar Fer Diad. Let-su do/FUNC roga gascid chaidche, bar 
+Cú Chulaind, dáig is tú/FUNC doríacht in/FUNC 
+n-áth ar/FUNC tús. Tiagam iarum/FUNC, bar Fer Diad, barar 
+slegaib sneitti snasta slemunchrúadi go/FUNC súanemnaib lín 
 lánchatut indi. Tecam ám écin, bar Cú 
-Chulaind. Is and sin ra gabsatar
-dá chotutscíath chomdaingni forro. 
-Dachúatar bara slegaib snaitti snasta slemunchrúadi go 
-súanemnaib lín lanchotut indi. Ra gab cách díb 
-ac díburgun araile dina slegaib á mide medóin 
-laí go tráth funid nóna. Giara baí d'febas 
-na himdegla ra buí d'febas ind imdíbairgthi goro 
-fuilig ⁊ goro forderg ⁊ goro chréchtnaig 
-cách
-díb bar araile risin ré sin. Scurem de 
-sodain badesta, a Chú Chulaind, bar Fer Diad. Scurem 
-ám écin má thánic a thráth, bar 
-Cú Chulaind. Ra scoirsetar. Bacheirdset a n-airm úathu i 
-llámaib a n-arad.Tánic cách díb d'indsaigid araile assa aithle 
-⁊ rabert cách díb
-lám dar brágit araile ⁊ ra thairbir 
-teóra póc. Ra bátar a n-eich i n-óenscur in 
-n-aidchi sin ⁊ a n-araid ic óentenid, ⁊ 
-bognísetar a n-araid cossairleptha úrlúachra 
-dóib go frithadartaib fer ngona friu. Táncatar fiallach 
-ícci ⁊ legis dá n-ícc ⁊ dá 
-leiges, ⁊ focherdetar lubi ⁊ lossa ícci ⁊ 
-slánsén ra cnedaib ⁊ ra créchtaib, rá 
-n-áltaib
-⁊ ra n-ilgonaib. Cach luib ⁊ cach lossa 
-ícci ⁊ slánsén raberthea ra cnedaib ⁊ 
-créchtaib, áltaib ⁊ ilgonaib Con Culaind, ra 
-idnaicthea comraind úad díb dar áth siar d'Fir 
-Diad, nár abbraitis fir Hérend, dá tuitted Fer Diad 
-leisium, ba himmarcraid legis dabérad fair. Cach bíad 
-⁊ cach lind soóla socharchaín somesc daberthea 
-ó feraib
-Hérend d'Fir Diad, da idnaicthea comraind 
-úad díb dar áth fathúaith do Choin Chulaind, 
+Chulaind. Is and/FUNC sin/FUNC ra/FUNC gabsatar
+dá/FUNC chotutscíath chomdaingni forro/FUNC. 
+Dachúatar bara slegaib snaitti snasta slemunchrúadi go/FUNC 
+súanemnaib lín lanchotut indi. Ra/FUNC gab cách/FUNC díb/FUNC 
+ac/FUNC díburgun araile dina slegaib á/FUNC mide medóin 
+laí go/FUNC tráth funid nóna. Giara baí d'febas 
+na/FUNC himdegla ra/FUNC buí d'febas ind/FUNC imdíbairgthi goro/FUNC 
+fuilig ⁊/FUNC goro/FUNC forderg ⁊/FUNC goro/FUNC chréchtnaig 
+cách/FUNC díb/FUNC bar araile risin/FUNC ré sin/FUNC. Scurem de/FUNC 
+sodain badesta, a/FUNC Chú Chulaind, bar Fer Diad. Scurem 
+ám écin má/FUNC thánic a/FUNC thráth, bar 
+Cú Chulaind. Ra/FUNC scoirsetar. Bacheirdset a/FUNC n-airm úathu i/FUNC 
+llámaib a/FUNC n-arad. Tánic cách/FUNC díb/FUNC d'indsaigid araile assa/FUNC aithle ⁊/FUNC rabert cách/FUNC díb/FUNC
+lám dar brágit araile ⁊/FUNC ra/FUNC thairbir 
+teóra póc. Ra/FUNC bátar a/FUNC n-eich i/FUNC n-óenscur in/FUNC 
+n-aidchi sin/FUNC ⁊/FUNC a/FUNC n-araid ic/FUNC óentenid, ⁊/FUNC 
+bognísetar a/FUNC n-araid cossairleptha úrlúachra 
+dóib/FUNC go/FUNC frithadartaib fer ngona friu/FUNC. Táncatar fiallach 
+ícci ⁊/FUNC legis dá/FUNC n-ícc ⁊/FUNC dá/FUNC 
+leiges, ⁊/FUNC focherdetar lubi ⁊/FUNC lossa ícci ⁊/FUNC 
+slánsén ra/FUNC cnedaib ⁊/FUNC ra/FUNC créchtaib, rá/FUNC 
+n-áltaib ⁊/FUNC ra/FUNC n-ilgonaib. Cach/FUNC luib ⁊/FUNC cach/FUNC lossa 
+ícci ⁊/FUNC slánsén raberthea ra/FUNC cnedaib ⁊/FUNC 
+créchtaib, áltaib ⁊/FUNC ilgonaib Con Culaind, ra/FUNC 
+idnaicthea comraind úad/FUNC díb/FUNC dar áth siar d'Fir 
+Diad, nár abbraitis fir Hérend, dá/FUNC tuitted Fer Diad 
+leisium/FUNC, ba himmarcraid legis dabérad fair/FUNC. Cach/FUNC bíad 
+⁊/FUNC cach/FUNC lind soóla socharchaín somesc daberthea 
+ó/FUNC feraib Hérend d'Fir Diad, da/FUNC idnaicthea comraind 
+úad/FUNC díb/FUNC dar/FUNC áth fathúaith do/FUNC Choin Chulaind, 
 dáig raptar lia bíattaig Fir Diad andá bíattaig 
-Con Culaind. Raptar bíattaig fir Hérend uli d'Fir Diad ar 
-Choin Culaind do dingbáil díb. Raptar bíattaig 
-Brega dano do Choin Culaind. Tictis dá acaldaim fri dé .i. 
-cach n-aidche.Dessetar and in n-aidchi sin. Atráchtatar go moch 
-arnabárach ⁊ táncatar rompu co áth in 
-chomraic. Gá gasced ara ragam indiu, a Fir Diad? bar 
-Cú Chulaind. Lett-su do roga 
-ngascid chaidchi, bar Fer Diad, dáig is missi 
-barróega mo roga ngascid isind lathi luid. Tiagam 
-iarum, bar Cú Chulaind, barar manaísib móra 
-murniucha
-indiu, dáig is foicsiu lind don ág in t-imrubad 
-indiu andá dond imdíburgun inné. Gabtar ar n-eich 
-dún ⁊ indliter ar carpait co ndernam cathugud dar n-echaib 
-⁊ dar carptib indiu. Tecam ám écin, bar 
-Fer Diad. Is and sin ra gabsatar dá lethanscíath 
-lándangni forro in lá sin. Dachúatar bara 
+Con Culaind. Raptar bíattaig fir Hérend uli d'Fir Diad ar/FUNC 
+Choin Culaind do/FUNC dingbáil díb/FUNC. Raptar bíattaig 
+Brega dano/FUNC do/FUNC Choin Culaind. Tictis dá/FUNC acaldaim fri/FUNC dé/FUNC .i. cach/FUNC n-aidche.Dessetar and/FUNC in/FUNC n-aidchi sin/FUNC. Atráchtatar go/FUNC moch arnabárach ⁊/FUNC táncatar rompu/FUNC co/FUNC áth in/FUNC 
+chomraic. Gá gasced ara/FUNC ragam indiu, a/FUNC Fir Diad? bar 
+Cú Chulaind. Lett-su do/FUNC roga ngascid chaidchi, bar Fer Diad, dáig is missi/FUNC barróega mo/FUNC roga ngascid isind/FUNC lathi luid. Tiagam 
+iarum/FUNC, bar Cú Chulaind, barar manaísib móra 
+murniucha indiu/FUNC, dáig is foicsiu lind don/FUNC ág in/FUNC t-imrubad 
+indiu andá dond/FUNC imdíburgun inné. Gabtar ar/FUNC n-eich 
+dún ⁊/FUNC indliter ar/FUNC carpait co/FUNC ndernam cathugud dar/FUNC n-echaib 
+⁊/FUNC dar/FUNC carptib indiu/FUNC. Tecam ám écin, bar 
+Fer Diad. Is and/FUNC sin/FUNC ra gabsatar dá/FUNC lethanscíath 
+lándangni forro/FUNC in/FUNC lá sin/FUNC. Dachúatar bara 
 manaísib móra murnecha
-in lá sin. Ra gab cách díb bar tollad 
-⁊ bar tregdad, bar ruth ⁊ bar regtad araile á 
-dorblas na matne muchi go tráth funid nóna. Dámbad 
-bés eóin ar lúamain do thecht tri chorpaib 
-dóene, doragtaís trina corpaib in lá sin, go 
-mbértais na tóchta fola ⁊ feóla trina cnedaib 
-⁊ trina créchtaib i nnélaib ⁊ i 
-n-áeraib sechtair. Acus á
+in/FUNC lá sin/FUNC. Ra/FUNC gab cách/FUNC díb/FUNC bar tollad 
+⁊/FUNC bar tregdad, bar ruth ⁊/FUNC bar regtad araile á/FUNC 
+dorblas na/FUNC matne muchi go/FUNC tráth funid nóna. Dámbad 
+bés eóin ar/FUNC lúamain do/FUNC thecht tri chorpaib 
+dóene, doragtaís trina corpaib in/FUNC lá sin/FUNC, go/FUNC 
+mbértais na/FUNC tóchta fola ⁊/FUNC feóla trina cnedaib 
+⁊/FUNC trina créchtaib i/FUNC nnélaib ⁊/FUNC i/FUNC 
+n-áeraib sechtair. Acus/FUNC á/FUNC
 thánic tráth funid nóna, raptar 
-scítha a n-eich ⁊ raptar mertnig a n-araid ⁊ raptar 
-scítha-som fadessin na curaid ⁊ na láith gaile. 
-Scurem de sodain badesta, a Fir Diad, bar Cú 
-Chulaind, dáig isat scítha ar n-eich ⁊ it mertnig 
-ar n-araid, ⁊ in tráth ata scítha íat, cid 
-dúnni nábad scítha sind dano. Acus is amlaid ra 
-buí 'gá rád
-⁊ rabert na briathra and:
-
-Ní dlegar dín cuclaigi,(—bar ésiun—)ra fomórchaib feidm;curther fóthu a n-urchomailáro scáich a ndeilm.Scoirem ám écin má thánic a 
-thráth, bar Fer Diad. Ra scorsetar. Facheirdset a n-airm 
-úathu i llámaib a n-arad. Tánic cách díb 
-d'innaigid a chéile. Rabert cách lám dar brágit 
-araile ⁊ ra thairbir teora póc. Ra bátar a n-eich i 
-n-óenscur in aidchi sin ⁊ a n-araid oc óentenid. 
-Bógníset a n-araid cossairleptha úrlúachra 
-dóib go
-frithadartaib fer ngona friu. Táncatar fiallach 
-ícci ⁊ leigis dá fethium ⁊ dá 
-fégad ⁊ dá forcomét in n-aidchi sin, 
-dáig ní ní aile ra chumgetar dóib ra 
-hacbéile a cned ⁊ a créchta, a n-álta 
-⁊ a n-ilgona acht iptha ⁊ éle ⁊ arthana do 
-chur riu do thairmesc a fola ⁊ a fulliugu ⁊ a ngae 
-cró. Cach iptha ⁊ gach éle ⁊ gach orthana 
-doberthea ra
-cnedaib ⁊ ra créchtaib 
-Con Culaind, ra idnaicthea comraind úad díb dar áth 
-síar d'Fir Diad. Cach bíad ⁊ cach lind 
-soóla socharchaín
-
-somesc raberthea ó feraib Hérend do Fir Diad, ra 
+scítha a/FUNC n-eich ⁊/FUNC raptar mertnig a/FUNC n-araid ⁊/FUNC raptar 
+scítha-som fadessin/FUNC na/FUNC curaid ⁊/FUNC na/FUNC láith gaile. 
+Scurem de/FUNC sodain badesta, a/FUNC Fir Diad, bar Cú 
+Chulaind, dáig isat scítha ar/FUNC n-eich ⁊/FUNC it mertnig 
+ar/FUNC n-araid, ⁊/FUNC in/FUNC tráth ata scítha íat/FUNC, cid 
+dúnni nábad scítha sind dano/FUNC. Acus/FUNC is amlaid ra/FUNC 
+buí 'gá rád ⁊/FUNC rabert na/FUNC briathra and/FUNC:
+Ní/FUNC dlegar dín cuclaigi, ( — bar ésiun/FUNC —) ra/FUNC fomórchaib feidm; curther fóthu a/FUNC n-urchomailáro scáich a/FUNC ndeilm. Scoirem ám écin má/FUNC thánic a/FUNC thráth, bar Fer Diad. Ra/FUNC scorsetar. Facheirdset a/FUNC n-airm 
+úathu i/FUNC llámaib a/FUNC n-arad. Tánic cách/FUNC díb/FUNC 
+d'innaigid a/FUNC chéile. Rabert cách/FUNC lám dar brágit 
+araile ⁊/FUNC ra/FUNC thairbir teora póc. Ra/FUNC bátar a/FUNC n-eich i/FUNC 
+n-óenscur in/FUNC aidchi sin/FUNC ⁊/FUNC a n-araid oc/FUNC óentenid. 
+Bógníset a/FUNC n-araid cossairleptha úrlúachra 
+dóib/FUNC go/FUNC frithadartaib fer ngona friu/FUNC. Táncatar fiallach 
+ícci ⁊/FUNC leigis dá/FUNC fethium ⁊/FUNC dá/FUNC 
+fégad ⁊/FUNC dá/FUNC forcomét in/FUNC n-aidchi sin/FUNC, 
+dáig ní/FUNC ní/FUNC aile/FUNC ra/FUNC chumgetar dóib/FUNC ra/FUNC 
+hacbéile a/FUNC cned ⁊/FUNC a/FUNC créchta, a/FUNC n-álta 
+⁊/FUNC a/FUNC n-ilgona acht/FUNC iptha ⁊/FUNC éle ⁊/FUNC arthana do/FUNC 
+chur riu do/FUNC thairmesc a/FUNC fola ⁊/FUNC a/FUNC fulliugu ⁊/FUNC a/FUNC ngae cró. Cach/FUNC iptha ⁊/FUNC gach/FUNC éle ⁊/FUNC gach/FUNC orthana 
+doberthea ra/FUNC cnedaib ⁊/FUNC ra/FUNC créchtaib 
+Con Culaind, ra/FUNC idnaicthea comraind úad/FUNC díb/FUNC dar áth 
+síar d'Fir Diad. Cach/FUNC bíad ⁊/FUNC cach/FUNC lind 
+soóla socharchaín somesc raberthea ó feraib Hérend do Fir Diad, ra 
 hidnaicthea comraind úad díb dar áth fothúaith 
 do Choin Chulaind, dáig raptar lia bíataig Fir Diad 
 andá bíataig Con Culaind, dáig raptar
