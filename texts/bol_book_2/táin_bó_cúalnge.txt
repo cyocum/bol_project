@@ -5424,64 +5424,52 @@ choitchinniu Briccni dá/FUNC charait andá dá/FUNC
 námait. Acus/FUNC tucad far bernaid i/FUNC fiadnaisi na/FUNC ndam é/FUNC. Atchonnaic cách/FUNC a/FUNC chéile dina/FUNC tarbaib ⁊/FUNC foclassa 
 búrach dóib/FUNC and/FUNC ⁊/FUNC fócerddetar in/FUNC n-úir 
 thairsiu. Ra/FUNC chlaitar in/FUNC talmain dara/FUNC formnaib ⁊/FUNC dara/FUNC 
-slinneócaib, ⁊ ra rúamnaigsetar a rruisc  ina
-cendaib dóib immar cháera tenda tentide. Ra 
-bulgsetar a n-óli ⁊ a sróna mar bulgu goband i 
-certchai, ⁊ rabert cách díb blascbéim 
-brátha d'indsaigid a chéile. Ra gab cách díb bar 
-tollad ⁊ bar tregdad ⁊ bar airlech ⁊ bar 
-essorgain araile. And sain ra immir in Findbennach meirbflech a astair 
-⁊ a imthechta ⁊ na sliged barin
-Dond Cúalnge, ⁊ ra sáid adairc ina 
-tháeb ⁊ brissis búrach fair. Iss ed rucsat a 
-rrúathur go hairm i mbáe Bricni goro bertsatar ingni na 
-tarb ferchubat fir i talmain é arna bás. Conid Aided Bricni and sain.Atchonnaic Cormac Cond Longas mac Conchobuir anísin ⁊ ro
-gabastar fogeist dárbo lán a glacc ⁊ 
-rabert trí béimmenna don Dond Chúalnge ó 
-ó go erboll. Nírap sét suthain suachnid dún 
-in sét sa, bar Cormac, dáig ná tic de 
-láeg a chomaísi badéin do dingbáil. 
-Atchúala Dond Cúalnge annísein ⁊ báe 
-ciall dunetta aice ⁊ ra impá risin Findbennach ⁊ go 
-'mmarálaid dóib assa aithle
-d'imbúalad ri ré cían ⁊ ri remis 
-fota goro laig inn adaig bar feraib Hérend. Acus ára laig inn 
-adaig, ní rabi ac feraib Hérend acht éstecht re 
-fúaim ⁊ re fothrom. Ra sirset na daim Hérind 
-uili in n-aidchi sin.Nírbo chían d'feraib Hérend dá 
-mbátar and mochrád arnabárach
-go faccatar in Dond Cúalnge dar Crúachain 
-aníar in Findbennach Aí ina ascarnaig ara bennaib ⁊ 
-ara adarcaib. Ra éirgetar fir Hérend ⁊ ní 
-fetatar cía dina tarbaib ra báe and. Maith a 
-firu, bar Fergus, léicid a óenur más 
-é in Findbennach Aí fail and, ⁊ más 
-é in Dond Cúalnge, léicid a choscor leis. Natiur-sa 
-bréthir is bec i ndernad
-imna tarbaib i farrad na ndingéntar 
-innossa.Tánic in Dond Cúalnge. Tuc a dess ri Crúachain 
-⁊ ra fácaib crúach dá óeib and, 
-gorop de atá Crúachna Áe.Tánic reme go himmargain Átha Móir ⁊ ra 
-fácaib a lón in Fndbennaig and, gorop de dá 
-tá Áth Lúain.Tánic sair reme i crích Mide co Áth 
-Troim goro fácaib a thromm ind Findbennaig and.Túargaib a chend go díing ⁊ ra chroth in 
-Findbennach de fo Hérind. Ra chuir a láraic de co Port Large. 
-Ra chuir a chlíathaig úad go Dublind rissa rátter 
-Áth Cliath. Tuc a aged fathúaid assa
-aithle ⁊ tuc aichni far tír Cúalnge 
-⁊ tánic dá hindsaigid. Is and ra bátar 
-mnáa ⁊ meicc ⁊ mindóene ac coíniud in 
-Duind Chúalnge. Atchondcatar-som a thaul in Duind Chúalnge 
-dá saigid. Taul tairb chucaind! bar íat-som. Conid de 
-atá Taul Tairb ó sein anall.And sain imsóe in Dond Cúalnge fa mnáib 
-⁊ maccaib ⁊ mindóenib tíri Cúalnge 
-⁊ curis ár mór forro. Tuc a druim risin tilaig assa 
-aithle ⁊ ro maid cnómaidm dá chride 'na 
-chlíab.Gorop a hús ⁊ a imthúsa 
-⁊ a deired na Tánad gonici sein.BEndacht ar cech óen mebraigfes go hindraic Táin 
-amlaid seo
-⁊ ná tuillfe cruth aile furri.SEd ego qui scripsi hanc historiam aut uerius 
-fabulam quibusdam fidem in hac historia aut fabula non accommodo. Quaedam 
-enim ibi sunt praestrigia demonum, quaedam autem figmenta poetica, quaedam 
-similia uero, quaedam non, quaedam ad delectationem 
-stultorum.
+slinneócaib, ⁊/FUNC ra/FUNC rúamnaigsetar a/FUNC rruisc ina/FUNC
+cendaib dóib/FUNC immar cháera tenda tentide. Ra/FUNC 
+bulgsetar a/FUNC n-óli ⁊/FUNC a/FUNC sróna mar bulgu goband i/FUNC 
+certchai, ⁊/FUNC rabert cách/FUNC díb/FUNC blascbéim 
+brátha d'indsaigid a/FUNC chéile. Ra/FUNC gab cách/FUNC díb/FUNC bar 
+tollad ⁊/FUNC bar tregdad ⁊/FUNC bar airlech ⁊/FUNC bar 
+essorgain araile. And/FUNC sain/FUNC ra/FUNC immir in/FUNC Findbennach meirbflech a/FUNC astair ⁊/FUNC a/FUNC imthechta ⁊/FUNC na/FUNC sliged barin
+Dond Cúalnge, ⁊/FUNC ra/FUNC sáid adairc ina/FUNC 
+tháeb ⁊/FUNC brissis búrach fair/FUNC. Iss ed/FUNC rucsat a/FUNC 
+rrúathur go/FUNC hairm i/FUNC mbáe Bricni goro/FUNC bertsatar ingni na/FUNC 
+tarb ferchubat fir i/FUNC talmain é/FUNC arna bás. Conid/FUNC Aided Bricni and/FUNC sain/FUNC. Atchonnaic Cormac Cond Longas mac Conchobuir anísin/FUNC ⁊/FUNC ro/FUNC gabastar fogeist dárbo lán a/FUNC glacc ⁊/FUNC 
+rabert trí béimmenna don/FUNC Dond Chúalnge ó/FUNC 
+ó/FUNC go/FUNC erboll. Nírap sét suthain suachnid dún 
+in/FUNC sét sa/FUNC, bar Cormac, dáig ná/FUNC tic de/FUNC 
+láeg a/FUNC chomaísi badéin do/FUNC dingbáil. 
+Atchúala Dond Cúalnge annísein/FUNC ⁊/FUNC báe 
+ciall dunetta aice/FUNC ⁊/FUNC ra/FUNC impá risin/FUNC Findbennach ⁊/FUNC go/FUNC 'mmarálaid dóib/FUNC assa/FUNC aithle
+d'imbúalad ri/FUNC ré/FUNC cían ⁊/FUNC ri/FUNC remis 
+fota goro/FUNC laig inn/FUNC adaig bar feraib Hérend. Acus/FUNC ára/FUNC laig inn/FUNC adaig, ní/FUNC rabi ac/FUNC feraib Hérend acht/FUNC éstecht re/FUNC 
+fúaim ⁊/FUNC re/FUNC fothrom. Ra/FUNC sirset na/FUNC daim Hérind 
+uili/FUNC in/FUNC n-aidchi sin/FUNC. Nírbo chían d'feraib Hérend dá/FUNC 
+mbátar and/FUNC mochrád arnabárach
+go/FUNC faccatar in/FUNC Dond Cúalnge dar/FUNC Crúachain 
+aníar/FUNC in/FUNC Findbennach Aí ina/FUNC ascarnaig ara/FUNC bennaib ⁊/FUNC 
+ara/FUNC adarcaib. Ra/FUNC éirgetar fir Hérend ⁊/FUNC ní/FUNC 
+fetatar cía dina/FUNC tarbaib ra/FUNC báe and/FUNC. Maith a/FUNC 
+firu, bar Fergus, léicid a/FUNC óenur más 
+é/FUNC in/FUNC Findbennach Aí fail and/FUNC, ⁊/FUNC más 
+é/FUNC in/FUNC Dond Cúalnge, léicid a/FUNC choscor leis/FUNC. Natiur-sa 
+bréthir is bec i/FUNC ndernad
+imna/FUNC tarbaib i/FUNC farrad na/FUNC ndingéntar 
+innossa. Tánic in/FUNC Dond Cúalnge. Tuc a/FUNC dess ri/FUNC Crúachain 
+⁊/FUNC ra/FUNC fácaib crúach dá/FUNC óeib and/FUNC, 
+gorop de/FUNC atá Crúachna Áe. Tánic reme/FUNC go/FUNC himmargain Átha Móir ⁊/FUNC ra/FUNC fácaib a/FUNC lón in/FUNC Fndbennaig and/FUNC, gorop de/FUNC dá/FUNC 
+tá Áth Lúain.Tánic sair reme/FUNC i/FUNC crích Mide co/FUNC Áth 
+Troim goro/FUNC fácaib a/FUNC thromm ind/FUNC Findbennaig and/FUNC. Túargaib a/FUNC chend go/FUNC díing ⁊/FUNC ra/FUNC chroth in/FUNC 
+Findbennach de/FUNC fo/FUNC Hérind. Ra/FUNC chuir a/FUNC láraic de/FUNC co/FUNC Port Large. 
+Ra/FUNC chuir a/FUNC chlíathaig úad/FUNC go/FUNC Dublind rissa/FUNC rátter 
+Áth Cliath. Tuc a/FUNC aged fathúaid assa/FUNC
+aithle ⁊/FUNC tuc aichni far/FUNC tír Cúalnge 
+⁊/FUNC tánic dá/FUNC hindsaigid. Is and/FUNC ra/FUNC bátar 
+mnáa ⁊/FUNC meicc ⁊/FUNC mindóene ac/FUNC coíniud in/FUNC 
+Duind Chúalnge. Atchondcatar-som a/FUNC thaul in/FUNC Duind Chúalnge 
+dá/FUNC saigid. Taul tairb chucaind! bar íat-som/FUNC. Conid/FUNC de/FUNC 
+atá Taul Tairb ó/FUNC sein/FUNC anall. And/FUNC sain/FUNC imsóe in/FUNC Dond Cúalnge fa/FUNC mnáib ⁊/FUNC maccaib ⁊/FUNC mindóenib tíri Cúalnge 
+⁊/FUNC curis ár/FUNC mór forro/FUNC. Tuc a/FUNC druim risin/FUNC tilaig assa/FUNC aithle ⁊/FUNC ro/FUNC maid cnómaidm dá/FUNC chride 'na/FUNC 
+chlíab. Gorop a/FUNC hús ⁊/FUNC a/FUNC imthúsa 
+⁊/FUNC a/FUNC deired na/FUNC Tánad gonici sein/FUNC .BEndacht ar/FUNC cech/FUNC óen mebraigfes go/FUNC hindraic Táin amlaid seo/FUNC
+⁊/FUNC ná/FUNC tuillfe cruth aile/FUNC furri/FUNC. SEd ego qui scripsi hanc historiam aut uerius fabulam quibusdam fidem in hac historia aut fabula non accommodo. Quaedam enim ibi sunt praestrigia demonum, quaedam autem figmenta poetica, quaedam similia uero, quaedam non, quaedam ad delectationem stultorum.
