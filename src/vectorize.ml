@@ -44,7 +44,7 @@ let load_file filename =
     !words
   with
     | End_of_file ->
-        let regex = Pcre.regexp "[\\.;,]" in 
+        let regex = Pcre.regexp "[\\.;,:\\?\\(\\)!]" in 
         ufh#close_in ();
         List.rev_map (Pcre.replace ~rex:regex ~templ:"") !words
 
