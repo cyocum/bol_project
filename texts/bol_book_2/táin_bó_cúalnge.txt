@@ -5069,7 +5069,7 @@ ale? bar Ailill ri Fergus. Ratafetammar ám ale, bar
 Fergus. At leómain londa sain/FUNC. At glonna catha. Trícha 
 cét Maige Murthemne and/FUNC sain. Is ed/FUNC 
 dosgní cendchrom torsech n-anfálid cana/FUNC ríg n-aurraindi 
-eturru/FUNC badessin, can/FUNCChoin Culaind costadaig coscaraig claidebdeirg 
+eturru/FUNC badessin, can/FUNC Choin Culaind costadaig coscaraig claidebdeirg 
 cathbúadaig. Fail a/FUNC mórabba ám dóib-sium/FUNC 
 sain/FUNC, ar Medb, ciarsat cendchroimm torsig n-anfálid. Ní/FUNC 
 fuil olc nár dernsamar riu/FUNC. Ratas airgsemar ⁊/FUNC ratas indrisem 
