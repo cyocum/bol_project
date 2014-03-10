@@ -50,13 +50,7 @@ let load_file filename =
 
 let get_func_words words = 
   let regex = Pcre.regexp "/FUNC" in  
-  let find w =
-    if Pcre.pmatch ~rex:regex w then 
-      true 
-    else 
-      false
-  in
-  List.rev_map (remove_tag regex) (List.filter find words)
+  List.rev_map (remove_tag regex) (List.filter (Pcre.pmatch ~rex:regex) words)
 
 let create_word_count words =
   let seen = UTF8Hash.create (List.length words) in
