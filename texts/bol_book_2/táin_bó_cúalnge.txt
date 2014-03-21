@@ -260,7 +260,7 @@ Athremail, ⁊/FUNC Mane Condagaib Uili, Mane Míngor ⁊/FUNC
 Mane Mórgor ⁊/FUNC Mane Conda Mó Epert. 
 Urthatar techta aile/FUNC co/FUNC
 maccaib Mágach .i. Cet mac Mágach ⁊/FUNC Anlúan mac 
-Mágach ⁊ /FUNCMac Corb mac Mágach ⁊/FUNC
+Mágach ⁊/FUNC Mac Corb mac Mágach ⁊/FUNC
 Bascell mac Mágach ⁊/FUNC Én mac Mágach ⁊/FUNC Dóche mae Mágach, 
 Scandal mac Mágach.
 Táncatar sain/FUNC ⁊/FUNC ba sed a/FUNC llín deich cét ar/FUNC 
@@ -1487,7 +1487,7 @@ lat-su/FUNC and/FUNC di/FUNC cach/FUNC lóu rodicfa bith eter/FUNC dá/FUNC
 choiss Conchobuir, ⁊/FUNC ní/FUNC fail lim-sa/FUNC acht/FUNC bith eter/FUNC 
 echlachu ⁊/FUNC oblóire
 tigi Conchobuir. Mithig lim-sa/FUNC techt do/FUNC imscrípgail friu/FUNC. Geib 
-lat/FUNC dún ind/FUNC echrad didiu/FUNC. Gebid in/FUNC t-ara in/FUNC n-echraid ⁊ /FUNC luid in/FUNC mac issin/FUNC carpat. Aile a/FUNC Ibair, gá tulach and/FUNC in/FUNC tulach sa/FUNC 
+lat/FUNC dún ind/FUNC echrad didiu/FUNC. Gebid in/FUNC t-ara in/FUNC n-echraid ⁊/FUNC luid in/FUNC mac issin/FUNC carpat. Aile a/FUNC Ibair, gá tulach and/FUNC in/FUNC tulach sa/FUNC 
 thúas innossa? ar in/FUNC mac bec. Sliab
 Moduirn sin/FUNC innossa, ar Ibar. Ocus/FUNC gia findcharn 
 sút i/FUNC mmullaig in/FUNC tslébe?
@@ -2052,7 +2052,7 @@ for/FUNC Láeg Cinnas láech? ar Cú Chulaind. Gilla
 dond/FUNC drechlethan álaind. Bratt dond/FUNC
 derscaigthech immi/FUNC, bruthgae umaidi 'na/FUNC brut. Tarbléni 
 trebraid fria/FUNC chness. Dá/FUNC bernbróic etera/FUNC dá/FUNC choiss is 
-talmain. Mátadlorg findchuill issindara/FUNC láim. Claideb 
+talmain. Mátadlorg findchuill issindara láim. Claideb 
 lethfáebair co/FUNC n-eltaib dét 'sind láim anaill 
 dó/FUNC. Aile a/FUNC gillai, ar Cú Chulaind, comartha 
 n-echlaige sin/FUNC. Cia/FUNC d'echlachaib Hérend sin/FUNC do/FUNC imlúad athisc 
