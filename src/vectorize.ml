@@ -108,7 +108,8 @@ let calc_all_idf docs =
 
 let create_doc filename =
   let words = load_file filename in
-  let func_seen  = create_word_count (get_func_words words) in
+  let func = (get_func_words words) in
+  let func_seen  = create_word_count func in
   let max_tc = calc_max_tc words in
   {
     fn = filename;
