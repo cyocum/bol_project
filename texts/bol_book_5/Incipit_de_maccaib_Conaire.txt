@@ -1,66 +1,41 @@
-Incipit de maccaib Conaire.TRí bráthir Cairpre Músc ⁊ Cairpre Baschaín ⁊ Corpre
+Incipit de/FUNC maccaib Conaire. TRí bráthir Cairpre Músc ⁊/FUNC Cairpre Baschaín ⁊/FUNC Corpre
 Rigfota tri meic Conaire meic Etersceóil hui Ieir. Idem
- ⁊ Conaire mac Messe Buachalla. &amp; Sárait ingen Chuind meic 
- 
- Oenláma Gába mathair mac Conaire. Batar dī meic Conaire i nMaig Breg iar marbad a n-athar i mBruidin da Derga. Baí Incél
-Cáech do Bretnaib in féinnid. ⁊ tri meic Hui Désa .i. Fer Gair ⁊
- Fer Rogain ⁊ Fer Lé Bátar dī tri meic Conaire oc Temuir i
-n-orbbu Féine hi cóiciud Chorpri Nio Fer. ar it é fénni in sin 
- Muscraige ⁊ Dál Matti ⁊ Corcu Dubni. ⁊ Lagein ó Buais co Commur Trí nUsce. Is dibside dongairther Dál Maitti beus. Boí dī mathair
- mac Conaire la Neimed mac Srobcind hi tírib Hua Liatháin 
- Is de atá Ard Nemid. In Nemed hésin dī bá rígbriugaside. ⁊
-d'Érnaib a chenel. &amp; is é ba rí hErand. Gabais co Belach Feda 
- Máir.  Luid fecht and Eogán Már do acallaim mac Conaire do
-Themair Breg. Infíd dóaib scéla Muman. Infíd dano dóib Incél
-Caech do bith i llepaid ac Nemiud mac Srobcind. Is and asbert
-Corpre Músc. Ba menma dún ém saigid Incéil i nAlbain iar nguin 
- 
- ar n-athar. cenco tísed i nHerind nar ndóchum. Is desin foídis Corpre Músc Fiachraig Rigfota i n-oenló o Themraig corrici tech
-Nemid meic Srobcind ríg hErand ⁊ foranic Incél and fora cind.
- Fertha fálti fri Fiachaich Rigfota. fo bíth ba dalta dóib uile. ⁊
-ba mac na rígna. Is uad atá Ros Ríatai fri Ard Nemid andes fo 
- bith in chluichi ⁊ ind ániusa dogníd in Ríata sin maginsin Baí dano
- trénfer la Incgel. ni leiced raind na fodail i tig Nemid. Fer do
-imthrascrad fris do cech dáim ticed tech Nemid dia tísed dám
-anechtair and. Imchoemnacair Incgél dī dús in boí vel in tanic
-dám anechtair issind aidchisin. Asbert Nemed ni thánic ol se dám 
- 
- anechtair innocht. Asbert dano Fiacha ced dano do Incgél in dám do imchomarc. Do imthrascrad frisin trenfer ucut ol se do muntir
-Incgiúil Am dámsa ém ol Fiacha. Cia dacheleseo innocht ol se ní
- dichela imbárach. Tair forsa llár dī ol Ingcél. Bid indossa duit ón
-ol Fiacha Rigfota. Dothaetsaide forsin lár. Condrecat ⁊ in trénfer. 
- Trascarthair in trenfer forsin coire co memaid a doe láma forsin drolam iarthairach ⁊ co memaid a chóeldruim immon inber combo
-marb de fo chétoir.
- Is iarum asbert Ingcél. Ni cluchi anisin ol se acht is comlund.
-Rommertabair ol Ingcél lécud mo námat chucum i n-oentech 
- frim. Is iarum atbert Sárait. Bá díanaich lemsa cid cend Ingcel  doberad mo mac. ⁊ ci atbalad oca ba sodeithbir dó Is iarum asbert
-Fiacha fri Neimed. ara fácbad Ingcél a theglach. Is iarum asbert
-Nemed. Ní chumgaba nech ellach na tellach im thegluchsa acht me
-fadéin. Asbert Fiacha fri sodain. Foichlide dī maccu Conaire. ar 
- 
-thicfat re cind chóic laithe déc do chath fritsu co Belach Slige. Díanaigid ém ol Nemed. Loscat manis rí cath uaimse.
-Farumai iarum arnabárach co ránic Temraig. Is and assbreth
-fris. Is ríataide ind imrimsin oc dul dó dar Slige nAssail. Is desin
-asberarsom Fiacha Ríatai. Innisid iarum tuaid a n-atchonnairc
- i tegdais Nemid. ⁊ anro raid Nemed fris.  Is desin nenaisc Corpre
-  Músc for Dergthene a folta dar é si flatha .i. filidecht cen ergnam
- act focul cen chloen cen rudrach. cétlath fri ríg Cassil. &amp; nert ⁊
-sochraite dóib oc dígail a n-athar. Is iarum fichsetar cath ⁊
-Derg.thene leo oc Beluch Feda Máir. &amp; memaid for Nemad. &amp; 
- dorochair Ingcél Cáech and. ⁊ ni thorchair Nemed. It é indrema a  cendaile fil fri Crossa Brenaind andess i mBeluch Feda Máir. Is
-desin imchemnacair Dergthene. A Chorpri Múisc murnig co dígis
-Nemed ma dorroach Léi. Lé Fír Flaith mac Conaire docer i mBrudin
-Da Derga. 
- Is desin frisrogart Corpre Músc. Co rinnib sleg i mbrunnib bánaib.
- co faebraib claideb i mmunélaib. slóg ro soíset gnee. dariuchtatar
-meicc dofessat hui digal immatorchair di láim im chend cnedach
-im chéil rochlois ilach crúaid congraimm.
+ ⁊/FUNC Conaire mac Messe Buachalla. &/FUNC Sárait ingen Chuind meic 
+ Oenláma Gába mathair mac Conaire. Batar dī/FUNC meic Conaire i/FUNC nMaig Breg iar/FUNC marbad a/FUNC n-athar i/FUNC mBruidin da/FUNC Derga. Baí Incél
+Cáech do/FUNC Bretnaib in/FUNC féinnid. ⁊/FUNC tri meic Hui Désa .i. Fer Gair ⁊/FUNC Fer Rogain ⁊/FUNC Fer Lé Bátar dī/FUNC tri meic Conaire oc/FUNC Temuir i/FUNC n-orbbu Féine hi/FUNC cóiciud Chorpri Nio Fer. ar/FUNC it é/FUNC fénni in/FUNC sin/FUNC Muscraige ⁊/FUNC Dál Matti ⁊/FUNC Corcu Dubni. ⁊/FUNC Lagein ó/FUNC Buais co/FUNC Commur Trí nUsce. Is dibside dongairther Dál Maitti beus. Boí dī/FUNC mathair mac Conaire la/FUNC Neimed mac Srobcind hi/FUNC tírib Hua Liatháin 
+ Is de/FUNC atá Ard Nemid. In/FUNC Nemed hésin/FUNC dī/FUNC bá rígbriugaside. ⁊/FUNC d'Érnaib a/FUNC chenel. &/FUNC is é/FUNC ba rí hErand. Gabais co/FUNC Belach Feda Máir.  Luid fecht and/FUNC Eogán Már do/FUNC acallaim mac Conaire do/FUNC
+Themair Breg. Infíd dóaib scéla Muman. Infíd dano/FUNC dóib/FUNC Incél
+Caech do/FUNC bith i/FUNC llepaid ac/FUNC Nemiud mac Srobcind. Is and/FUNC asbert Corpre Músc. Ba menma dún ém saigid Incéil i/FUNC nAlbain iar/FUNC nguin 
+ ar/FUNC n-athar. cenco/FUNC tísed i/FUNC nHerind nar ndóchum/FUNC. Is desin foídis Corpre Músc Fiachraig Rigfota i/FUNC n-oenló o/FUNC Themraig corrici tech
+Nemid meic Srobcind ríg hErand ⁊/FUNC foranic Incél and/FUNC fora/FUNC cind.
+ Fertha fálti fri/FUNC Fiachaich Rigfota. fo/FUNC bíth ba dalta dóib/FUNC uile/FUNC. ⁊/FUNC
+ba mac na/FUNC rígna. Is uad atá Ros Ríatai fri/FUNC Ard Nemid andes fo/FUNC 
+ bith in/FUNC chluichi ⁊/FUNC ind/FUNC ániusa dogníd in/FUNC Ríata sin/FUNC maginsin Baí dano/FUNC
+ trénfer la/FUNC Incgel. ni/FUNC leiced raind na/FUNC fodail i/FUNC tig Nemid. Fer do/FUNC imthrascrad fris/FUNC do/FUNC cech/FUNC dáim ticed tech Nemid dia/FUNC tísed dám/FUNC
+anechtair and/FUNC. Imchoemnacair Incgél dī/FUNC dús in/FUNC boí vel in/FUNC tanic
+dám anechtair issind/FUNC aidchisin. Asbert Nemed ni/FUNC thánic ol se/FUNC dám 
+ anechtair innocht. Asbert dano/FUNC Fiacha ced dano/FUNC do/FUNC Incgél in/FUNC dám do/FUNC imchomarc. Do/FUNC imthrascrad frisin/FUNC trenfer ucut ol se/FUNC do/FUNC muntir
+Incgiúil Am dámsa ém ol Fiacha. Cia/FUNC dacheleseo innocht ol se/FUNC ní/FUNC
+ dichela imbárach. Tair forsa/FUNC llár dī/FUNC ol Ingcél. Bid indossa duit/FUNC ón ol Fiacha Rigfota. Dothaetsaide forsin/FUNC lár. Condrecat ⁊/FUNC in/FUNC trénfer. 
+ Trascarthair in/FUNC trenfer forsin/FUNC coire co/FUNC memaid a/FUNC doe láma forsin/FUNC drolam iarthairach ⁊/FUNC co/FUNC memaid a/FUNC chóeldruim immon inber combo
+marb de/FUNC fo/FUNC chétoir.
+ Is iarum/FUNC asbert Ingcél. Ni/FUNC cluchi anisin/FUNC ol se/FUNC acht/FUNC is comlund.
+Rommertabair ol Ingcél lécud mo/FUNC námat chucum/FUNC i/FUNC n-oentech 
+ frim/FUNC. Is iarum/FUNC atbert Sárait. Bá díanaich lemsa/FUNC cid/FUNC cend Ingcel  doberad mo/FUNC mac. ⁊/FUNC ci atbalad oca/FUNC ba sodeithbir dó/FUNC Is iarum/FUNC asbert
+Fiacha fri/FUNC Neimed. ara/FUNC fácbad Ingcél a/FUNC theglach. Is iarum/FUNC asbert Nemed. Ní/FUNC chumgaba nech/FUNC ellach na/FUNC tellach im/FUNC thegluchsa acht/FUNC me/FUNC
+fadéin/FUNC. Asbert Fiacha fri/FUNC sodain. Foichlide dī/FUNC maccu Conaire. ar/FUNC thicfat re/FUNC cind chóic laithe déc do/FUNC chath fritsu/FUNC co/FUNC Belach Slige. Díanaigid ém ol Nemed. Loscat manis rí cath uaimse/FUNC.
+Farumai iarum/FUNC arnabárach co/FUNC ránic Temraig. Is and/FUNC assbreth
+fris/FUNC. Is ríataide ind/FUNC imrimsin oc/FUNC dul dó/FUNC dar/FUNC Slige nAssail. Is desin
+asberarsom Fiacha Ríatai. Innisid iarum/FUNC tuaid a/FUNC n-atchonnairc
+ i/FUNC tegdais Nemid. ⁊/FUNC anro raid Nemed fris/FUNC.  Is desin nenaisc Corpre  Músc for/FUNC Dergthene a/FUNC folta dar é/FUNC si flatha .i. filidecht cen/FUNC ergnam act focul cen/FUNC chloen cen/FUNC rudrach. cétlath fri/FUNC ríg Cassil. &/FUNC nert ⁊/FUNC
+sochraite dóib/FUNC oc/FUNC dígail a/FUNC n-athar. Is iarum/FUNC fichsetar cath ⁊/FUNC Derg. thene leo/FUNC oc/FUNC Beluch Feda Máir. &/FUNC memaid for/FUNC Nemad. &/FUNC dorochair Ingcél Cáech and/FUNC. ⁊/FUNC ni/FUNC thorchair Nemed. It é/FUNC indrema a/FUNC cendaile fil fri/FUNC Crossa Brenaind andess i/FUNC mBeluch Feda Máir. Is desin imchemnacair Dergthene. A/FUNC Chorpri Múisc murnig co/FUNC dígis Nemed ma/FUNC dorroach Léi. Lé Fír Flaith mac Conaire docer i/FUNC mBrudin Da Derga. 
+ Is desin frisrogart Corpre Músc. Co/FUNC rinnib sleg i/FUNC mbrunnib bánaib.
+ co/FUNC faebraib claideb i/FUNC mmunélaib. slóg ro/FUNC soíset gnee. dariuchtatar meicc dofessat hui digal immatorchair di/FUNC láim im/FUNC chend cnedach
+im/FUNC chéil rochlois ilach crúaid congraimm.
 Is desin gabsat meic Conaire crích Muman Gabais Corpre Músc 
- 
- ótá Brosnaig co Dergmónai iar Loch Léin. atá hErand dar Mumain. Co fi; cach immaire and táeb fri taeb fri immaire nEoganachta fo
-bíth immfortachta ⁊ comairchisechta dóib co bráth.
-Gabais Corpre Rigfota eter Diabulmúscraige gabais ⁊ hEllne
- crích Ciarraige Luachra hó Fornocht conici Lumnech. &amp; gabais 
- Corpre Baschaín in tír atá a chenel indossa.Fo chen cách tanic seSárait mathair tri Cairpre.fo chen don chach dománic.Mathair tri Corpre Sarait.
-  .i. Sárait ingen Chuind .i. Cond mac Oenláma Caíphe di  Chonnachtaib is di ro gab Nemed mac Srobcind in randsa. Trí
-brathir im Óengus mac Óenlama ⁊ Cond. ⁊ Gala Dána.Co slóg tar buidne balcaní matulaid co Connachta.mairg atchondairc crú Cuindtar táeb claidib Con Culaind.
+ ótá Brosnaig co/FUNC Dergmónai iar/FUNC Loch Léin. atá hErand dar/FUNC Mumain. Co/FUNC fi; cach/FUNC immaire and/FUNC táeb fri/FUNC taeb fri/FUNC immaire nEoganachta fo/FUNC bíth immfortachta ⁊/FUNC comairchisechta dóib/FUNC co/FUNC bráth.
+Gabais Corpre Rigfota eter/FUNC Diabulmúscraige gabais ⁊/FUNC hEllne
+ crích Ciarraige Luachra hó/FUNC Fornocht conici Lumnech. &/FUNC gabais 
+ Corpre Baschaín in/FUNC tír atá a/FUNC chenel indossa. Fo/FUNC chen cách/FUNC tanic se/FUNC Sárait mathair tri Cairpre. fo/FUNC chen don/FUNC chach dománic. Mathair tri Corpre Sarait.
+  .i. Sárait ingen Chuind .i. Cond mac Oenláma Caíphe di/FUNC Chonnachtaib is di/FUNC ro/FUNC gab Nemed mac Srobcind in/FUNC randsa. Trí
+brathir im/FUNC Óengus mac Óenlama ⁊/FUNC Cond. ⁊/FUNC Gala Dána. Co/FUNC slóg tar/FUNC buidne balcaní matulaid co/FUNC Connachta. mairg atchondairc crú Cuindtar táeb claidib Con Culaind.
