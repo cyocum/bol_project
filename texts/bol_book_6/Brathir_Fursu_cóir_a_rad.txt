@@ -1,19 +1,19 @@
-Brathir Fursu cóir a rad
-Mo Choe nach daimend acrad.
+Brathir Fursu cóir a/FUNC rad
+Mo Choe nach/FUNC daimend acrad.
 Epscop Mac Erca glan gne
-o Domnuch Mor in Maige
-Colman Mulind mór a rath.
-domunim o ra noemad
-Colman Comraire co llí.
-Manchan di Liath Ligi.
-Ba hísin a siur uile.
+o/FUNC Domnuch Mor in/FUNC Maige
+Colman Mulind mór a/FUNC rath.
+domunim o/FUNC ra/FUNC noemad
+Colman Comraire co/FUNC llí.
+Manchan di/FUNC Liath Ligi.
+Ba hísin/FUNC a/FUNC siur uile/FUNC.
 Et ba langart lanech
 Damnat chonnalb Chonaillech.
-Bad d'Úib laga na llend.
-in sesiur dorurmisem
-⁊ Damnat ní gó dam
-cona sessiur derbbrathar. B.
-INgen Milcon miad cen on
-a mmathair a mmorfessiur.
-is Milcon miad cen raind
+Bad d'Úib laga na/FUNC llend.
+in/FUNC sesiur dorurmisem
+⁊/FUNC Damnat ní/FUNC gó dam/FUNC
+cona/FUNC sessiur derbbrathar. B.
+INgen Milcon miad cen/FUNC on
+a/FUNC mmathair a/FUNC mmorfessiur.
+is Milcon miad cen/FUNC raind
 ropo mug maith Meic Albraind. B.

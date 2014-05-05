@@ -1,9 +1,9 @@
-Lon Garad Cosfind. I tuasciurt Ossairge o disiurt Garad i mmaig Garad
-i n.h. Fairchellaig ⁊ o Chill Gabra i Sleib Mairge. IS ed atberar co
-torchratar tiaga libair hErend ⁊ a soscelai ⁊ a llibur foglamma dia
-n-aidlenaib in aidchi éitsechta Luin Garad amail nothuctis nach ticfad co bráth nech mar Lon ṅGarad. Unde.
+Lon Garad Cosfind. I/FUNC tuasciurt Ossairge o/FUNC disiurt Garad i/FUNC mmaig Garad
+i/FUNC n.h. Fairchellaig ⁊/FUNC o/FUNC Chill Gabra i/FUNC Sleib Mairge. IS ed/FUNC atberar co/FUNC
+torchratar tiaga libair hErend ⁊/FUNC a/FUNC soscelai ⁊/FUNC a/FUNC llibur foglamma dia/FUNC
+n-aidlenaib in/FUNC aidchi éitsechta Luin Garad amail nothuctis nach/FUNC ticfad co/FUNC bráth nech/FUNC mar Lon ṅGarad. Unde.
 Atbath Lon Garad
-ro [..]ab don.
-is dith legind ⁊ scol
-hErind dar do hor.
+ro/FUNC [..]ab don/FUNC.
+is dith legind ⁊/FUNC scol
+hErind dar/FUNC do/FUNC hor.
 

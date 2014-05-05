@@ -1,4 +1,4 @@
-Senbriathra Fithail in so sis.
+Senbriathra Fithail in/FUNC so/FUNC sis.
 Tossahch augrai athchosan.
 T. ethig arlicud
 T. écnaig airbire
@@ -84,7 +84,7 @@ F. ana fognam
 F. astúd amaires
 F. rand repind.
 F. rath riarugud
-F. ré rathaib
+F. ré/FUNC rathaib
 F. rous ruath
 F. gart grísad
 F. grés soos
@@ -107,10 +107,10 @@ D. gó cairigud
 D. clóine cundrech.
 D. ugra etargaire
 D. rath riara.
-D. aite a ṡochraite
+D. aite a/FUNC ṡochraite
 D. naidm nascar
-D. rath a imdegail
-D. fiadnaise a fugrell.
+D. rath a/FUNC imdegail
+D. fiadnaise a/FUNC fugrell.
 D. fudir fritholta
 D. maith mórad
 D. díbe dimmolud
@@ -128,48 +128,48 @@ D. othur iarfaigid.
 D. eitge amsir.
 D. tairec tunide.
 D. aí astud.
-Gáeth cach co rreic a ḟorbbai
-Baeth cách co lluaig tíri.
-Rectaid cách co lenbo
-Ferach cach co crésíni
-Sochla .c. co áir
-Brugaid .c. co éthech
-Fénnid .c. co trebar
-Amus .c. co forus
-Sochond .c. co mesca
-Codnach .c. co feirg.
-Sognaid .c. co fuacht
-Sobraig .c. co haltram
-Rúnid .c. co ugra
-Fálid .c. co dona
-Dana .c. co ethech
-Erra .c. co fogail.
-Traigthech .c. co cairpdech
-Caíd cach ceól co cruit
-Sochaird .c. sona
-Dochraid cech ṅdona
-Milsem cach lochta a airigid
-Milsem cech céol céol ind orcin
-Milsevm cecha corma a cétdeog.,
+Gáeth cach/FUNC co/FUNC rreic a/FUNC ḟorbbai
+Baeth cách/FUNC co/FUNC lluaig tíri.
+Rectaid cách/FUNC co/FUNC lenbo
+Ferach cach/FUNC co/FUNC crésíni
+Sochla .c./FUNC co/FUNC áir
+Brugaid .c./FUNC co/FUNC éthech
+Fénnid .c./FUNC co/FUNC trebar
+Amus .c./FUNC co/FUNC forus
+Sochond .c./FUNC co/FUNC mesca
+Codnach .c./FUNC co/FUNC feirg.
+Sognaid .c./FUNC co/FUNC fuacht
+Sobraig .c./FUNC co/FUNC haltram
+Rúnid .c./FUNC co/FUNC ugra
+Fálid .c./FUNC co/FUNC dona
+Dana .c./FUNC co/FUNC ethech
+Erra .c./FUNC co/FUNC fogail.
+Traigthech .c./FUNC co/FUNC cairpdech
+Caíd cach/FUNC ceól co/FUNC cruit
+Sochaird .c./FUNC sona
+Dochraid cech/FUNC ṅdona
+Milsem cach/FUNC lochta a/FUNC airigid
+Milsem cech/FUNC céol céol ind/FUNC orcin
+Milsevm cecha/FUNC corma a/FUNC cétdeog.,
 Sé comartha déc drochthacrai .i. frithchathugud fessa
 Attach drochberla
 Ilar n-athise.
-Cathigud cen chomartha.
+Cathigud cen/FUNC chomartha.
 Rigne labartha
-A molad fadesin
-Failte fri tuisel tacrai
-Tomus fri arddu.
+A/FUNC molad fadesin/FUNC
+Failte fri/FUNC tuisel tacrai
+Tomus fri/FUNC arddu.
 Folabrad n-insci
 IMtholta ṅgáisi.
 Derbad n-inderb
 Dinsem lebor.
-Soud fri noise
+Soud fri/FUNC noise
 Airdde ṅgotha.
 Utmaille tacrai.
 Tacra fergach.
 Spcad sochairde
 Cátingud cáich.,
-IS áil damsa co fessur cinnas beo eter baethu ⁊ gaethu ⁊ gnathchib ⁊ iṅgnathchib eter senaib ⁊ ocaib ⁊ ecnaidib ⁊ anecnaidib ar a mac fri Fithal .Ni. ar Fithal.
+IS áil damsa co/FUNC fessur cinnas beo eter/FUNC baethu ⁊/FUNC gaethu ⁊/FUNC gnathchib ⁊/FUNC iṅgnathchib eter/FUNC senaib ⁊/FUNC ocaib ⁊/FUNC ecnaidib ⁊/FUNC anecnaidib ar a/FUNC mac fri/FUNC Fithal .Ni./FUNC ar Fithal.
 Nirbat rogáeth
 Nirbat robaeth
 N. rouallach
@@ -188,49 +188,49 @@ D. rolabar bat dergna.
 D. rothó nit-suilfither
 D. rochuaid fordit-brisfider
 D. rothim not-dr(..)fider.
-Ceist Cinnas rombeo. Ni
-Bat dath fri gáis arna rot-togaitha nech i ṅgáis
-Bat uallach fri uaill arna tucthar crich fort.
-Bat becda fri becdataid i ndentar do thol
-Bat labor fri labra inotagar cath.
-Bat tó fri tó i n-étsider aisneis.
-Bat cruaid fri cras arnachat-tarda (.)ech i n-éisleis.
-Bat moeth fri maethi arnadot-rocra cach.
-cid immangéb trebad ol a mac fri Fithal.
-Ni. ol Fithal IM indeoin.
-Cade ind indeoin trebtha ol in mac.
-Ni. ben maith ol Fithal
-cinnas atgniusa in degmnai ar in mac.
-Ni. asa deilb ⁊ asa costud ar Fithal .i.
-Ni thuca in cail ṅgarit ossí chamḟinnach.
-Ni thuca in remair ṅgarit.
-Ni thuca in faind fatai.
-Ni thuca in dupai ṅdochoisc
-Ni thuca in n-udir n-abbuidi.
-Ni thuca in duib temlidi
-Ni thuca in cenaind ṅgairectaig.
-N. in cáil clandmair is í druthethaind.
-N. in mairlig miepertaig cecha tuca.
-Ceist cia ben dobér old in mac .Ni. ol Fithal. Matchotai na finna forsiuṅga. Na bána gela cenduba.
-cid as dech ban. Ni. Ben nad fetatar fir remut acht matchathar Iarmotha sin ni gabtha friu ara n-aicenta. Et nidat follaigthe ar richtain a lessa.
-Cid dogen friu ol in mac. A ṅgabail dara n-anmi cipsi chruth beithi ol Fithal. ar noco derglastar eter díb meni gabthar dara n-ainme.
-Cid as messo ban. Ni. Bé chairn.
-Cid as messom andaside. Ni fer doda-beir i cormthech coa chen
-Cid as messo andate diblínaib. Ni. Mac berar etarru. Nin-aile. nin-turcaba. Ni mora ar ní bia cen n-ethig ⁊ cen mebail.,
+Ceist Cinnas rombeo. Ni/FUNC
+Bat dath fri/FUNC gáis arna/FUNC rot-togaitha nech/FUNC i/FUNC ṅgáis
+Bat uallach fri/FUNC uaill arna/FUNC tucthar crich fort/FUNC.
+Bat becda fri/FUNC becdataid i/FUNC ndentar do/FUNC thol
+Bat labor fri/FUNC labra inotagar cath.
+Bat tó fri/FUNC tó i/FUNC n-étsider aisneis.
+Bat cruaid fri/FUNC cras arnachat-tarda (.)ech i/FUNC n-éisleis.
+Bat moeth fri/FUNC maethi arnadot-rocra cach/FUNC.
+cid/FUNC immangéb trebad ol a/FUNC mac fri/FUNC Fithal.
+Ni./FUNC ol Fithal IM/FUNC indeoin.
+Cade/FUNC ind/FUNC indeoin trebtha ol in/FUNC mac.
+Ni./FUNC ben maith ol Fithal
+cinnas atgniusa in/FUNC degmnai ar in/FUNC mac.
+Ni./FUNC asa/FUNC deilb ⁊/FUNC asa/FUNC costud ar Fithal .i.
+Ni/FUNC thuca in/FUNC cail ṅgarit ossí chamḟinnach.
+Ni/FUNC thuca in/FUNC remair ṅgarit.
+Ni/FUNC thuca in/FUNC faind fatai.
+Ni/FUNC thuca in/FUNC dupai ṅdochoisc
+Ni/FUNC thuca in/FUNC n-udir n-abbuidi.
+Ni/FUNC thuca in/FUNC duib temlidi
+Ni/FUNC thuca in/FUNC cenaind ṅgairectaig.
+N./FUNC in cáil clandmair is í/FUNC druthethaind.
+N./FUNC in/FUNC mairlig miepertaig cecha/FUNC tuca/FUNC.
+Ceist cia/FUNC ben dobér old in/FUNC mac .Ni./FUNC ol Fithal. Matchotai na/FUNC finna forsiuṅga. Na/FUNC bána gela cenduba.
+cid/FUNC as/FUNC dech ban. Ni/FUNC. Ben nad/FUNC fetatar fir remut acht/FUNC matchathar Iarmotha sin/FUNC ni/FUNC gabtha friu/FUNC ara/FUNC n-aicenta. Et nidat follaigthe ar/FUNC richtain a/FUNC lessa.
+Cid/FUNC dogen friu/FUNC ol in/FUNC mac. A/FUNC ṅgabail dara/FUNC n-anmi cipsi chruth beithi ol Fithal. ar/FUNC noco/FUNC derglastar eter/FUNC díb meni gabthar dara/FUNC n-ainme.
+Cid/FUNC as/FUNC messo/FUNC ban. Ni/FUNC. Bé chairn.
+Cid/FUNC as/FUNC messom/FUNC andaside. Ni/FUNC fer doda-beir i/FUNC cormthech coa/FUNC chen
+Cid/FUNC as/FUNC messo/FUNC andate diblínaib. Ni/FUNC. Mac berar etarru/FUNC. Nin-aile. nin-turcaba. Ni/FUNC mora ar/FUNC ní/FUNC bia cen/FUNC n-ethig ⁊/FUNC cen/FUNC mebail.,
 Dán
-ecna dogni rig do bocht
-Dogní anrath do essirt.
-D. sochenel do docheniul
-D. gaeth do baeth
-Maith a thossach.
-Ferr a dered.
-Airmitnech issin chentur.
-Logmar issind altur.
-Ni dercointech fri dered .i. fri tabairt nime dó
+ecna dogni rig do/FUNC bocht
+Dogní anrath do/FUNC essirt.
+D. sochenel do/FUNC docheniul
+D. gaeth do/FUNC baeth
+Maith a/FUNC thossach.
+Ferr a/FUNC dered.
+Airmitnech issin/FUNC chentur.
+Logmar issind/FUNC altur.
+Ni/FUNC dercointech fri/FUNC dered .i. fri/FUNC tabairt nime dó/FUNC
 Dolig dán laechdacht.
-Ni erdairc. ⁊ is dergna a dúi
-Gnimuch duthain a súi.
-IT etradaig a bí.
-IT iffernaig a mmmairb.
-Nir thimna athair da mac.
-Mairg dianid dan laechdacht.
+Ni/FUNC erdairc. ⁊/FUNC is dergna a/FUNC dúi
+Gnimuch duthain a/FUNC súi.
+IT etradaig a/FUNC bí.
+IT iffernaig a/FUNC mmmairb.
+Nir/FUNC thimna athair da/FUNC mac.
+Mairg dianid dan/FUNC laechdacht.

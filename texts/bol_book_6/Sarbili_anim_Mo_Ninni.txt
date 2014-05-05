@@ -1,34 +1,34 @@
-Sarbili ainm Mo Ninni prius o tustidib. Dar Erca o baithiss. Mo Ninne
-ond ḟilid. IS de ata dui .i. fili balb ra throisc aicce ar co tissed a
-erlabra dó. Et issed toesech ro labair .i. nin. nin. Unde dicebatur Mo
-Ninne. ⁊ Ninníne éices ainm in ḟiled. ɫ issed atbertis na caillecha
-óca Mo Ninna ria. ⁊ inde Mo Nannec. ⁊ Mo Ninne dicitur.
+Sarbili ainm Mo Ninni prius o/FUNC tustidib. Dar Erca o/FUNC baithiss. Mo Ninne
+ond/FUNC ḟilid. IS de/FUNC ata dui .i. fili balb ra/FUNC throisc aicce/FUNC ar/FUNC co/FUNC tissed a/FUNC
+erlabra dó/FUNC. Et issed toesech ro/FUNC labair .i. nin. nin. Unde dicebatur Mo
+Ninne. ⁊/FUNC Ninníne éices ainm in/FUNC ḟiled. ɫ/FUNC issed atbertis na/FUNC caillecha
+óca/FUNC Mo Ninna ria. ⁊/FUNC inde Mo Nannec. ⁊/FUNC Mo Ninne dicitur.
 Mo Ninne ciad arcanam
-breo cen barand tuaid bruidind.
-fo néib grene doscaraim.
-fo baraind i Sleib Chulind.
-Ro chacht ar Crist a colaind.
+breo cen/FUNC barand tuaid bruidind.
+fo/FUNC néib grene doscaraim.
+fo/FUNC baraind i/FUNC Sleib Chulind.
+Ro/FUNC chacht ar/FUNC Crist a/FUNC colaind.
 nistarall trist domunim.
-mad ro gab crabud grinni
+mad/FUNC ro/FUNC gab crabud grinni
 Mo Ninne Slebe Culind.
-O gabais cris foa colaind
-isse seo fiss domunim.
-in thormal sáith ɫ séire
+O/FUNC gabais cris foa/FUNC colaind
+isse seo/FUNC fiss domunim.
+in/FUNC thormal sáith ɫ/FUNC séire
 Mo Ninne Slebe Culind
 Nói fichit bliadna balla
-iar rím riagla cen timme
-cen baes cen bet cen baegul
-ba hé saegul Mo Ninne. M.
-Patric ro bathas cailli
-co n-aille flatha finne
-fo miad masse class cunnail
+iar/FUNC rím riagla cen/FUNC timme
+cen/FUNC baes cen/FUNC bet cen/FUNC baegul
+ba hé/FUNC saegul Mo Ninne. M.
+Patric ro/FUNC bathas cailli
+co/FUNC n-aille flatha finne
+fo/FUNC miad masse class cunnail
 aisse mu[..] Mo Ninne.
 Ba hógg ba hór gle glanna.
 ba mind óir ba slóg singe
-ba gaire gúr cach clainne.
+ba gaire gúr cach/FUNC clainne.
 ba múr mainne Mo Ninne. M.
-Hi pridnoin noebad aille
-nirbo léim lium i llinne
+Hi/FUNC pridnoin noebad aille
+nirbo léim lium i/FUNC llinne
 fosrogab dor[..] raige
 dochum nime Mo Ninne. M.
 

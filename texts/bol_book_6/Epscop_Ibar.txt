@@ -1,30 +1,30 @@
-Epscop Ibar. Tri bliadna trichat tri fichit uita eius. Lugna nomen
-patris eius ⁊ di Ultaib doside ⁊ do Artraigib da int sainruth. Bassar
-im̄ nomen matris eius ⁊ di Désib Breg diside. Cethri meic ⁊ iii[i]
-ingena ic Lugna .i. Ibar epscop. Mo Beoc. Coeman
-Brecc. Macli. Sogeis. IT é .iiii. ingena .i. Caínech Apad. Mellit
-Manach. Brondḟind Brecc. Corrtharach Cain. Trí anmand batar for epscop
-Ibar .i. Nennán ainm dó .i. nínan ara lenmaidecht. Columba Cille
+Epscop Ibar. Tri bliadna trichat tri/FUNC fichit uita eius. Lugna nomen
+patris eius ⁊/FUNC di/FUNC Ultaib doside/FUNC ⁊/FUNC do/FUNC Artraigib da/FUNC int/FUNC sainruth. Bassar
+im̄/FUNC nomen matris eius ⁊/FUNC di/FUNC Désib Breg diside/FUNC. Cethri meic ⁊/FUNC iii[i]
+ingena ic/FUNC Lugna .i. Ibar epscop. Mo Beoc. Coeman
+Brecc. Macli. Sogeis. IT é/FUNC .iiii. ingena .i. Caínech Apad. Mellit
+Manach. Brondḟind Brecc. Corrtharach Cain. Trí anmand batar for/FUNC epscop
+Ibar .i. Nennán ainm dó/FUNC .i. nínan ara/FUNC lenmaidecht. Columba Cille
 testante. Nennán nobilissimum principalem episcopum. Ecmacht dā
-agnomen dó .i. accu mó a acht .i. a chubat ar robatar .xu. ina
+agnomen dó/FUNC .i. accu/FUNC mó/FUNC a/FUNC acht .i. a/FUNC chubat ar/FUNC robatar .xu. ina/FUNC
 airdi. Eodem testante. Abbatem catholicum egregium
-.i. longissimum. Cognomen im̄ dó Ibar. Et ideo impositum est ei. Fecht
-luid Lugna ina charpat ⁊ a ben immalle riss .i. Bassar. sech Raith
-Cennaig lotar. Carpat forríg sechno ar in drúi tall istig. Tiagar dia
-ḟis cia fil and ar in rí .i. Colman m̄ Némain et ro baist epscop Ibar
-eside iar sain. Et roiarfaig in techtaire. Acus fuair a ḟis conid é
-Lugna ro búi sin carput. ⁊ issed ro raid in rí. Mentax est magus quia
+.i. longissimum. Cognomen im̄/FUNC dó/FUNC Ibar. Et ideo impositum est ei. Fecht
+luid Lugna ina/FUNC charpat ⁊/FUNC a/FUNC ben immalle riss/FUNC .i. Bassar. sech/FUNC Raith
+Cennaig lotar. Carpat forríg sechno ar in/FUNC drúi tall istig. Tiagar dia/FUNC
+ḟis cia/FUNC fil and/FUNC ar in/FUNC rí .i. Colman m̄ Némain et ro/FUNC baist epscop Ibar
+eside/FUNC iar/FUNC sain/FUNC. Et roiarfaig in/FUNC techtaire. Acus/FUNC fuair a/FUNC ḟis conid/FUNC é/FUNC
+Lugna ro/FUNC búi sin/FUNC carput. ⁊/FUNC issed ro/FUNC raid in/FUNC rí. Mentax est magus quia
 non est rex in curru.  Dixit magus. Interrogate illum id send
 Lugnam. utrum habet uxorem egram. Nuntius poirtans lapidem in manu sua
-occulte iuit ⁊ dixit. Portaui causam sanitatis uxoris si esset in
+occulte iuit ⁊/FUNC dixit. Portaui causam sanitatis uxoris si esset in
 dolore. Lugna respondit. Quid portasti. Ille respondit. Cathedram
 cepae portaui a rege. Et postea nuntius manuem dé[...] ut dixit ita
-fuit ⁊ .xii. unga[..] habens in ea. Una ex illis suauit magnitudine ⁊
-illam cathedram dedit .i. Lugna uxori usa ⁊ manducauit eam. Et postea
+fuit ⁊/FUNC .xii. unga[..] habens in ea. Una ex illis suauit magnitudine ⁊/FUNC
+illam cathedram dedit .i. Lugna uxori usa ⁊/FUNC manducauit eam. Et postea
 parturit filium habentem similem colorem illi arbor que taxus .i. ibar
-uocatur et ideo infans ille nominatus set Ibar. IN mac tanaise im̄ Mo
-Beoc. ideo nominatur quia mater eius dixit. Mo mac beoda ócc so. An
-tres mac Cóeman .i. cóem ⁊ án é ⁊ sacerdos fuit. Quartus autem filius
+uocatur et ideo infans ille nominatus set Ibar. IN/FUNC mac tanaise im̄/FUNC Mo
+Beoc. ideo nominatur quia mater eius dixit. Mo/FUNC mac beoda ócc so/FUNC. An/FUNC
+tres mac Cóeman .i. cóem ⁊/FUNC án é/FUNC ⁊/FUNC sacerdos fuit. Quartus autem filius
 eius episcopus fuit quem nunc dicimus Mac Luṅge. quasi Mac Lugna. Et
 ideo dicebatur Mac Lugna quia pater eius ualde amabat eum pre
 certis. ut discipuli Mocta dixerunt. non uenerunt filii Lugnae
@@ -32,4 +32,4 @@ certis. ut discipuli Mocta dixerunt. non uenerunt filii Lugnae
 Mocta dixit. Cur tertius filius matris propriae nomine. Discipuli
 responderunt. Proprium nomen habet zr[..]na noluit filium suum
 iuniorem alii vocair ob amorem quia filii Lugna uocauit. Et dixit
-Mocta. Bud irgna ⁊c̄ ⁊ bid ard a inad híc ⁊ in futuro.
+Mocta. Bud irgna ⁊c̄ ⁊/FUNC bid ard a/FUNC inad híc ⁊/FUNC in futuro.

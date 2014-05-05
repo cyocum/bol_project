@@ -1,41 +1,41 @@
-An rim a rí richid ráin
-corbom etal risin dáil
-co cloister cech ní atber
-isanct cech sen a Dé máir
-A Mc̄ Maire miad cen ón
-a mmo Chomde co rric nem.
-a ruiri na n-aṅgel find.
-inn anfa frim corbom sen.
-attchimse mo guide rutt
-ar baig Maire diandi macc
-menbad tacrad latt a Rí
-condernaind ní budmaith latt.
-Maccan berair riana ré.
-ní fintar feib arambé
-asa óete lenta baéis
-a ggáes cach aés bes hi thé
-Ni horta laeg ria n-áes daim
-ar cach sen as tressiu a chách
-ní horta úan na horc maith.
-ni coilte craeb riana bláth
+An/FUNC rim a/FUNC rí richid ráin
+corbom etal risin/FUNC dáil
+co/FUNC cloister cech/FUNC ní/FUNC atber
+isanct cech/FUNC sen a/FUNC Dé máir
+A/FUNC Mc̄ Maire miad cen/FUNC ón
+a/FUNC mmo Chomde co/FUNC rric nem.
+a/FUNC ruiri na/FUNC n-aṅgel find.
+inn/FUNC anfa frim/FUNC corbom sen.
+attchimse mo/FUNC guide rutt
+ar/FUNC baig Maire diandi macc
+menbad tacrad latt/FUNC a/FUNC Rí
+condernaind ní/FUNC budmaith latt/FUNC.
+Maccan berair riana ré/FUNC.
+ní/FUNC fintar feib arambé
+asa/FUNC óete lenta baéis
+a/FUNC ggáes cach/FUNC aés bes hi/FUNC thé
+Ni/FUNC horta laeg ria/FUNC n-áes daim
+ar/FUNC cach/FUNC sen as/FUNC tressiu a/FUNC chách
+ní/FUNC horta úan na/FUNC horc maith.
+ni/FUNC coilte craeb riana bláth
 Buain guirt riasiu bas abbuig
-is m[...] cacaid a Rí rind
-is é in loṅgud riana thráth
-blath do choll in tan bas find
-Fuiniud i mmedon laa
-ni hord baa rian
-matan i n-aidche in dedoil
-riana medon cia mó col.
+is/FUNC m[...] cacaid a/FUNC Rí rind
+is é/FUNC in/FUNC loṅgud riana thráth
+blath do/FUNC choll in/FUNC tan bas find
+Fuiniud i/FUNC mmedon laa
+ni/FUNC hord baa rian
+matan i/FUNC n-aidche in/FUNC dedoil
+riana medon cia/FUNC mó col.
 Cluinti itgi notguidiu
-is mo chridiu deroil dúir
-a Mc̄ mo Dé cia nomrodba
-is bec mo thorba dond úir
-Duitsiu a Mc̄ mo tholtu.
-cen cop é sentu dom churp.
-ce nambera cen taithlech
-noco bia m'aithfer fort
-IS fort ṡnádud cach a mbí
-ria ndul am chri a Rí slán.
-ic do guide dam cen dichil
-an rimim a Rí richid ran. A.
+is mo/FUNC chridiu deroil dúir
+a/FUNC Mc̄ mo/FUNC Dé cia/FUNC nomrodba
+is bec mo/FUNC thorba dond/FUNC úir
+Duitsiu a/FUNC Mc̄ mo/FUNC tholtu.
+cen/FUNC cop é/FUNC sentu dom/FUNC churp.
+ce/FUNC nambera cen/FUNC taithlech
+noco/FUNC bia m'aithfer fort/FUNC
+IS fort/FUNC ṡnádud cach/FUNC a/FUNC mbí
+ria/FUNC ndul am chri a/FUNC Rí slán.
+ic/FUNC do/FUNC guide dam/FUNC cen/FUNC dichil
+an/FUNC rimim a/FUNC Rí richid ran. A.
 

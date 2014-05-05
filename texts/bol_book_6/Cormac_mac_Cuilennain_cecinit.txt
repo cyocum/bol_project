@@ -1,9 +1,9 @@
 Cormac mac Culennain .cecinit.
-Mael Rúain Mael Tuile im gním ṅgle.
-Mael anfaid na Darinse
-na tri Flaind Mael Dithreib dil
+Mael Rúain Mael Tuile im/FUNC gním ṅgle.
+Mael anfaid na/FUNC Darinse
+na/FUNC tri Flaind Mael Dithreib dil
 Dimman Dalbach Feidlimid
-Diarmait Eochaid ard a scél
-⁊ Oengus .h. Oiblén
-luch na hoentad sin uile
-im Mael Rúain im Mael Tuile. Mael Ruain
+Diarmait Eochaid ard a/FUNC scél
+⁊/FUNC Oengus .h. Oiblén
+luch na/FUNC hoentad sin/FUNC uile/FUNC
+im/FUNC Mael Rúain im/FUNC Mael Tuile. Mael Ruain

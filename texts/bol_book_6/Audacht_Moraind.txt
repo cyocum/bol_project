@@ -1,36 +1,36 @@
-Briathra Moraind in so sis oc tecosc Ḟechtnaig diaro ḟóid Morand a dalta chuce .i. Nere.
-Abbair ris ri cach ṁbrethir ar Morand. INNis dó rí cach ṁbrethir. Brig dó ri cach ṁbrethir.
+Briathra Moraind in/FUNC so/FUNC sis/FUNC oc/FUNC tecosc Ḟechtnaig diaro ḟóid Morand a/FUNC dalta chuce/FUNC .i. Nere.
+Abbair ris ri cach/FUNC ṁbrethir ar Morand. INNis dó/FUNC rí cach/FUNC ṁbrethir. Brig dó/FUNC ri cach/FUNC ṁbrethir.
 Mórad fírinne. nommorfa.
 nertad firinne. nonertfa.
 Cometad .f. nocometfa.
 Tocbad .f. notoceba.
 Seiched .f. nosseichfe.
-Cipé chometas .f. ni esseba nach maith aire. Nochon airchiure flaith.
-Ar is tre fír flathemon mortlada tromlige do dóinib diṅgbatar.
-IS tre ḟír fl. at márchatha de chrichaib cunámat curethar.
-IS t. f. fl. cach ana lán cach lestar lán imma ḟlaith.
-IS t. f. fl. soss. slante. sid. suba. soad. same. sadile. slánchride cach comarbae cona chlí in cháinchomarbai clannas.
-IS t. f. f. mesrada móra at manna milsi blaissetar.
-IS t. f. f. tra libarna lána lanamna bana. barc i cind cetre.
-IS t. f. tocbait dúsi ili órda airgdide.
-IS t. f. docuredar muir ildelba míl mina mór for tractaib dergetar.
-IS t. f. aibne usci iasc a tonnaib de snamaib snegtar.
-IS t. f. sína caine cach tremsi techtaide dudecat .i. Gaim cáin cuisnech. Errach tírim gaithach. Sam tur frossach. Fogomur tromdruchtach torthech.
-Gó flathemon dobeir sína saíba. ⁊ mortlada. ⁊ gallra. ancessa for tuatha.
-IS t. f. cacha cethri i crichaib cach ḟlathemon fireóin cen tedma cen aṅces foraib.
-IS t. f. cech suth soínmech. cach doth torthech. cech lamnad lanchóir.
-IS f. ni ḟuiglid nach fuigled manip co fasaigib firinne fogabthar ar it fasaig ⁊ roscaid berthe bretha. Ni brithem lasna furecar.
-Abbair ris tra nirip diumsach. diupartach doguittech. doitgi.
-Dligidir cech duigthech dígi.
-Dligid cech diumsach tairniud.
-D. cech airrechtach atháini.
-D. cech dotheṅga miscais.
-D. cech gubrithem duaidid ⁊ gairsechla
-Abbair ris nirip rannaire fuamna goa. Ar ni cumgat baa goa i cathróib.
-Abbair ris nip fuilech. nip cuilech. nip croda a acnam.
-Abbair ris ni ḟuigbe co ṅgói cathrói ar ni frith ni fuigebthar britem bas ḟiriu cathroi.
-Abbair ris ni lua urlommand for úarmirend croda for feola fine ar etarbai n-indeirb n-incliss im tír caich ar n-uair.
-Abbair ris cóich rabúi. ɫ cóich bias in bithsa. Fingal mairg forṅdoirtither. mairg doda-foír. .i. mairg forṅdóirter do-fechar co nomaid nó.
+Cipé chometas .f. ni/FUNC esseba nach/FUNC maith aire. Nochon/FUNC airchiure flaith.
+Ar is tre/FUNC fír flathemon mortlada tromlige do/FUNC dóinib diṅgbatar.
+IS tre/FUNC ḟír fl. at márchatha de/FUNC chrichaib cunámat curethar.
+IS t./FUNC f. fl. cach/FUNC ana/FUNC lán cach/FUNC lestar lán imma/FUNC ḟlaith.
+IS t./FUNC f. fl. soss. slante. sid. suba. soad. same. sadile. slánchride cach/FUNC comarbae cona/FUNC chlí in/FUNC cháinchomarbai clannas.
+IS t./FUNC f. f. mesrada móra at manna milsi blaissetar.
+IS t./FUNC f. f. tra/FUNC libarna lána lanamna bana. barc i/FUNC cind cetre.
+IS t./FUNC f. tocbait dúsi ili órda airgdide.
+IS t./FUNC f. docuredar muir ildelba míl mina mór for/FUNC tractaib dergetar.
+IS t./FUNC f. aibne usci iasc a/FUNC tonnaib de/FUNC snamaib snegtar.
+IS t./FUNC f. sína caine cach/FUNC tremsi techtaide dudecat .i. Gaim cáin cuisnech. Errach tírim gaithach. Sam tur frossach. Fogomur tromdruchtach torthech.
+Gó flathemon dobeir sína saíba. ⁊/FUNC mortlada. ⁊/FUNC gallra. ancessa for/FUNC tuatha.
+IS t./FUNC f. cacha/FUNC cethri i/FUNC crichaib cach/FUNC ḟlathemon fireóin cen/FUNC tedma cen/FUNC aṅces foraib.
+IS t./FUNC f. cech/FUNC suth soínmech. cach/FUNC doth torthech. cech/FUNC lamnad lanchóir.
+IS f./FUNC ni/FUNC ḟuiglid nach/FUNC fuigled manip/FUNC co/FUNC fasaigib firinne fogabthar ar/FUNC it fasaig ⁊/FUNC roscaid berthe bretha. Ni/FUNC brithem lasna/FUNC furecar.
+Abbair ris tra/FUNC nirip diumsach. diupartach doguittech. doitgi.
+Dligidir cech/FUNC duigthech dígi.
+Dligid cech/FUNC diumsach tairniud.
+D. cech/FUNC airrechtach atháini.
+D. cech/FUNC dotheṅga miscais.
+D. cech/FUNC gubrithem duaidid ⁊/FUNC gairsechla
+Abbair ris nirip rannaire fuamna goa. Ar/FUNC ni/FUNC cumgat baa goa i/FUNC cathróib.
+Abbair ris nip fuilech. nip cuilech. nip croda a/FUNC acnam.
+Abbair ris ni/FUNC ḟuigbe co/FUNC ṅgói cathrói ar/FUNC ni/FUNC frith ni/FUNC fuigebthar britem bas ḟiriu cathroi.
+Abbair ris ni/FUNC lua urlommand for/FUNC úarmirend croda for/FUNC feola fine ar/FUNC etarbai n-indeirb n-incliss im/FUNC tír caich/FUNC ar/FUNC n-uair.
+Abbair ris cóich rabúi. ɫ/FUNC cóich bias in/FUNC bithsa. Fingal mairg forṅdoirtither. mairg doda-foír. .i. mairg forṅdóirter do-fechar co/FUNC nomaid nó/FUNC.
 IS olc foferthar
 Marnas merthir. Gonas gentair.
 Finit amen finit.

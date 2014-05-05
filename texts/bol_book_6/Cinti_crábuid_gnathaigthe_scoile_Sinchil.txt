@@ -1,12 +1,11 @@
-Cinit crábuid ⁊ gnathaigthe scoile Sinchil so sis.  CRábud cen
-scís. Umla cen ḟodord. Étgud cen ḟorcraid. Aíni cen clniud. Ailithr
-cen impúd. Bíthecht fri bésaib. Bennachad prainne. Praind cen ḟuidell.
-Feidli fri foglaim. Frithalim tráth. Tír frecor nime. Nertad cech
-oen. Nefní dont ṡaegul. Santugud offrind. Eitsecht fri uaslib. Adrad
-do genu. Gabail ic fannaib. Foisitiu menic. Michatu cuirp. Cátu
-anman. Oenucht fri écin. Éscas co galaraib. Crossigell co toe. Tróige
-do thinnius. Scrutan screptra. Aisnis ḟorcitail. Onóir do
-ṡenaib. Saere i sollomnaib. Cumri cantana. Comet cairdessa. Mnaa do
-imgabail. Aduath do airscelaib. Miscais do raidsechaib. Cen rochtain
-ar rochomrad. Cen anoentaid oentaige. Cen escas d'acallaim
-chobnesam. ISle dia magister. A mmagister a mmog. IN comdiu a tigerna.
+Cinit crábuid ⁊/FUNC gnathaigthe scoile Sinchil so/FUNC sis/FUNC.  CRábud cen/FUNC scís. Umla cen/FUNC ḟodord. Étgud cen/FUNC ḟorcraid. Aíni cen/FUNC clniud. Ailithr
+cen/FUNC impúd. Bíthecht fri/FUNC bésaib. Bennachad prainne. Praind cen/FUNC ḟuidell.
+Feidli fri/FUNC foglaim. Frithalim tráth. Tír frecor nime. Nertad cech/FUNC
+oen. Nefní dont/FUNC ṡaegul. Santugud offrind. Eitsecht fri/FUNC uaslib. Adrad
+do/FUNC genu. Gabail ic/FUNC fannaib. Foisitiu menic. Michatu cuirp. Cátu
+anman. Oenucht fri/FUNC écin. Éscas co/FUNC galaraib. Crossigell co/FUNC toe. Tróige
+do/FUNC thinnius. Scrutan screptra. Aisnis ḟorcitail. Onóir do/FUNC
+ṡenaib. Saere i/FUNC sollomnaib. Cumri cantana. Comet cairdessa. Mnaa do/FUNC
+imgabail. Aduath do/FUNC airscelaib. Miscais do/FUNC raidsechaib. Cen/FUNC rochtain
+ar/FUNC rochomrad. Cen/FUNC anoentaid oentaige. Cen/FUNC escas d'acallaim
+chobnesam. ISle dia/FUNC magister. A/FUNC mmagister a/FUNC mmog. IN/FUNC comdiu a/FUNC tigerna.

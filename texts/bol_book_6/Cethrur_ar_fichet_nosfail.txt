@@ -1,48 +1,48 @@
-Cethrur ar ḟichet nosfail
-im Ḟeidlimid mac Crimthain
-is oenimpide leo ar nim
-⁊ oenitgi i talmain
-Dímman Arad maith in maín
-is Lobrán Uaithne re thaíb
+Cethrur ar/FUNC ḟichet nosfail
+im/FUNC Ḟeidlimid mac Crimthain
+is oenimpide leo/FUNC ar/FUNC nim
+⁊/FUNC oenitgi i/FUNC talmain
+Dímman Arad maith in/FUNC maín
+is Lobrán Uaithne re/FUNC thaíb
 Mael Tuile. Mael Anfaid án
 Mel Ruain is Eochid imṡlán
-Mo lLiṅg is Chinaed cen cháin
-⁊ Oengus mac Oebliain
-Diarmait 's int Oengus aile.
+Mo lLiṅg is Chinaed cen/FUNC cháin
+⁊/FUNC Oengus mac Oebliain
+Diarmait 's int/FUNC Oengus aile/FUNC.
 Dalbach Cúle Collainge.
-Rectgus ⁊ Rectgniad réil
-Brocan ⁊ Epscop Scéith
-Mo Chonna Daire is ḟerr de
+Rectgus ⁊/FUNC Rectgniad réil
+Brocan ⁊/FUNC Epscop Scéith
+Mo Chonna Daire is ḟerr de/FUNC
 Feradach is Dub Tíre
-Fland mac Fairchellaig ro fess.
-Fland m̄ Duib Chonna ra chnes
+Fland mac Fairchellaig ro/FUNC fess.
+Fland m̄ Duib Chonna ra/FUNC chnes
 Flannan is Mael Dithrub dil
 is Feidlimid mac Crimthain
-Mairg duni dothaet riu sain
-do Gallaib do Gaedelaib
-cethrur ar ḟichet ar fecht 
-do naemaib na n-iarmorecht
-Noco bia a chomarba i fus.
-noco gebthar i flathius
-issed ded rotá de
+Mairg duni dothaet riu/FUNC sain
+do/FUNC Gallaib do/FUNC Gaedelaib
+cethrur ar/FUNC ḟichet ar/FUNC fecht 
+do/FUNC naemaib na/FUNC n-iarmorecht
+Noco/FUNC bia a/FUNC chomarba i/FUNC fus.
+noco/FUNC gebthar i/FUNC flathius
+issed ded rotá de/FUNC
 gorta is gairde n-amsire
-Nobítis sí sáeb int ṡreth
-maroen i nDaire Eidnech
-ic denam chrabuid cen gus
-ic corssigill i corgus
-Do Daire Eidnech co becht
-tecait do denam a fert
-co toraig a techta thair
-airin licc i Tamlachtain
-For in liccsin tic do nim
-angel de muntir richid
-co tabair dóib ó Christ cet
-na hitge 'ma n-oentaiget
-Cóir áli riu as cach alt
-ara náre ara noebdacht
-hé Dia fodéin nodossail
-in sessiur sain fo chethair. C.
+Nobítis sí/FUNC sáeb int/FUNC ṡreth
+maroen i/FUNC nDaire Eidnech
+ic/FUNC denam chrabuid cen/FUNC gus
+ic/FUNC corssigill i/FUNC corgus
+Do Daire Eidnech co/FUNC becht
+tecait do/FUNC denam a/FUNC fert
+co/FUNC toraig a/FUNC techta thair
+airin licc i/FUNC Tamlachtain
+For/FUNC in/FUNC liccsin tic do/FUNC nim
+angel de/FUNC muntir richid
+co/FUNC tabair dóib/FUNC ó/FUNC Christ cet
+na/FUNC hitge 'ma n-oentaiget
+Cóir áli riu as/FUNC cach/FUNC alt
+ara/FUNC náre ara/FUNC noebdacht
+hé/FUNC Dia fodéin/FUNC nodossail
+in/FUNC sessiur sain/FUNC fo/FUNC chethair. C.
 Tictis Druim nAbrat ille.
-na noebsin nosailemni
-no athigits sund co mblaid
-no da thrath co bo cethair. B.
+na/FUNC noebsin nosailemni
+no/FUNC athigits sund/FUNC co/FUNC mblaid
+no/FUNC da/FUNC thrath co/FUNC bo/FUNC cethair. B.

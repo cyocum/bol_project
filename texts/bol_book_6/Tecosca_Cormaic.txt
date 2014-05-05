@@ -1,46 +1,46 @@
-Tecosca Cormaic in so sís.
-A hui Chind a Chormaic ol Carpre. Cia dech do ríg .Ni. or Cormac
-ainmne cen debaid.
-Soacallma cen mordataid
+Tecosca Cormaic in/FUNC so/FUNC sís.
+A/FUNC hui Chind a/FUNC Chormaic ol Carpre. Cia/FUNC dech do/FUNC ríg .Ni/FUNC. or Cormac
+ainmne cen/FUNC debaid.
+Soacallma cen/FUNC mordataid
 Deithitiu senchasa.
 Fritholaid ḟína. 
-Géill i ṅglassaib
-Slogad ri deithbere
-fir cen ḟuille.
-Trocaire co ndluthud recta
-Síd do thuathaib.
+Géill i/FUNC ṅglassaib
+Slogad ri/FUNC deithbere
+fir cen/FUNC ḟuille.
+Trocaire co/FUNC ndluthud recta
+Síd do/FUNC thuathaib.
 Ratha écsamla.
-Bretha fíra
+Bretha fíra/FUNC
 Morad nemed
 Airmitiu ḟiled
 Adrad De móir
 Torud inna ḟlaith
-Deicsiu cach thruaig
+Deicsiu cach/FUNC thruaig
 Almsana ile
-Mess for crannaib
-IAsc i n-inberaib
+Mess for/FUNC crannaib
+IAsc i/FUNC n-inberaib
 Talam torthech
-Bárca do thochor i port
+Bárca do thochor i/FUNC port
 Allmaire sét.
 Murchoirthe dílse
 Etach sirecda
 Droṅg claidebbemnech
-Arcometa a thúaith
-Forrana dar crícha
+Arcometa a/FUNC thúaith
+Forrana dar/FUNC crícha
 Torramad eslánu
 Lessaiged triunu
 Tectad fír
 Cariged gói
 Baded bidbadu
 Bered firbretha
-Biathad cech n-ái.
-Úaged cach síd.
-Lessaiged a anmain
+Biathad cech/FUNC n-ái.
+Úaged cach/FUNC síd.
+Lessaiged a/FUNC anmain
 IMmad fína. sceo meda
-Canad cach fír
-ar is tria ḟir flaitheman dobeir Dia in sin uile.
-A .h. Chuind a Chormaic ol Carpre. Cade cóir recta ríg.
-Recht fallnaither ar talmain truim tathum at-chous duit ol Cormac.
+Canad cach/FUNC fír
+ar/FUNC is tria ḟir flaitheman dobeir Dia in/FUNC sin/FUNC uile/FUNC.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre. Cade/FUNC cóir recta ríg.
+Recht fallnaither ar/FUNC talmain truim tathum at-chous duit/FUNC ol Cormac.
 Coṅgbaid máru
 Marbaid ulcu
 Moraid mathe
@@ -55,89 +55,89 @@ Soeraid enngu.
 Angid indu
 Conrig essidnu
 Focraid foglaide.
-Lándilsi do cach laim la fiachu.
-Comlúth re lanfiachaib.
+Lándilsi do/FUNC cach/FUNC laim la/FUNC fiachu.
+Comlúth re/FUNC lanfiachaib.
 Fis lethḟiachaib.
-Anfis co cátu ríg.
-Co fursmaltaib flatha.
+Anfis co/FUNC cátu ríg.
+Co/FUNC fursmaltaib flatha.
 Conoige dliged
-Techta cech ḟír do neoch as leis.
-Muir ⁊ tír. foltaib fíraib do thuathaib a les cintaib láime.
-Forṡilliud co silliud sula la cintaib bél
+Techta cech/FUNC ḟír do/FUNC neoch as/FUNC leis/FUNC.
+Muir ⁊/FUNC tír. foltaib fíraib do/FUNC thuathaib a/FUNC les cintaib láime.
+Forṡilliud co/FUNC silliud sula la/FUNC cintaib bél
 Étsechtaib cluasaib
-Co firaib cuibse
-Lerigider cert cech cind.
-Airecht dorimmairg cech recht arithe.
-Tecta flatha in sin fri tuatha.
-A .h. Chuind a Chormaic ol Carpre cia decch do les tuathe. Ni. ol Cormac.
+Co/FUNC firaib cuibse
+Lerigider cert cech/FUNC cind.
+Airecht dorimmairg cech/FUNC recht arithe.
+Tecta flatha in/FUNC sin/FUNC fri/FUNC tuatha.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre cia/FUNC decch do/FUNC les tuathe. Ni/FUNC. ol Cormac.
 Terchomrac degdaine.
 Dala mence
 Menma athchomairc
-Fochmarc do gaethaib
-Airdibdúd cech uilc.
-Comollud cech mathiusa
+Fochmarc do/FUNC gaethaib
+Airdibdúd cech/FUNC uilc.
+Comollud cech/FUNC mathiusa
 Airecht ríglach.
 Sechem senchais.
 Senad rectaide
-Rechtga la flaith
+Rechtga la/FUNC flaith
 Toisech firian
-Cen ḟorbrisiud truag.
+Cen/FUNC ḟorbrisiud truag.
 Commaid chairddine
-Trócaire co ndagbés
+Trócaire co/FUNC ndagbés
 Dluthad coibniusa
 Comollud recta
 Recht senchairde
-Cotach cen irchaire
-Fíanna cen diummus
-INire fri naimtiu
-INruccus fri brathri
+Cotach cen/FUNC irchaire
+Fíanna cen/FUNC diummus
+INire fri/FUNC naimtiu
+INruccus fri/FUNC brathri
 Ratha fiala
 Aithe ṡlána
 Bretha fíra
 Fiadain inraice.
-Astud cundruda cen duipairt
+Astud cundruda cen/FUNC duipairt
 Fulliud diuperta
 Folaid chutrumma
 Airlicud éim
-Geill do inchaib
+Geill do/FUNC inchaib
 IAsacht follan
-Oín fri toich
-Cubes cach maith
+Oín fri/FUNC toich
+Cubes cach/FUNC maith
 Taithesc miadchar
 Messair dilmain
-Foglaim cach dana
-Eolas cech berla
-Druine cech brithemnais.
-Tacra co fossugud
-Brithemnas co roscadaib.
-Gella fri bretha
+Foglaim cach/FUNC dana
+Eolas cech/FUNC berla
+Druine cech/FUNC brithemnais.
+Tacra co/FUNC fossugud
+Brithemnas co/FUNC roscadaib.
+Gella fri/FUNC bretha
 Nadmand inraice
 Eitsecht fir sruithe
 Buidre fri daescarsluag
 Lessugud criche.
-A n-as dech do les tuathe in sin.
-A .h. Chuind a Chormaic ol Carpre Cad iad ada flatha ⁊ cormthigi .Ni. ol Cormac.
-Costud im dagḟlaith
-Lassamna do lochairn
-Luthbás i sochaide
+A/FUNC n-as dech do/FUNC les tuathe in/FUNC sin/FUNC.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre Cad iad/FUNC ada flatha ⁊/FUNC cormthigi .Ni/FUNC. ol Cormac.
+Costud im/FUNC dagḟlaith
+Lassamna do/FUNC lochairn
+Luthbás i/FUNC sochaide
 Samugud suide
-Soichlige do daleman
-Dianlám oc fodail
-Focharibe oc timthirecht
-Tigerna do charthain
+Soichlige do/FUNC daleman
+Dianlám oc/FUNC fodail
+Focharibe oc/FUNC timthirecht
+Tigerna do/FUNC charthain
 Mesrugud senma.
 Reclugud ṅgairit. .i. scela gairddi
 Gnúis ḟailid.
 Failte fir dáma.
 Feidle fri comad
 Cocétlai binne.
-IT iatsin ada flatha ⁊ cormthige.
-A .h. Cuind a Chormaic ol Carpre Cid asa ṅgaibther flaithemnas for tuathaib ⁊ clannaib ⁊ cenelaib. .Ni. ol Cormac.
-A feib chrotha ⁊ ceniuil ⁊ ergnai.
-A gaís ⁊ orddan ⁊ eslabrai ⁊ inruccus.
-A feib duthchusa ⁊ airlabra
-A nnirt imgona ⁊ sochraite gaibther.
-Ceist. Cade tacta na flatha .Ni. ol Cormac.
+IT iatsin/FUNC ada flatha ⁊/FUNC cormthige.
+A/FUNC .h. Cuind a/FUNC Chormaic ol Carpre Cid/FUNC asa/FUNC ṅgaibther flaithemnas for/FUNC tuathaib ⁊/FUNC clannaib ⁊/FUNC cenelaib. .Ni/FUNC. ol Cormac.
+A/FUNC feib chrotha ⁊/FUNC ceniuil ⁊/FUNC ergnai.
+A/FUNC gaís ⁊/FUNC orddan ⁊/FUNC eslabrai ⁊/FUNC inruccus.
+A/FUNC feib duthchusa ⁊/FUNC airlabra
+A/FUNC nnirt imgona ⁊/FUNC sochraite gaibther.
+Ceist. Cade/FUNC tacta na/FUNC flatha .Ni/FUNC. ol Cormac.
 Rop sobraig
 Rop sigthech.
 Rop soaccobrach
@@ -156,25 +156,25 @@ Rop fírían.
 rop ainmnetach.
 Turgabad lubair
 Bered fírbretha.
-Biathad cach ṅdilliucht.
+Biathad cach/FUNC ṅdilliucht.
 Miscniged goi.
 Carad firinne
 Rop dermatach uilc.
-Rop étsid cech mathiusa.
-Rop slúagach i ndáliab.
-Rop uathad i sanasaib.
-Rop sorche fri gnáis.
+Rop étsid cech/FUNC mathiusa.
+Rop slúagach i/FUNC ndáliab.
+Rop uathad i/FUNC sanasaib.
+Rop sorche fri/FUNC gnáis.
 Rop grian tige midchuarta.
-Rop airitid dala .⁊ airechta.
-Rop sercaid fis ⁊ ergani.
-Rop cundrigid coisc caich bes
-Miastar cách iarna tochus.
-Dobera a thechta do cach
-Rop dluthe a nadmand
-Roptar lacsa a thobaig.
-Roptar aithe etrumma a bretha ⁊ a chocera.
-Ar is triasna techtaibsin miditr ríg ⁊ flathi ol Cormac.
-A .h. Chuind a Chormaic ol Carpre Cia bátar do bésa in tan ropsat gilla. .Ni. ol Cormac.
+Rop airitid dala .⁊/FUNC airechta.
+Rop sercaid fis ⁊/FUNC ergani.
+Rop cundrigid coisc caich/FUNC bes
+Miastar cách/FUNC iarna/FUNC tochus.
+Dobera a/FUNC thechta do/FUNC cach/FUNC
+Rop dluthe a/FUNC nadmand
+Roptar lacsa a/FUNC thobaig.
+Roptar aithe etrumma a/FUNC bretha ⁊/FUNC a/FUNC chocera.
+Ar/FUNC is triasna techtaibsin miditr ríg ⁊/FUNC flathi ol Cormac.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre Cia/FUNC bátar do/FUNC bésa in/FUNC tan ropsat gilla. .Ni/FUNC. ol Cormac.
 Basa costechtach caille
 Nipsa descenach rainne.
 Basa thó ḟásaig.
@@ -193,134 +193,134 @@ Basa thrén.
 Basa lúath
 Nipsa airrechtach
 Nipsa fomsech.
-A .h. Chuind a Chormaic ol Carpre Cia batar go gnima intan ropsat gilla. Ni. ol Cormac.
-No gonaid muic i mbiind m'oenur.
-No chingid i curi choicir
-Basa oirgnech imsa dechenborach.
-Basa inrectach imsa fichtech.
-Basa cachtach imsa cetach.
-A .h. Chuind a Chormaic ol Carpre cia messam latt atchonnac.
-.Ni. old Cormac. Gnúsi namat i cath.
-A .h. Chuind a Chormaic ol Carpre cia binnem let rochuala. .Ni. ol Cormac. Ilach iar mbuaid. Molad iarna luaid. ITge degmna dia hadurt.
-A .h. Chuind a Charpri ol Cormac. Ma contuase frim thecosc Ni tharda th'ainech ar choirm. na biad ar is ferr dín cloth oldas dín biid.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre Cia batar go/FUNC gnima intan ropsat gilla. Ni/FUNC. ol Cormac.
+No/FUNC gonaid muic i/FUNC mbiind m'oenur.
+No/FUNC chingid i/FUNC curi choicir
+Basa oirgnech imsa/FUNC dechenborach.
+Basa inrectach imsa/FUNC fichtech.
+Basa cachtach imsa/FUNC cetach.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre cia/FUNC messam/FUNC latt/FUNC atchonnac.
+.Ni/FUNC. old Cormac. Gnúsi namat i/FUNC cath.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre cia/FUNC binnem let/FUNC rochuala. .Ni/FUNC. ol Cormac. Ilach iar/FUNC mbuaid. Molad iarna/FUNC luaid. ITge degmna dia/FUNC hadurt.
+A/FUNC .h. Chuind a/FUNC Charpri ol/FUNC Cormac. Ma/FUNC contuase frim/FUNC thecosc Ni/FUNC tharda th'ainech ar/FUNC choirm. na/FUNC biad ar/FUNC is ferr dín cloth oldas dín biid.
 Nirbat uallach manbat trebthach.
-Nirbat sriangabrach cen eocho.
-Nirbat olchobrrach cen choirm.
-Nirbat lactmar cen bú.
-Nirbot massech mani bet caircha lat.
-Ar is col i ndálaib in domain. Uall cen trebad. Tet cen eocho. Olchobar cen choirm. Lactmairi cen bú Masse cen
-A .h. Chuind a Charpri ol Cormac Ma contuassi frim thecosc
-Ni chuitbe nach sen ciarbat ooc.
-Na bocht ciarbat somma
-Na nocht ciarbot ṡúin.
-Na losc ciaso luath.
-Na dall ciaso feíg.
-Na lobor ciaso thren.
-Na borb ciarbot gáeth.
+Nirbat sriangabrach cen/FUNC eocho.
+Nirbat olchobrrach cen/FUNC choirm.
+Nirbat lactmar cen/FUNC bú.
+Nirbot massech mani/FUNC bet caircha lat/FUNC.
+Ar/FUNC is col i/FUNC ndálaib in/FUNC domain. Uall cen/FUNC trebad. Tet cen/FUNC eocho. Olchobar cen/FUNC choirm. Lactmairi cen/FUNC bú Masse cen/FUNC
+A/FUNC .h. Chuind a/FUNC Charpri ol Cormac Ma/FUNC contuassi frim/FUNC thecosc
+Ni/FUNC chuitbe nach/FUNC sen/FUNC ciarbat ooc.
+Na/FUNC bocht ciarbat somma
+Na/FUNC nocht ciarbot ṡúin.
+Na/FUNC losc ciaso luath.
+Na/FUNC dall ciaso feíg.
+Na/FUNC lobor ciaso thren.
+Na/FUNC borb ciarbot gáeth.
 Nirbot lesc.
 Nirbot súanach
 Nirbot neóit.
 Nirbot deaith.
 Nirbot etaid.
-Ar is cach lesc lond etaid suanach neóit deáith is miscais Dé ⁊ dóine.
-A .h. Chuind a Chormaic ol Carpre. Cia etergén síl Adaim .Ni. ol Cormac.
-Gaeth cach fossad.
-Firian cach fíal.
-fedil cech ainmnetach.
-Fissid cech foglaintid.
-Fuarrech cech finechar.
-Fáilid cach slán.
-Suán cech slemon.
-Serb cech borb.
-Báeth cach trén.
-Tibre cech mre.
-Mucna cach mog.
-Mórda cech ṅdindba.
-Imresnaid cech n-aneolach
-Anbal cech anecnaid
-Ecal cech uamnach.
-INraicc cech lobur.
-Altromaid cech docraid.
-Ál cach aṅgtha.
-Andgid cech ecal
-Diupartach cech ṅdlindba.
-Dalach cech cosnamach
-Conchar cech saithech.
-Solepthach cech surig.
-Sétach cech selbach.
-Slichtlethan cech saer.
-Cocherna cech setach
-Menmar cach cainte.
-Solam cech marcach.
-Milis cech fír.
-Serb cech gó.
+Ar/FUNC is cach/FUNC lesc lond etaid suanach neóit deáith is miscais Dé ⁊/FUNC dóine.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre. Cia/FUNC etergén síl Adaim .Ni/FUNC. ol Cormac.
+Gaeth cach/FUNC fossad.
+Firian cach/FUNC fíal.
+fedil cech/FUNC ainmnetach.
+Fissid cech/FUNC foglaintid.
+Fuarrech cech/FUNC finechar.
+Fáilid cach/FUNC slán.
+Suán cech/FUNC slemon.
+Serb cech/FUNC borb.
+Báeth cach/FUNC trén.
+Tibre cech/FUNC mre.
+Mucna cach/FUNC mog.
+Mórda cech/FUNC ṅdindba.
+Imresnaid cech/FUNC n-aneolach
+Anbal cech/FUNC anecnaid
+Ecal cech/FUNC uamnach.
+INraicc cech/FUNC lobur.
+Altromaid cech/FUNC docraid.
+Ál cach/FUNC aṅgtha.
+Andgid cech/FUNC ecal
+Diupartach cech/FUNC ṅdlindba.
+Dalach cech/FUNC cosnamach
+Conchar cech/FUNC saithech.
+Solepthach cech/FUNC surig.
+Sétach cech/FUNC selbach.
+Slichtlethan cech/FUNC saer.
+Cocherna cech/FUNC setach
+Menmar cach/FUNC cainte.
+Solam cech/FUNC marcach.
+Milis cech/FUNC fír.
+Serb cech/FUNC gó.
 Milbela druinecha.
 Dodalacha drochmna.
-Dodáil a maic.
-Marig oca mbait.
-A .h. Chuind a Chormaic co Carpre. Et gabail baíse cis lir. Ni. ol Cormac.
-Lugi ria mbreith
+Dodáil a/FUNC maic.
+Marig oca/FUNC mbait.
+A/FUNC .h. Chuind a/FUNC Chormaic co/FUNC Carpre. Et gabail baíse cis lir. Ni/FUNC. ol Cormac.
+Lugi ria/FUNC mbreith
 Bretha diana.
 Duscud ferge
 Folabrad guach.
 Cairigud fír.
 Frithecht derthaige
 Tintúd breth
-Brón oc fleid
+Brón oc/FUNC fleid
 Flaithem guach
-Gaíre im sen.
-Senchas do chleith.
-Cluiche for aill.
-Erchor cen chommus.
-Comrith fri baeth.
-Morthu fri ríg
-Recht cen chomollud.
-Comall cech uilc
-Olc fri carddine
-Cétlud fri cách
-Gel cech nua.
-Nama cech gnáth
-Gním cen ḟiadnaisi
+Gaíre im/FUNC sen.
+Senchas do/FUNC chleith.
+Cluiche for/FUNC aill.
+Erchor cen/FUNC chommus.
+Comrith fri/FUNC baeth.
+Morthu fri/FUNC ríg
+Recht cen/FUNC chomollud.
+Comall cech/FUNC uilc
+Olc fri/FUNC carddine
+Cétlud fri/FUNC cách/FUNC
+Gel cech/FUNC nua.
+Nama cech/FUNC gnáth
+Gním cen/FUNC ḟiadnaisi
 Fiado tláith.
 Turtugud breth
-Bith cen ṡeotu
+Bith cen/FUNC ṡeotu
 Arlicud il
 Ilar carat
-Brón fri ríg.
-Rolabra cen gaís.
+Brón fri/FUNC ríg.
+Rolabra cen/FUNC gaís.
 Dligid ecna airmitin
 Arfich gaes gail
-Tomtenach cech n-uamnach
-Torsech cech sercach
-Gnimach cech gallrach
-IMresnach cech guach GAibthech cech báeth
-Baeglach cech labor.
-IMgonad cech lond
-Trebar cech trebthach
-Triamain cech drochlaech.
-Anbal cech rudrach
-Uathmar cech ecal
-ISel cech athech
-Collach cach sámach
-Discir cech dona
-IMuamnach cech cintach
-Ecal cech fattech
-Cosaitech cech ddotheng.
-Án cech cetludach
-Dunadach cech dagthúath
-Sétrech cech saigthech
-Suabais cach dana
-Eslessach cech brass
-Guach cach tairṅgerech
-Saisil cech brontach
-Cuitbide cach denmnetach.
-Athissech cach comsid.
-A .h. Chuind a Chormaic ol Carpre. Cia etergen mná. Ni. ol Cormac
-Etargleim ⁊ nis etargleim.
+Tomtenach cech/FUNC n-uamnach
+Torsech cech/FUNC sercach
+Gnimach cech/FUNC gallrach
+IMresnach cech/FUNC guach GAibthech cech/FUNC báeth
+Baeglach cech/FUNC labor.
+IMgonad cech/FUNC lond
+Trebar cech/FUNC trebthach
+Triamain cech/FUNC drochlaech.
+Anbal cech/FUNC rudrach
+Uathmar cech/FUNC ecal
+ISel cech/FUNC athech
+Collach cach/FUNC sámach
+Discir cech/FUNC dona
+IMuamnach cech/FUNC cintach
+Ecal cech/FUNC fattech
+Cosaitech cech/FUNC ddotheng.
+Án cech/FUNC cetludach
+Dunadach cech/FUNC dagthúath
+Sétrech cech/FUNC saigthech
+Suabais cach/FUNC dana
+Eslessach cech/FUNC brass
+Guach cach/FUNC tairṅgerech
+Saisil cech/FUNC brontach
+Cuitbide cach/FUNC denmnetach.
+Athissech cach/FUNC comsid.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre. Cia/FUNC etergen mná. Ni/FUNC. ol Cormac
+Etargleim ⁊/FUNC nis etargleim.
 Serba sirgnási
 Morda tathigthi
 Drutha follaigthi
-Baetha a comairle
+Baetha a/FUNC comairle
 Santacha tormaig
 Aigde aisnise
 Debthaig frecnairc
@@ -343,8 +343,8 @@ Airlama forgill
 Foille foichlige
 Soera ainme
 Essoera ícci.
-Consuidet nad comraicet
-Ro mairnet nad aincet
+Consuidet nad/FUNC comraicet
+Ro/FUNC mairnet nad/FUNC aincet
 Uallcha tochmairc
 Écnaig miadamlai
 Foille foimrimme
@@ -380,10 +380,10 @@ Bodra forcetail
 Dalla dagáirle
 Docheille sochaide
 Miancha blassacta.
-Mina a tairberta.
-Terca a tidnacuil
-Tlaith a timgaire
-Ainble a n-irnaide
+Mina a/FUNC tairberta.
+Terca a/FUNC tidnacuil
+Tlaith a/FUNC timgaire
+Ainble a/FUNC n-irnaide
 cumig airberta.
 Eolaig rebraid
 Aneolaig réri
@@ -391,51 +391,51 @@ Rescacha rurit
 Dulbairi torbai
 Sulbaire espai
 Snímcha cendmassi
-Forcomat nad comradat
-Adgellat nad firat
-Dorairṅgerat nad chomallat.
-Ro chollet nad iccat
-Forḟodlat na tarcomlat
-Ro nertat na dernat
-Ad segat nad arget
-Conscarat naro thinolat
-Ro renat na tobget
-Ro bronnat naro threbat
-Fó cach tan tene.
+Forcomat nad/FUNC comradat
+Adgellat nad/FUNC firat
+Dorairṅgerat nad/FUNC chomallat.
+Ro/FUNC chollet nad/FUNC iccat
+Forḟodlat na/FUNC tarcomlat
+Ro/FUNC nertat na/FUNC dernat
+Ad segat nad/FUNC arget
+Conscarat naro/FUNC thinolat
+Ro/FUNC renat na/FUNC tobget
+Ro/FUNC bronnat naro/FUNC threbat
+Fó/FUNC cach/FUNC tan tene.
 Elca mila mna.
-Maith fidbad cech rathe.
+Maith fidbad cech/FUNC rathe.
 Mairg roda fomlig
-Ferr a flescad a faenblegon.
-Ferr a sroigled a subugud.
-Ferr a tuargain a tatlugud
-Ferr a tomtin a tairisi.
-Ferr a troethad a turgorud.
-Ferr a ndigo a ṅgradugud
-Ni bia ainech na hanim na cloth ac neoch contuasi ri drochmná.
-A .h. Chuind a Chormaic ol Carpre. Cia etergén sína .Ni. ar Cormac.
+Ferr a/FUNC flescad a/FUNC faenblegon.
+Ferr a/FUNC sroigled a/FUNC subugud.
+Ferr a/FUNC tuargain a/FUNC tatlugud
+Ferr a/FUNC tomtin a/FUNC tairisi.
+Ferr a/FUNC troethad a/FUNC turgorud.
+Ferr a/FUNC ndigo a/FUNC ṅgradugud
+Ni/FUNC bia ainech na/FUNC hanim na/FUNC cloth ac/FUNC neoch/FUNC contuasi ri/FUNC drochmná.
+A/FUNC .h. Chuind a/FUNC Chormaic ol Carpre. Cia/FUNC etergén sína .Ni/FUNC. ar Cormac.
 Mathair etha aig
 Mathair saille snecta.
 Túar fola fleochud
 Tuar tedma tart
 Andso gobél gaeth
-Dech do ṡínaib ceo
-Ferr a brathair bróen
-Acht do muir ni thorthech torand.
-Cia messam trebad .Ni.
-Trebad do na crenar ainech no hanim. Atá araile trebad as messom .i. uic. thuic. ber. tabair.
-Item Cormac ad Carpre.
-Ní baga fri ríg
-Ní chomris fri báeth
-Ni chomtheis fri dibergach
-Ni chomthana fri echta
-Ni chria do ṡecht ṁbaethaib .i.
-File la feniu
-Do mnái. Do chimbid.
-Do mesc. Do drúth.
-Do dásachtach. Di ardd
-Di airriusc.
-Ni rimthige fri roth. na rout. na roilbe. Na romur. na badgul. na ga.
-Ni dlutha écnach
+Dech do/FUNC ṡínaib ceo
+Ferr a/FUNC brathair bróen
+Acht do/FUNC muir ni/FUNC thorthech torand.
+Cia/FUNC messam/FUNC trebad .Ni/FUNC.
+Trebad do/FUNC na/FUNC crenar ainech no/FUNC hanim. Atá araile trebad as/FUNC messom/FUNC .i. uic. thuic. ber. tabair.
+Item Cormac ad/FUNC Carpre.
+Ní/FUNC baga fri/FUNC ríg
+Ní/FUNC chomris fri/FUNC báeth
+Ni/FUNC chomtheis fri/FUNC dibergach
+Ni/FUNC chomthana fri/FUNC echta
+Ni/FUNC chria do/FUNC ṡecht ṁbaethaib .i.
+File la/FUNC feniu
+Do/FUNC mnái. Do/FUNC chimbid.
+Do/FUNC mesc. Do/FUNC drúth.
+Do/FUNC dásachtach. Di/FUNC ardd
+Di/FUNC airriusc.
+Ni/FUNC rimthige fri/FUNC roth. na/FUNC rout. na/FUNC roilbe. Na/FUNC romur. na/FUNC badgul. na/FUNC ga.
+Ni/FUNC dlutha écnach
 Nibat tibre dala
 Nibat bronach cormthige.
 Nibat dermatach dala.
@@ -445,7 +445,7 @@ Nibat taithi neich
 Nibat fos foglithe
 Nibat cond ugrai
 Nibat munigu debtha.
-Ni thairṅgere nadot bé
+Ni/FUNC thairṅgere nadot bé
 Nirbat coibchech arnabat fiachach
 Nirbat imgonaid arnabat melachtnach.
 Nirbat comramach arnabat miscnech
@@ -458,4 +458,4 @@ Nirbat lesc arnabat meirb
 Nirbat roescaid arnarbat doescair.
 Nirbat debthach arnabat scarthac
 Nirbat dochoisc
-Nirbat ráth ar neoch arnaba eirse do chomaithech.
+Nirbat ráth ar/FUNC neoch/FUNC arnaba eirse do/FUNC chomaithech.

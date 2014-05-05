@@ -1,16 +1,16 @@
-TRea ropo maith in ben
+TRea ropo maith in/FUNC ben
 ingen Ronáin rig Lagen
-cona caemcheil gnathaig cain
+cona/FUNC caemcheil gnathaig cain
 mathair Baithin maic Finnaig.
-Finnach foglaid ro bái i ṅgait
-isin sciaich forsin tiprait
-dia tánic d'indlat a lám
+Finnach foglaid ro/FUNC bái i/FUNC ṅgait
+isin/FUNC sciaich forsin/FUNC tiprait
+dia/FUNC tánic d'indlat a/FUNC lám
 Trea rindbalc ingen Ronain.
-O ro derc in foglaid féig
-for ingin Ronain roréil
-ro sní ní dia thoil a cuirp
-forin gas ṁbilair ṁblathguirt
-Ro chaith inn ingen in ṅgas
-Forsa int adbar amnas.
-suairc in saerchéim asa gleo
-dia ra compred Baethin bithbeo
+O/FUNC ro/FUNC derc in/FUNC foglaid féig
+for/FUNC ingin Ronain roréil
+ro/FUNC sní ní/FUNC dia/FUNC thoil a/FUNC cuirp
+forin/FUNC gas ṁbilair ṁblathguirt
+Ro/FUNC chaith inn/FUNC ingen in/FUNC ṅgas
+Forsa/FUNC int/FUNC adbar amnas.
+suairc in/FUNC saerchéim asa/FUNC gleo
+dia/FUNC ra/FUNC compred Baethin bithbeo
