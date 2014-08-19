@@ -1,5 +1,7 @@
 import Clustering
 import Distance
+import DimensionalityReduction
+using Gadfly
 
 function create_tuple(result, i, data)
     t_name = text_name(data[i,1])
@@ -24,14 +26,21 @@ function is_medoid(i, result)
     i == result.medoids[result.assignments[i]]
 end 
 
-(data, header) = readcsv("texts.csv", has_header=true)
+(data, header) = readcsv("texts.csv", header=true)
 tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
 dists = Distance.pairwise(Distance.CosineDist(), transpose(tf_idfs))
 
-result = Clustering.kmedoids(dists, 20)
+result = Clustering.kmedoids(dists, 25)
 
 clusters = [create_tuple(result, i, data) for i = 1:size(data)[1]]
 
 sort!(clusters)
 
-writecsv("clustered.csv", clusters)
+#writecsv("clustered-20.csv", clusters)
+#sils = Clustering.silhouettes(result, dists)
+#p=plot(x=sils, Geom.histogram)
+#draw(SVG("sils-40.svg", 24cm, 12cm), p)
+
+p = DimensionalityReduction.pcaeig(tf_idfs)
+pca_plot = Gadfly.plot(x=p.scores[:,1], y=p.scores[:,2], Geom.point)
+draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
