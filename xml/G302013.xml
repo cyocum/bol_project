@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "/dtds/tei/p4x/teicelt.dtd" [
+<!ENTITY % TEIbase "TEI.prose">
+]>
+<TEI.2 id="G302013">
+<teiHeader creator="Beatrix F&auml;rber" status="update" date.created="2000-09-20" date.updated="2008-10-05">
+<fileDesc>
+<titleStmt>
+<title type="uniform">Esnada Tige Buchet</title>
+<title type="translation" lang="en">The Songs of Buchet's House</title>
+<title type="gmd">An electronic edition</title>
+<author>Unknown</author>
+<editor id="DG">David Greene</editor>
+<respStmt>
+<resp>Electronic edition compiled by</resp>
+<name>Beatrix F&auml;rber </name>
+<name>Audrey Murphy</name>
+</respStmt>
+<funder>University College, Cork</funder>
+<funder>Professor Marianne McDonald via the CELT Project</funder>
+</titleStmt>
+<editionStmt>
+<edition n="1">First draft, revised and corrected.</edition>
+</editionStmt>
+<extent><measure type="words">4100</measure></extent>
+<publicationStmt>
+<publisher>CELT: Corpus of Electronic Texts: a project of University College, Cork</publisher>
+<address>
+<addrLine>College Road, Cork, Ireland.&mdash;http:www.ucc.ie/celt</addrLine>
+</address>
+<date>2000</date>
+<date>2008</date>
+<distributor>CELT online at University College, Cork, Ireland.</distributor>
+<idno type="celt">G302013</idno>
+<availability status="restricted">
+<p>Available with prior consent of the CELT programme for purposes of
+academic research and teaching only.</p>
+</availability>
+<availability status="restricted">
+<p>Hardcopy copyright lies with the School of Celtic Studies (Dublin Institute for Advanced Studies).</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+<head>Manuscript sources</head>
+<bibl n="1">Dublin, Trinity College Library, MS 1339, olim H. 2. 18, Book of Leinster, 270a 45&ndash;271a 46.</bibl>
+<bibl n="2">Dublin, Royal Irish Academy, MS 535, olim 23 P 2,  al. Yellow Book of Lecan, 113a&ndash;114b4.</bibl>
+<bibl n="3">Oxford, Bodleian Library, Rawlinson B 512, fo. 122ra8&ndash;122vb15.</bibl>
+<bibl n="4">Dublin, Trinity College Library,  MS 1319 olim H. 2. 17, 463&ndash;4.</bibl>
+<bibl n="5">Oxford, Bodleian Library, Rawlinson B 502, fo. 73rb31&ndash;73va49, shorter version varying in wording and omitting the rhetorical passages.</bibl>
+<bibl n="6">Oxford, Bodleian Library, Rawlinson B 502, fo. 50ra1, metrical version derives from the prose.</bibl>
+</listBibl>
+<listBibl>
+<head>Editions</head>
+<bibl n="1">Whitley Stokes, The Songs of Buchet's House, In: Revue Celtique 25 (1904)18&ndash;38; 225&ndash;227. The <hi rend="italics">Esnada Tige Buchet</hi>. Texts from Book of Leinster (270a) and Rawlinson B. 502 (fo. 73a), with variants from Yellow Book of Lecan, Rawlinson B 512, and H. 2. 17, T.C.D. translation, and Glossarial Index.</bibl>
+<bibl n="2">Mary Hayden, The Songs of Buchet's House, In: Zeitschrift f&uuml;r Celtische Philologie 8 (1912) 261&ndash;73. Edition of Poem from Rawlinson B.502, p. 87a&ndash;88a.</bibl>
+</listBibl>
+<listBibl>
+<head>Translations</head>
+<bibl n="1">See under Editions</bibl>
+</listBibl>
+<listBibl>
+<head>Secondary literature</head>
+<bibl n="1">O'Rahilly, Buchet the Herdsman, in: &Eacute;riu 16 (1952) 5&ndash;20.</bibl>
+</listBibl>
+<listBibl>
+<head>The edition used in the digital edition</head>
+<biblFull>
+<titleStmt>
+<title level="m">Fingal R&oacute;n&aacute;in and other stories</title>
+<editor>David Greene</editor>
+</titleStmt>
+<editionStmt>
+<edition>First edition</edition>
+</editionStmt>
+<extent>One volume. 89 + vi pp. v&ndash;vi Foreword, pp 27&ndash;28 Introduction, pp 28&ndash;31 Text, pp 31&ndash;41 Appendices, pp42&ndash;44, notes.</extent>
+<publicationStmt>
+<publisher>Dublin Institute for Advanced Studies</publisher>
+<pubPlace>Dublin</pubPlace>
+<date>1955</date>
+<date>Reprinted 1975</date>
+</publicationStmt>
+<seriesStmt>
+<title level="s">Mediaeval and Modern Irish Series</title>
+<idno type="volume">16</idno>
+</seriesStmt>
+</biblFull>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>CELT: Corpus of Electronic Texts</p>
+</projectDesc>
+<samplingDecl>
+<p>The present text represents pages 27&ndash;41 of the volume.</p>
+</samplingDecl>
+<editorialDecl>
+<correction status="medium">
+<p>Text has been checked and proofread once.</p>
+</correction>
+<normalization>
+<p>Length marks (macrons) have been retained in the master file.</p>
+</normalization>
+<hyphenation>
+<p>Hyphens have been inserted after mutated words with h- and n- in anlaut. When a hyphenated word 
+(hard or soft) crosses a page break, the break is marked after the completion of the hyphenated word. Hyphens before line-breaks have been eliminated, with the words written in full before each line-break.</p>
+</hyphenation>
+<interpretation>
+<p>Personal names and  place names have been tagged.</p>
+</interpretation>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+<creation>By one or more unknown Irish monastic author(s). The story belongs to the later Old Irish period.
+<dateRange from="800" to="900" exact="none">c.800-900?</dateRange></creation>
+<langUsage>
+<language id="ga">The whole text is in Old Irish.</language>
+<language id="en">Editorial  text containing English occurs in the appendix.</language>
+</langUsage>
+<textClass>
+<keywords>
+<term>saga</term>
+<term>prose</term>
+<term>medieval</term>
+<term>Kings Cycle</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2008-10-05</date>
+<respStmt>
+<name>Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Header modified; keywords added; new wordcount made, file validated.</item>
+</change>
+<change>
+<date>2005-08-25</date>
+<respStmt>
+<name>Julianne Nyhan</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Normalised language codes and edited langUsage for XML conversion</item>
+</change>
+<change>
+<date>2005-08-04T15:55:51+0100</date>
+<respStmt>
+<name>Peter Flynn</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Converted to XML</item>
+</change>
+<change>
+<date>2000-09-20</date>
+<respStmt>
+<name>Julianne Nyhan</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Place names and organisational names marked up.</item>
+</change>
+<change>
+<date>2000-09-19</date>
+<respStmt>
+<name id="OD">Owen Dunford</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Personal names marked up.</item>
+</change>
+<change>
+<date>2000-09-19</date>
+<respStmt>
+<name id="BF">Beatrix F&auml;rber</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Header created.</item>
+</change>
+<change>
+<date>1996-10-04</date>
+<respStmt>
+<name>Mavis Cournane</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Text parsed.</item>
+</change>
+<change>
+<date>1996-08-29</date>
+<respStmt>
+<name>Audrey Murphy</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Structural markup added.</item>
+</change>
+<change>
+<date>1996-08-29</date>
+<respStmt>
+<name>Audrey Murphy</name>
+<resp>ed.</resp>
+</respStmt>
+<item>First proofing.</item>
+</change>
+<change>
+<date>1996</date>
+<respStmt>
+<name>Staff at Titus Project</name>
+<resp>ed.</resp>
+</respStmt>
+<item>Text capture.</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text n="G302013">
+<body>
+<div0 type="saga" lang="ga">
+<pb n="28"/>
+<div1 type="text">
+<head>Esnada Tige <ps><fn>Buchet</fn></ps></head>
+<p><lb n="472"/>Bo&iacute; coire f&emacr;ile la <on>Laigniu</on>, <ps><fn>Buchat</fn></ps> a ainm. Tech n-oeged fer<lb n="473"/>
+nH-<pn>&Emacr;renn</pn> a thech in <ps><fn>Buchet</fn></ps>. N&imacr;ro d&iacute;bdad teni fo a choiriu &omacr;<lb n="474"/>
+ro gab threbad. Ingen do <ps><fn>Chatha&iacute;r M&oacute;r</fn></ps> mac <ps><fn>&Fdot;eidlimthe</fn></ps>, do<lb n="475"/>
+r&iacute;g <on>Laigen</on> ina h-ucht .i. <ps><fn>Ethni</fn> ingen <fn>Chatha&imacr;r</fn></ps>. D&amacr; mac deac<lb n="476"/>
+ar &fdot;ichit la <ps><fn>Catha&imacr;r</fn></ps>. Tictis-side do o&imacr;gidecht &ampersir; do acallaim a<lb n="477"/>
+sethar. Do-meltis o&imacr;gidechta fichtib &ampersir; tr&imacr;chtaib. Ba robec leo-som<lb n="478"/>
+ &oacute;n co mbertis aisceda. Ba menic didiu a timgaire, uair<lb n="479"/>
+do-bered fer d&iacute;b h-eochu &ampersir; in fer eili in seisrig &ampersir; fer eili sco&imacr; dona<lb n="480"/>
+buaib, coro &fdot;&amacr;saigset maic <ps><fn>Catha&imacr;r</fn></ps> fo deoid, conn&amacr; fargabsat<lb n="481"/>
+leis acht .vii. &mdot;ba&imacr; &ampersir; tarb, bale i rrabatar na .vii. n-&aacute;rge. Luid-seom<lb n="482"/>
+ iarum dia acco&iacute;ne fri <ps><fn>Catha&iacute;r</fn></ps>. Sen&oacute;ir d&iacute;blide side in tan-sin.<lb n="483"/>
+ Et as-bert <ps><fn>Buchet</fn></ps>:
+<text>
+<body>
+<lg n="1" type="misc">
+<lb n="484"/>
+<l>A mmo ch&oacute;ir <ps><fn>Catha&imacr;r</fn></ps>, co torecht ruacbath uas H-<pn>&Emacr;renn</pn> &iacute;ath?</l>
+<lb n="485"/>
+<l>Ad coimse mo chrod dot chainmacniu;</l>
+<lb n="486"/>
+<l>cen chinta f&imacr;ra fallsigthe f&oacute;,</l>
+<lb n="487"/>
+<l>ar ba f&iacute;u mo brugas-[s]a cach mbrugas cona b&emacr;saib brugad an-b&iacute;t.</l>
+<lb n="488"/>
+<l>Bid anim m&oacute;r mo d&imacr;th do <ps><fn>Chatha&imacr;r</fn></ps> cr&imacr;ch.</l>
+<lb n="489"/>
+<l>Macne <ps><fn>Chatha&imacr;r</fn></ps> ro chlo&imacr;set mo brugas b&uacute;ar</l>
+</lg>
+</body>
+</text><lb n="490"/>
+(.i. <ps><fn>Ros R&uacute;adbuillech</fn></ps>, <ps><fn>Crimthand C&eacute;tguinech</fn></ps>, <ps><fn>D&aacute;re Trebanda</fn></ps>,<lb n="491"/>
+<ps><fn>L&omacr;sc&aacute;n Án</fn></ps>, <ps><fn>Echaid Airigda</fn></ps>, <ps><fn>Bressal Enechglas</fn></ps>, <ps><fn>Fiacha Foltlebor</fn></ps><lb n="492"/>
+ fortbia c&aacute;ch.)<pb n="29"/><lb n="493"/>
+<text>
+<body>
+<lg type="misc">
+<l><ps><fn>Buchat</fn></ps> n&imacr; bia feib ro mbo&iacute; r&iacute;am</l>
+<lb n="494"/>
+<l>co rr&iacute; ailethuaith n&amacr;d rosset h-u&iacute; <ps><fn>Feidlimthi Find</fn></ps>.</l>
+</lg>
+</body>
+</text></p>
+<p><lb n="495"/>Is and-sin fris-rogart <ps><fn>Catha&imacr;r</fn></ps> a n-as-bert:
+<text>
+<body>
+<lg n="2" type="misc">
+<lb n="496"/>
+<l>F&iacute;r, a <ps><fn>Buchat</fn></ps>, basa brugaid b&iacute;ata d&aacute;m.</l>
+<lb n="497"/>
+<l>Buaid do gal, do gart, do gaisced, do gen f&amacr;ilte fri cach n-&oacute;en it midchuairt m&aacute;r;</l>
+<lb n="498"/>
+<l>Acht com-messind-se mo maccu, n&imacr; di&ndot;gentais do chride chr&aacute;d.</l>
+<lb n="499"/>
+<l>Nert n&imacr; dernaim</l>
+<lb n="500"/>
+<l>Rith n&imacr; rordaim</l>
+<lb n="501"/>
+<l>L&emacr;im n&imacr; rol&ndot;gaim</l>
+<lb n="502"/>
+<l>Rodarc n&iacute; c&iacute;an cu&ndot;gnamar.</l>
+<lb n="503"/>
+<l>R&imacr;ge do-ru&mdot;alt-sa .l. &mdot;bliadan &mdot;b&uacute;an;</l>
+<lb n="504"/>
+<l>Acht con-messind, do-fessind do <ps><fn>Buchat</fn></ps> a b&uacute;ar.</l>
+<lb n="505"/>
+<l>N&iacute;m th&amacr;-sa cumang duit, a <ps><fn>Buchet</fn></ps>, acht a aithe.</l>
+</lg>
+</body>
+</text></p>
+<p><lb n="506"/>Luid <ps><fn>Buchet</fn></ps> for teiched uadib assin t&iacute;r .i. fut na h-aidchi co <lb n="507"/>
+matin i ngait, co mba&iacute; i <pn>Cenannas</pn> na r&iacute;g a-tuaid. Ocus ba bec<lb n="508"/>
+ind immirgi rucad ann .i. .vii. &mdot;ba&imacr; &ampersir; tarb ocus se-sseom &ampersir; a <lb n="509"/>
+chaillech &ampersir; ind ingen .i. <ps><fn>Ethni</fn> ingen <fn>Chatha&imacr;r</fn></ps>. B&aacute;tar i mboth&imacr;n<lb n="510"/>
+bic and a-tuaid &ampersir; ind ingen oca timthirecht.</p>
+<p><lb n="511"/>Bu&imacr; <ps><fn>Cormac</fn></ps> matan moch fecht and i <pn>Cenannas</pn> iar &ndot;gab&amacr;il<lb n="512"/>
+r&imacr;ge, co n-accai in n-ingin oc blegon na mb&oacute;. A c&eacute;tblegon i<lb n="513"/>
+llestar for leith, a &ndot;deadblegon i llestar n-aile. Adas cid dano<lb n="514"/>
+oc b&uacute;ain na luachra, &ampersir; med&oacute;n in tuimm luachra lee i n-airbir<lb n="515"/>
+fo leith. Oc tabairt ind usci dano assa ur int &sdot;rotha issind ara<lb n="516"/>
+lestar, a n-aill assa med&oacute;n issin lestar n-aile. Ro iarfaig fecht<lb n="517"/>
+and int &imacr; <ps><fn>Cormac</fn></ps> in n-ingin:
+
+<text type="poem">
+<body>
+<lg n="3" type="misc">
+<lb n="518"/>
+<l>Cia ta&iacute;, a ingen? or <ps><fn>Cormac</fn></ps>.</l>
+<lb n="519"/>
+<l>Ingen bachlaig thr&uacute;aig sund &umacr;t,
+olsi.</l>
+</lg>
+</body>
+</text></p>
+<pb n="30"/>
+<p><lb n="520"/>Cest, cid ma nd&emacr;nai-si in n-usce &ampersir; in luachair &ampersir; in t-ass do<lb n="521"/>
+chomraind?</p>
+<p><lb n="522"/>Fer ro ba&iacute; i n-airmitin riam, or s&imacr;, dia mberar a med&oacute;n na<lb n="523"/>
+luachra &ampersir; in t-iar&mdot;blegon, &ampersir; dam-sa a n-aill conn&amacr; raib-seom<lb n="524"/>
+didiu cen airmitin do neoch fo-g&emacr;b-sa. Dia fagbaind-se dano<lb n="525"/>
+airmitin bad moo, ro mbiadsom.</p>
+<p><lb n="526"/>Is d&omacr;chu a fagb&aacute;il duit, or <ps><fn>Cormac</fn></ps>. Cia dia tabar[r] ind<lb n="527"/>
+airmitiu?<lb n="528"/>
+<ps><fn>Buchet</fn></ps> a ainm, olsi.<lb n="529"/>
+<ps><fn>Buchat</fn></ps> <on>Lagen</on> &oacute;n? or <ps><fn>Cormac</fn></ps>.<lb n="530"/>
+S&eacute; immorro, or si-si.<lb n="531"/>
+In tussu ind <ps><fn>Eithni Thoeb&fdot;ota</fn></ps>? or <ps><fn>Cormac</fn></ps>.<lb n="532"/>
+Is d&oacute;ig, or si-si.</p>
+<p><lb n="533"/>Iar sin tr&amacr; do-chuas co <ps><fn>Buchat</fn></ps> dia cungid. N&imacr;s tarat-side, ar<lb n="534"/>
+n&iacute;rbo leis acht la h-athair a tabairt. As-berat tr&amacr; is ar &emacr;cin rucad<lb n="535"/>
+si chuca-som dadaig, &ampersir; n&iacute; fo&iacute; leis acht in n-aidchi sin, &ampersir; at-rullai<lb n="536"/>
+&uacute;ad, &ampersir; issin n-aidchi sin do-rala ina broinn in <ps><fn>Corpri Liphechair</fn></ps><lb n="537"/>
+ mac <ps><fn>Cormaic</fn></ps> (.i. ro char <ps><fn>Liphe</fn></ps> &ampersir; i lLiphechair ro h-alt<lb n="538"/>
+etir a m&amacr;ithre &ampersir; a athre). Ocus n&iacute;ra gaib <ps><fn>Cormac</fn></ps> in mac coro<lb n="539"/>
+luigset <on>Laigin</on> corbo leis. Ocus robo i-si iar sin ba r&imacr;gan i fail <lb n="540"/>
+<ps><fn>Chormaic</fn></ps>. N&imacr;ra gaib immorro can a tindscra do <ps><fn>Buchet</fn></ps>. Is ed<lb n="541"/>
+do-rat <ps><fn>Cormac</fn></ps> d&oacute;, an ro-siacht a radarc di m&uacute;r <pn>Chenandsa</pn>,<lb n="542"/>
+etir boin &ampersir; duine &ampersir; dam &ampersir; ech. Co cenn sechtmaine for-r&emacr;imdes<lb n="543"/>
+a mbreith la <ps><fn>Buchet</fn></ps> dar Rigi fa-dess na rucc d'indilib i cr&iacute;ch<lb n="544"/>
+<on>Lagen</on> a-ridisi.</p>
+<p><lb n="545"/>Esnad tige <ps><fn>Buchet</fn></ps> dona d&aacute;maib (.i. a gen g&aacute;re ass frisna<lb n="546"/>
+d&amacr;ma): Fo-chen d&uacute;ib, bid maith d&uacute;ib linni, bud maith dano<lb n="547"/>
+d&umacr;n-ni lib-si.</p>
+<p><lb n="548"/>Esnad in cho&imacr;cat l&aacute;ech cona n-&emacr;taigib corcraib &ampersir; cona n-erredaib,<lb n="549"/>
+ do airfitiud in tan batis mesca na d&aacute;ma.</p>
+<p><lb n="550"/>Esnad dano in cho&imacr;cat ingen for l&aacute;r in tige ina lennaib corcraib<lb n="551"/>
+ cona mongaib &oacute;rbuidib dara n-&emacr;taige &ampersir; a n-esnad oc airfitiud<lb n="552"/>
+ int &sdot;luaig.</p>
+<pb n="31"/>
+<p><lb n="553"/>Esnad in .l. chruitte iar sin co mmatin ac t&amacr;lgud int &sdot;l&uacute;aig.<lb n="554"/>
+Is de sin a-t&aacute; Esnada Tigi <ps><fn>Buchat</fn></ps>.</p>
+</div1>
+</div0>
+</body>
+<back>
+<div type="appendix" n="1">
+<head>Appendix A</head>
+<p><lb n="555"/>Is ann didiu ro bo&iacute; <ps><fn>Cormac h-ua Cuind</fn></ps> i <pn>Cenannas</pn> riasiu no<lb n="556"/>
+gabad r&iacute;ge n<pn>Erenn</pn>, ar n&imacr;ro l&eacute;ic <ps><fn>Medb Lethderg</fn></ps> hi <pn>Temraig</pn> iar<lb n="557"/>
+n-&eacute;caib a athar .i. i fail <ps><fn>Airt</fn></ps> ro bo&iacute; in <ps><fn>Medb Lethderg</fn></ps> do Laignib,<lb n="558"/>
+ocus ar-robert-side in r&imacr;ge iar n-&emacr;caib <ps><fn>Airt</fn></ps>. Ba h&eacute; domsad na<lb n="559"/>
+rr&iacute;g didiu <pn>Cenannus</pn>. Conid iar ngab&amacr;il r&iacute;ge do <ps><fn>Chormac</fn></ps> ro clas<lb n="560"/>
+lais in <pn>Temair</pn> .i. ferand Odr&amacr;in sin .i. bachlach dona <on>D&emacr;ssib</on><lb n="561"/>
+Breg. In tan didiu ro both oc claide na r&aacute;tha Temrach la <ps><fn>Cormac</fn></ps><lb n="562"/>
+ad-rand a theora &emacr;igme ass.<lb n="563"/>
+Cid &eacute;igi? or <ps><fn>Cormac</fn></ps>.<lb n="564"/>
+&Eacute;igim dochraite, or s&emacr;, fothugud do r&iacute;g <pn>H&emacr;renn</pn> form th&iacute;r &ampersir;<lb n="565"/>
+form thalmain co br&aacute;th.</p>
+<p><lb n="566"/>In tan didiu ro b&aacute;s oc int&amacr;dud inti ro &emacr;ig-seom b&eacute;us. Oc<lb n="567"/>
+techt inti do &sdot;olud do <ps><fn>Chormac</fn></ps> do-bert Odr&aacute;n a druim frisin<lb n="568"/>
+comlaid.</p>
+<p><lb n="569"/>Cid sin? or <ps><fn>Cormac</fn></ps>.</p>
+<p><lb n="570"/>N&aacute;cham &sdot;&aacute;raig, ar <pn>Odr&aacute;n</pn>.</p>
+<p><lb n="571"/>Is an&fdot;&iacute;r do &sdot;&amacr;rugud, ol <ps><fn>Cormac</fn></ps>. N&imacr; ba messi do-g&emacr;na, acht<lb n="572"/>
+manim l&eacute;icther ind ar l&oacute;g .i. do chomthrom do argut &ampersir;<lb n="573"/>
+accnabtha n&oacute;nbair cecha n&oacute;na c&eacute;in b&eacute;o-sa i mbethu &ampersir; t&iacute;r bes<lb n="574"/>
+chutrumma fri[t] t&iacute;r hi t&oacute;eb in t&imacr;ri-se fri athigid chucum-sa.</p>
+<p><lb n="575"/>Is maith, ar <pn>Odr&aacute;n</pn>. A-taat d&amacr; port mathi frind a-ness amne, ar<lb n="576"/>
+<pn>Odr&aacute;n</pn>.</p>
+<p><lb n="577"/>Ci a n-ainm? or <ps><fn>Cormac</fn></ps> .</p>
+<p><lb n="578"/><pn>Odra Temrach</pn>, or s&eacute;.</p>
+<p><lb n="579"/>B&imacr;-siu and dano, or <ps><fn>Cormac</fn></ps>, Odor eter Odraib.</p>
+<p><lb n="580"/>Is de a-t&amacr; <pn>Odra Temrach</pn>.</p>
+<pb n="32"/>
+</div>
+
+<div type="Appendix" n="2">
+<head>Appendix B</head>
+<head><sup resp="DG" lang="en">[From BB 128b32 ff. (B), with readings from LL 386b2 (L)]</sup></head>
+<p><text type="poem">
+<body>
+<lg n="1" type="misc">
+<lb n="581"/>
+<l n="1">Nicc, n&imacr;m th&amacr; sealb saerorba</l>
+<lb n="582"/>
+<l n="2">dom mac m&umacr;c[h]na mithisi</l>
+<lb n="583"/>
+<l>bias for m&imacr;raind mearaigthi</l>
+<lb n="584"/>
+<l>etir drungu derbfini</l>
+<lb n="585"/>
+<l>cen chundrud gen comarbus</l>
+<lb n="586"/>
+<l>cen raind &omacr;s ra&imacr; r&amacr;modaig</l>
+<lb n="587"/>
+<l>itir na t[h]uaith turclochaig</l>
+<lb n="588"/>
+<l>ar a m&emacr;d is m&imacr;n&amacr;ire</l>
+<lb n="589"/>
+<l>tuistin clan[n] fri coibdelchu.</l>
+<lb n="590"/>
+<l>Misi <ps><fn>Cathaer</fn></ps> curata</l>
+<lb n="591"/>
+<l>cond na <pn>Banba</pn> bogbraisi;</l>
+<lb n="592"/>
+<l>con-tuiles a n-aenadbaid</l>
+<lb n="593"/>
+<l>misi is <ps><fn>Eithni</fn></ps>(?)oirdnide</l>
+<lb n="594"/>
+<l>is finnind fial foltbuidi</l>
+<lb n="595"/>
+<l>aidhci Luain ar l&amacr;nmeisci</l>
+<lb n="596"/>
+<l>co ndearnsam d&amacr;il ndorchaidi</l>
+<lb n="597"/>
+<l>(m&eacute;) &ampersir; <ps><fn>Eithni</fn></ps>(?) &amacr;lachta.</l>
+<lb n="598"/>
+<l>Diar tuistin n&imacr;r thogaidhi,</l>
+<lb n="599"/>
+<l>mac n&amacr;r maith re m&omacr;rmarthain</l>
+<lb n="600"/>
+<l>is fiu &emacr;gaib aithissi</l>
+<lb n="601"/>
+<l>olc a beith re buanugud</l>
+<lb n="602"/>
+<l>d&amacr;ig n&imacr; biu m&amacr;, Nig.</l>
+</lg>
+</body>
+</text></p>
+</div>
+<div type="appendix" n="3">
+<head>Appendix C</head>
+<head><sup resp="DG">[Rawl. B 502, fo. 50ra1-50va18]</sup></head>
+<p><text type="poem">
+<body>
+<lg n="1" type="misc">
+<lb n="603"/>
+<l>Catha&imacr;r cenn c&omacr;icid <ps><pn>Banba</pn></ps></l>
+<lb n="604"/>
+<l>&omacr; t&amacr; in r&imacr;grad rochalma,</l>
+<lb n="605"/>
+<l>hu&imacr; Ceinselaig na c&emacr;t fled</l>
+<lb n="606"/>
+<l>&ampersir; sluag l&amacr;ngarg <on>Lagen</on>.</l>
+</lg>
+<pb n="33"/>
+<lg n="2" type="misc">
+<lb n="607"/>
+<l>D&amacr; mac ar thr&imacr;chait ro thecht</l>
+<lb n="608"/>
+<l>in r&imacr; donarb &amacr;il anrecht,</l>
+<lb n="609"/>
+<l>ocus oeningen aca</l>
+<lb n="610"/>
+<l><ps><fn>Eithne</fn></ps> thuachail Toeb&fdot;ata.</l>
+</lg>
+<lg n="3" type="misc">
+<lb n="611"/>
+<l>Tucad <ps><fn>Eithni</fn></ps>, ard a blad,</l>
+<lb n="612"/>
+<l>ar fer n-aurdairc dia h-altram,</l>
+<lb n="613"/>
+<l>ar <ps><fn>Buichet</fn></ps> na sluag s&emacr;tach,</l>
+<lb n="614"/>
+<l>ar in &mdot;briugaid &mdot;b&omacr;ch&emacr;tach.</l>
+</lg>
+<lg n="4" type="misc">
+<lb n="615"/>
+<l>N&imacr; m&umacr;chtha tene na thaich</l>
+<lb n="616"/>
+<l>i nd&umacr;n <ps><fn>Buchet</fn></ps> con briugaid,</l>
+<lb n="617"/>
+<l>na r&emacr; con &fdot;ir &fdot;ial &fdot;assad,</l>
+<lb n="618"/>
+<l>acht a bith for bithlassad.</l>
+</lg>
+<lg n="5" type="misc">
+<lb n="619"/>
+<l>Seacht n-&amacr;irge cond oen&fdot;iur &fdot;ial</l>
+<lb n="620"/>
+<l>n&amacr; tuc d'oegedaib anfiad;</l>
+<lb n="621"/>
+<l>secht fichit b&omacr;, ba buan blad,</l>
+<lb n="622"/>
+<l>in cach &amacr;irge, n&imacr;rb ingnad.</l>
+</lg>
+<lg n="6" type="misc">
+<lb n="623"/>
+<l>Seacht &ndot;doirsi for a thich the</l>
+<lb n="624"/>
+<l>ind la&imacr;ch n&amacr;r h-annsa d'aichne;</l>
+<lb n="625"/>
+<l>in cach dorus no b&imacr;d ben</l>
+<lb n="626"/>
+<l>hic frith&amacr;lim na n-oeged.</l>
+</lg>
+<lg n="7" type="misc">
+<lb n="627"/>
+<l>Secht teinte na thig th&emacr;crach</l>
+<lb n="628"/>
+<l>hicon l&amacr;ech cen l&umacr;ath&emacr;cnach;</l>
+<lb n="629"/>
+<l>oegid imda im cach tenid</l>
+<lb n="630"/>
+<l>hic fiur &fdot;ial ind ardenich.</l>
+</lg>
+<lg n="8" type="misc">
+<lb n="631"/>
+<l>Meicc imda hi[c] <ps><fn>Catha&imacr;r</fn></ps> na crech</l>
+<lb n="632"/>
+<l>hic aithigid na oentech,</l>
+<lb n="633"/>
+<l>sluag adbal cach oen&fdot;ir d&imacr;b</l>
+<lb n="634"/>
+<l>do doenib as cach degth&imacr;r.</l>
+</lg>
+<lg n="9" type="misc">
+<lb n="635"/>
+<l>No thictis dar cach trethan</l>
+<lb n="636"/>
+<l>d'acallaim a n-ardsethar,</l>
+<lb n="637"/>
+<l>no chuingtis na laech mo-le</l>
+<lb n="638"/>
+<l>ascada m&omacr;ra meincce.</l>
+</lg>
+<pb n="34"/>
+<lg n="10" type="misc">
+<lb n="639"/>
+<l>In fer n&amacr; fagbad aiscid</l>
+<lb n="640"/>
+<l>do chlaind r&imacr;g in rogaiscid,</l>
+<lb n="641"/>
+<l>do-n&imacr;d ordd iar tocht as-tig</l>
+<lb n="642"/>
+<l>n&amacr;rbo maith risi[n] muintir.</l>
+</lg>
+<lg n="11" type="misc">
+<lb n="643"/>
+<l>Na &fdot;uaitged alb&imacr;n dia buaib</l>
+<lb n="644"/>
+<l>n&omacr; na h-eochu fri oenhuair,</l>
+<lb n="645"/>
+<l>n&omacr; in seisrig iar l&omacr; din leirg</l>
+<lb n="646"/>
+<l>dar and&emacr;oin <ps><fn>Buchit</fn></ps> brattdeirg.</l>
+</lg>
+<lg n="12" type="misc">
+<lb n="647"/>
+<l>Do-th&emacr;ged <ps><fn>Buichet</fn></ps> buird <pn>Breg</pn></l>
+<lb n="648"/>
+<l>no acca&imacr;ned a imned</l>
+<lb n="649"/>
+<l>hi fiadnaisse <ps><fn>Chatha&imacr;r</fn></ps> ch&omacr;ir</l>
+<lb n="650"/>
+<l>&ampersir; e-side sen&omacr;ir.</l>
+</lg>
+<lg n="13" type="misc">
+<lb n="651"/>
+<l>N&imacr; chumgim-se do chobair,</l>
+<lb n="652"/>
+<l>ar <ps><fn>Chatha&imacr;r</fn></ps> in chrechdolaid,</l>
+<lb n="653"/>
+<l>acht a cheist immum chride</l>
+<lb n="654"/>
+<l>mannurtha do m&omacr;rthige.</l>
+</lg>
+<lg n="14" type="misc">
+<lb n="655"/>
+<l>&Emacr;la&imacr;d h-uadib i n-aidche</l>
+<lb n="656"/>
+<l>in fer fir&emacr;n fur&fdot;oirbthe,</l>
+<lb n="657"/>
+<l>cia riacht Leth Cuind ma&imacr;n</l>
+<lb n="658"/>
+<l>ar teched clainne <ps><fn>Catha&imacr;r</fn></ps> C.</l>
+</lg>
+<lg n="15" type="misc">
+<lb n="659"/>
+<l>Hiss &emacr; leth ruc-sum a r&emacr;im</l>
+<lb n="660"/>
+<l>co <pn>Cenannas</pn> tria choemch&emacr;il,</l>
+<lb n="661"/>
+<l>co r&imacr;gd&umacr;n <ps><fn>Cormaic Cnuicc Brain</fn></ps></l>
+<lb n="662"/>
+<l>meic <ps><fn>Airt</fn></ps> meic <ps><fn>Cuind C&emacr;tchathaigh</fn></ps>.</l>
+</lg>
+<lg n="16" type="misc">
+<lb n="663"/>
+<l>Ro bae i mboith bic isin d&umacr;n</l>
+<lb n="664"/>
+<l><ps><fn>Buchet</fn></ps> 's a ben cen baethr&umacr;n,</l>
+<lb n="665"/>
+<l>is ingen <ps><fn>Chatha&imacr;r</fn></ps> ro chlecht</l>
+<lb n="666"/>
+<l>cen tatha&imacr;r coa timthirecht.</l>
+</lg>
+<lg n="17" type="misc">
+<lb n="667"/>
+<l>N&imacr; lamad techt hi <pn>Temraig</pn></l>
+<lb n="668"/>
+<l>annsin h-ua Cuind cassherlaich</l>
+<lb n="669"/>
+<l>la <ps><fn>Meidb Leithdeirg</fn></ps> <pn>Laigen</pn> lir</l>
+<lb n="670"/>
+<l>fri athmna&imacr; in r&imacr;g <ps><fn>Airtt Oen&fdot;ir.</fn></ps></l>
+</lg>
+<pb n="35"/>
+<lg n="18" type="misc">
+<lb n="671"/>
+<l>Siist ar marbad <ps><fn>Airtt</fn></ps> na n-ech</l>
+<lb n="672"/>
+<l>&mdash;ropo beoda in banLaignech&mdash;</l>
+<lb n="673"/>
+<l>ro gab f&emacr;in co talchar tenn</l>
+<lb n="674"/>
+<l>r&imacr;ge aurm&omacr;ir na h-<pn>&Emacr;renn</pn>.</l>
+</lg>
+<lg n="19" type="misc">
+<lb n="675"/>
+<l>Iar sin [ro] gaib <ps><fn>Cormac</fn></ps> cruaid</l>
+<lb n="676"/>
+<l>r&imacr;ge for <pn>Banbai</pn> bratruaid,</l>
+<lb n="677"/>
+<l>claidid, caem a dath,</l>
+<lb n="678"/>
+<l>r&amacr;ith rom&omacr;ir na r&imacr;g <pn>Themrach</pn>.</l>
+</lg>
+<lg n="20" type="misc">
+<lb n="679"/>
+<l>Tic fer bunaid in baile</l>
+<lb n="680"/>
+<l>diarbu dual a degaire,</l>
+<lb n="681"/>
+<l>tr&amacr;th ro claided in r&amacr;th ruad</l>
+<lb n="682"/>
+<l>ro <ps><fn>Cormac</fn></ps> is ra chaemsluag.</l>
+</lg>
+<lg n="21" type="misc">
+<lb n="683"/>
+<l>Atnaig a thr&imacr; &emacr;igme as,</l>
+<lb n="684"/>
+<l>int aithech m&omacr;r meramnas,</l>
+<lb n="685"/>
+<l>co clos fo th&imacr;r <pn>Breg na mbenn</pn></l>
+<lb n="686"/>
+<l>cach &emacr;igim triana h-ardchenn.</l>
+</lg>
+<lg n="22" type="misc">
+<lb n="687"/>
+<l>Cid &emacr;ige, a aithig engaig?</l>
+<lb n="688"/>
+<l>ar <ps><fn>Cormac</fn></ps> a cloen <pn>Temraich</pn>,</l>
+<lb n="689"/>
+<l>innis d&umacr;in cia sc&emacr;l sca&imacr;le</l>
+<lb n="690"/>
+<l>n&omacr; cia &emacr;c&omacr;ir &emacr;ca&imacr;ne?</l>
+</lg>
+<lg n="23" type="misc">
+<lb n="691"/>
+<l>Dochraite hic a imbirt forn,</l>
+<lb n="692"/>
+<l>ar int aithech abratgorm;</l>
+<lb n="693"/>
+<l>port r&imacr;g dom baile co br&amacr;th</l>
+<lb n="694"/>
+<l>n&imacr; mmun-aicces int ardr&amacr;th.</l>
+</lg>
+<lg n="24" type="misc">
+<lb n="695"/>
+<l>Hic s&amacr;dud in tige tricc</l>
+<lb n="696"/>
+<l>do-n&imacr; int athech narb ainglicc</l>
+<lb n="697"/>
+<l>tr&imacr; h-&emacr;igme fon c&omacr;ir c&emacr;tna</l>
+<lb n="698"/>
+<l>co rod&imacr;scir, rod&emacr;tla.</l>
+</lg>
+<lg n="25" type="misc">
+<lb n="699"/>
+<l>Tr&amacr;th do-cuaid <ps><fn>Cormac</fn></ps> na cor</l>
+<lb n="700"/>
+<l>isin s&amacr;rthech ro solad</l>
+<lb n="701"/>
+<l>tic a-r&imacr;s cen recht, cen raind,</l>
+<lb n="702"/>
+<l>in tres fecht fer ind feraind.</l>
+</lg>
+<pb n="36"/>
+<lg n="26" type="misc">
+<lb n="703"/>
+<l>Do-n&imacr; tr&imacr; h-&emacr;igme co h-ard</l>
+<lb n="704"/>
+<l>co rochruaid is co rogarg</l>
+<lb n="705"/>
+<l>i ndorus in tige te</l>
+<lb n="706"/>
+<l>do s&imacr;r&fdot;uacra a s&amacr;raigthe.</l>
+</lg>
+<lg n="27" type="misc">
+<lb n="707"/>
+<l>Cid h-&emacr;igi, a aithich? co prap</l>
+<lb n="708"/>
+<l>at-bert fris h-ua Cuind <ps><fn>Cormac</fn></ps>,</l>
+<lb n="709"/>
+<l>is a druim fri comlaid c&omacr;ir</l>
+<lb n="710"/>
+<l>in tigi r&imacr;gdai rom&omacr;ir.</l>
+</lg>
+<lg n="28" type="misc">
+<lb n="711"/>
+<l>Mo &sdot;&amacr;rgud duit-siu co derb</l>
+<lb n="712"/>
+<l>co fuachda &ampersir; co f&imacr;rserb,</l>
+<lb n="713"/>
+<l>n&imacr; flaithius duit, n&imacr; recht r&imacr;g,</l>
+<lb n="714"/>
+<l>brith m'[&fdot;]eraind uaim i n-an&fdot;&imacr;r.</l>
+</lg>
+<lg n="29" type="misc">
+<lb n="715"/>
+<l>B&emacr;ra uaim-se, ar in r&imacr; rot,</l>
+<lb n="716"/>
+<l>do chomthrom d'&omacr;r is d'argot,</l>
+<lb n="717"/>
+<l>cuit n&omacr;nbuir, is n&imacr; do rath,</l>
+<lb n="718"/>
+<l>cach n-aidchi a tich na <pn>Temrach</pn>.</l>
+</lg>
+<lg n="30" type="misc">
+<lb n="719"/>
+<l>Na d&amacr; r&amacr;ith-se rind a-ness,</l>
+<lb n="720"/>
+<l>hit chomfocus co comdess,</l>
+<lb n="721"/>
+<l><pn>Odra Temrach</pn> arna taill</l>
+<lb n="722"/>
+<l>beir h-uaim i nn-inad t'[&fdot;]eraind.</l>
+</lg>
+<lg n="31" type="misc">
+<lb n="723"/>
+<l>G&emacr;bat-sa sain, ar n&imacr; suail,</l>
+<lb n="724"/>
+<l>i nn-inad m'[&fdot;]erainn innuair,</l>
+<lb n="725"/>
+<l>ar toeb do ch&amacr;tad cen chr&amacr;d,</l>
+<lb n="726"/>
+<l>at-bert int aithech <ps><fn>Odr&amacr;n</fn></ps> .</l>
+</lg>
+<lg n="32" type="misc">
+<lb n="727"/>
+<l><ps><fn>Odr&amacr;n</fn></ps> a mMaig Breg in buair</l>
+<lb n="728"/>
+<l>eter <pn>Odru Temra</pn> thuaid;</l>
+<lb n="729"/>
+<l>h&emacr; sein in fogur dia fail</l>
+<lb n="730"/>
+<l>int Odor eter Odraib.</l>
+</lg>
+<lg n="33" type="misc">
+<lb n="731"/>
+<l>Iar sain do-riacht <ps><fn>Cormac</fn></ps>  cas</l>
+<lb n="732"/>
+<l>&omacr;n chlaenr&amacr;ith co <pn>Cenannas</pn></l>
+<lb n="733"/>
+<l>co facca s&emacr; in n-i[n]gin ann</l>
+<lb n="734"/>
+<l>dalta <ps><fn>Buichet</fn></ps> na mbuaball.</l>
+</lg>
+<pb n="37"/>
+<lg n="34" type="misc">
+<lb n="735"/>
+<l>Hic techt ar cenn uisci uair</l>
+<lb n="736"/>
+<l>a aithli bleogain a buair,</l>
+<lb n="737"/>
+<l>d&amacr; lestar hi ll&amacr;maib l&emacr;</l>
+<lb n="738"/>
+<l>&mdash;n&imacr; l&imacr;nad h&imacr;at ar oengn&emacr;.</l>
+</lg>
+<lg n="35" type="misc">
+<lb n="739"/>
+<l>Ind ara lestar, ba l&emacr;ir,</l>
+<lb n="740"/>
+<l>a h-imleib srotha sor&emacr;id,</l>
+<lb n="741"/>
+<l>lestar aile tria &fdot;otha,</l>
+<lb n="742"/>
+<l>a med&omacr;n in m&omacr;rsrotha.</l>
+</lg>
+<lg n="36" type="misc">
+<lb n="743"/>
+<l>T&emacr;it do buain luachra luimmi</l>
+<lb n="744"/>
+<l>di[a] h-aite is dia h-ardmuimme,</l>
+<lb n="745"/>
+<l>his ros rann co derb ar d&omacr;</l>
+<lb n="746"/>
+<l>ind ingen, n&imacr; h-immarg&omacr;.</l>
+</lg>
+<lg n="37" type="misc">
+<lb n="747"/>
+<l>Imbel na luachra for leith</l>
+<lb n="748"/>
+<l>inna h-airbir chaem cen chleith</l>
+<lb n="749"/>
+<l>med&omacr;n na luachra hi llige</l>
+<lb n="750"/>
+<l>ar a muin na maethgile.</l>
+</lg>
+<lg n="38" type="misc">
+<lb n="751"/>
+<l>Ros airiuch r&imacr; <pn>Temra</pn> thair</l>
+<lb n="752"/>
+<l>iar n-&emacr;irge moch san matain;</l>
+<lb n="753"/>
+<l>cach a nderna &omacr; dub co dub</l>
+<lb n="754"/>
+<l>ro bu&imacr; in r&imacr; coa r&amacr;thugud.</l>
+</lg>
+<lg n="39" type="misc">
+<lb n="755"/>
+<l>Ro iarfaig <ps><fn>Cormac</fn></ps> cen chr&amacr;d,</l>
+<lb n="756"/>
+<l>A h-ingen &amacr;laind imsl&amacr;n,</l>
+<lb n="757"/>
+<l>cia dia rainni, r&amacr;id rinn sain,</l>
+<lb n="758"/>
+<l>int uisqi, in lacht, in luachair?</l>
+</lg>
+<lg n="40" type="misc">
+<lb n="759"/>
+<l>Fer ro bu&imacr; hi rromaithius riam,</l>
+<lb n="760"/>
+<l>ar inn i[n]gen &fdot;&emacr;ta &fdot;ial,</l>
+<lb n="761"/>
+<l>Is d&omacr; trialltair sunn co se</l>
+<lb n="762"/>
+<l>roga cach na rainnim-se.</l>
+</lg>
+<lg n="41" type="misc">
+<lb n="763"/>
+<l>Inn &emacr; <ps><fn>Buchet</fn></ps> <on>Lagen</on> l&amacr;n</l>
+<lb n="764"/>
+<l>sain? ar <ps><fn>Cormac</fn></ps> na comd&amacr;l.</l>
+<lb n="765"/>
+<l>Is h&emacr;, ar h-<ps><fn>Eithne</fn></ps>, luaitir lat.</l>
+<lb n="766"/>
+<l>Na-cualammar, ar <ps><fn>Cormac</fn></ps> .</l>
+</lg>
+<pb n="38"/>
+<lg n="42" type="misc">
+<lb n="767"/>
+<l>Ocus tusa f&emacr;in co f&imacr;r</l>
+<lb n="768"/>
+<l>in t&umacr; ingen ind arddr&imacr;g</l>
+<lb n="769"/>
+<l>ingen <pn>Chatha&imacr;r</pn> chr&imacr;chi <pn>Breg</pn></l>
+<lb n="770"/>
+<l><ps><fn>Eithne</fn></ps> Thoeb&fdot;ata thuachel?</l>
+</lg>
+<lg n="43" type="misc">
+<lb n="771"/>
+<l>M&emacr;id ro thoimsis f&emacr;in ro fess</l>
+<lb n="772"/>
+<l>m'ainm is m'atharda nd&imacr;les,</l>
+<lb n="773"/>
+<l>a r&imacr; <on>Gaedel</on> is <on>Gall</on> ngot</l>
+<lb n="774"/>
+<l>n&imacr; g&emacr;tam th'airdmess h-orot.</l>
+</lg>
+<lg n="44" type="misc">
+<lb n="775"/>
+<l>N&imacr; rabai-siu cen maith m&omacr;r,</l>
+<lb n="776"/>
+<l>cen churnu ocus cen chom&omacr;l,</l>
+<lb n="777"/>
+<l>ar <ps><fn>Cormac</fn></ps>cen a chor de,</l>
+<lb n="778"/>
+<l>hi lluag h-on&omacr;ra th'aite</l>
+</lg>
+<lg n="45" type="misc">
+<lb n="779"/>
+<l>Tuc a aire sin n-ingin</l>
+<lb n="780"/>
+<l>rii <on type="Irishman">Ga&imacr;del</on> in glasinbir,</l>
+<lb n="781"/>
+<l>gr&amacr;d na h-ingine cen ail</l>
+<lb n="782"/>
+<l>tucad co m&omacr;r dia menmain.</l>
+</lg>
+<lg n="46" type="misc">
+<lb n="783"/>
+<l>Ro chuinged ind ingen h-uaid</l>
+<lb n="784"/>
+<l>cosin n-aite ros imluaid.</l>
+<lb n="785"/>
+<l>Noco d&imacr;m-sa dlegair sain,</l>
+<lb n="786"/>
+<l>ar a h-aitte, ach dia h-athair.</l>
+</lg>
+<lg n="47" type="misc">
+<lb n="787"/>
+<l>N&imacr; thuc <ps><fn>Buchet</fn></ps> in flaith f&imacr;r</l>
+<lb n="788"/>
+<l>do r&imacr;g h-<pn>&Emacr;renn</pn> in n-ingin</l>
+<lb n="789"/>
+<l>no co ros fuc ar &emacr;cin</l>
+<lb n="790"/>
+<l>ar ae ciarb ordd anh&emacr;tig.</l>
+</lg>
+<lg n="48" type="misc">
+<lb n="791"/>
+<l>Acht leth na h-aidche h-uaire</l>
+<lb n="792"/>
+<l>n&imacr; rabae in ben bratt(h)uaine</l>
+<lb n="793"/>
+<l>hicond r&imacr;g-sin co rath m&omacr;r</l>
+<lb n="794"/>
+<l>co ndechaid h-uaid ar &emacr;l&omacr;d.</l>
+</lg>
+<lg n="49" type="misc">
+<lb n="795"/>
+<l>Hinn aidchi-sin, n&imacr; h-olc lenn,</l>
+<lb n="796"/>
+<l>n&imacr; fitir c&amacr;ch co coit(h)cenn,</l>
+<lb n="797"/>
+<l>do-rigned r&imacr; na n-ech n-ard,</l>
+<lb n="798"/>
+<l><ps><fn>Carpre Liphichair</fn></ps> l&amacr;ngarg.</l>
+</lg>
+<pb n="39"/>
+<lg n="50" type="misc">
+<lb n="799"/>
+<l>Hi l-Liphichair na lerg ruad</l>
+<lb n="800"/>
+<l>tuargabad flaith na findsluag</l>
+<lb n="801"/>
+<l>eter a m&amacr;thre m&imacr;ne</l>
+<lb n="802"/>
+<l>is a aithre i n-ardr&imacr;ge.</l>
+</lg>
+<lg n="51" type="misc">
+<lb n="803"/>
+<l>Is de sin ro len in laech</l>
+<lb n="804"/>
+<l>int ainm aurdairc nach i&ndot;gaeth</l>
+<lb n="805"/>
+<l>dar cach &mdot;b&amacr;nchlad co mbechaib</l>
+<lb n="806"/>
+<l><ps><fn>Cairpre</fn> l&amacr;mchar <fn>Liphichair</fn></ps>.</l>
+</lg>
+<lg n="52" type="misc">
+<lb n="807"/>
+<l>Cuingid a-r&imacr;s in r&imacr;gain</l>
+<lb n="808"/>
+<l><ps><fn>Cormac</fn></ps>, cenn &omacr;s chaemr&imacr;gaib,</l>
+<lb n="809"/>
+<l>do-n&imacr;at a curu moa le</l>
+<lb n="810"/>
+<l>do deoin athar is aite.</l>
+</lg>
+<lg n="53" type="misc">
+<lb n="811"/>
+<l>N&imacr;rb &amacr;il d'<ps><fn>Eithni</fn></ps> toebgil trell</l>
+<lb n="812"/>
+<l>techt a-r&imacr;s co r&imacr;g n-<pn>&Emacr;renn</pn></l>
+<lb n="813"/>
+<l>co tuctha a h-ellam h-uile</l>
+<lb n="814"/>
+<l>do <ps><fn>Buichet</fn></ps> b&amacr;n barrbuide.</l>
+</lg>
+<lg n="54" type="misc">
+<lb n="815"/>
+<l>Tucad ellom anb&fdot;&omacr;il ann</l>
+<lb n="816"/>
+<l>d'ingin <ps><fn>Chatha&imacr;r</fn></ps>, n&imacr; ch&emacr;lam,</l>
+<lb n="817"/>
+<l>n&imacr; thucad ellom amlaid</l>
+<lb n="818"/>
+<l>do mna&imacr; i nh&emacr;rind h-echadbail.</l>
+</lg>
+<lg n="55" type="misc">
+<lb n="819"/>
+<l>Cach a faiccfed f&emacr;in, ferr de,</l>
+<lb n="820"/>
+<l>do druimm <pn>Chenannsa</pn> caeme,</l>
+<lb n="821"/>
+<l>co cenn sechtmaine, n&imacr; suail,</l>
+<lb n="822"/>
+<l>ar fut Maige Breg barrhuair.</l>
+</lg>
+<lg n="56" type="misc">
+<lb n="823"/>
+<l>Eter &omacr;r is argat sain</l>
+<lb n="824"/>
+<l>eter thr&emacr;oto ocus t&amacr;naid,</l>
+<lb n="825"/>
+<l>eter dam is duine is ech,</l>
+<lb n="826"/>
+<l>a car h-uile for oenleth.</l>
+</lg>
+<lg n="57" type="misc">
+<lb n="827"/>
+<l>For-&fdot;&emacr;mid <ps><fn>Buchet</fn></ps> na mb&omacr;</l>
+<lb n="828"/>
+<l>imm&amacr;in tr&imacr;n na tucad d&omacr;</l>
+<lb n="829"/>
+<l>co tard <ps><fn>Cormac</fn></ps> lasin crod</l>
+<lb n="830"/>
+<l>cethirn uad dia idnaccol.</l>
+</lg>
+<pb n="40"/>
+<lg n="58" type="misc">
+<lb n="831"/>
+<l>[I]s ed tuc <ps><fn>Buchet</fn></ps> a buar</l>
+<lb n="832"/>
+<l>co c&omacr;iced <on type="Leinstermen">Lagen</on> lindhuar</l>
+<lb n="833"/>
+<l>co r&imacr;gd&umacr;n &mdot;<ps><fn>Buichet</fn></ps> &mdot;bledach</l>
+<lb n="834"/>
+<l>in ro chlecht a ch&emacr;tenech.</l>
+</lg>
+<lg n="59" type="misc">
+<lb n="835"/>
+<l>&Oacute; thuc leis a th&amacr;inte a-tuaid</l>
+<lb n="836"/>
+<l><ps><fn>Buchet</fn></ps> co mb&imacr;d sorthan sluaig,</l>
+<lb n="837"/>
+<l>ni th&amacr;nic oen&fdot;er bad &fdot;err</l>
+<lb n="838"/>
+<l>do r&emacr;ir oeged na h-<pn>&Emacr;renn</pn>.</l>
+</lg>
+<lg n="60" type="misc">
+<lb n="839"/>
+<l>Mo-chen d&umacr;ib, is d&umacr;ib bas maith,</l>
+<lb n="840"/>
+<l>at-beired f&emacr;in in f&imacr;r&fdot;laith;</l>
+<lb n="841"/>
+<l>ferrde d&umacr;in imma sech sain,</l>
+<lb n="842"/>
+<l>o&imacr;bniti in tech for t&imacr;chtain.</l>
+</lg>
+<lg n="61" type="misc">
+<lb n="843"/>
+<l>Tr&imacr; g&amacr;ire thall na thig &omacr;il</l>
+<lb n="844"/>
+<l>&omacr; th&omacr;cb&amacr;il a chorn com&omacr;il,</l>
+<lb n="845"/>
+<l>co faicced c&amacr;ch thiar is tair</l>
+<lb n="846"/>
+<l>in grian i-mmuich iar matain.</l>
+</lg>
+<lg n="62" type="misc">
+<lb n="847"/>
+<l>G&amacr;ir in cho&imacr;cat laech ar leith</l>
+<lb n="848"/>
+<l>ba l&omacr;r d'oebnius ar oensreith,</l>
+<lb n="849"/>
+<l>i mbrattaib corcra co cert</l>
+<lb n="850"/>
+<l>hic cluichi 's a[c] cliaraigecht.</l>
+</lg>
+<lg n="63" type="misc">
+<lb n="851"/>
+<l>G&amacr;ir in cho&imacr;cat ingen ann</l>
+<lb n="852"/>
+<l>i mbrattaib h-uaine, atmam,</l>
+<lb n="853"/>
+<l>cuiri na ngrian&amacr;n co ngr&amacr;d</l>
+<lb n="854"/>
+<l>sian&amacr;n acco is andordd&amacr;n.</l>
+</lg>
+<lg n="64" type="misc">
+<lb n="855"/>
+<l>G&amacr;ir ch&omacr;icat chruittire c&omacr;ir</l>
+<lb n="856"/>
+<l>hic airfitiud inn ardsl&omacr;ig,</l>
+<lb n="857"/>
+<l>isin tich iarna thomus</l>
+<lb n="858"/>
+<l>co ticed lae l&amacr;n&sdot;olus.</l>
+</lg>
+<lg n="65" type="misc">
+<lb n="859"/>
+<l>In laech dia ro lensat sain</l>
+<lb n="860"/>
+<l>pudar a thecht fo thalmain;</l>
+<lb n="861"/>
+<l>m&omacr;r d'einiuch do-rigne &omacr;s raen</l>
+<lb n="862"/>
+<l>sin chr&imacr;ch ro chosain <ps><fn>Cathaer</fn></ps>. &Cmacr;.</l>
+</lg>
+<pb n="41"/>
+<lg n="66" type="misc">
+<lb n="863"/>
+<l><ps><fn>Eochaid Eolach</fn></ps>, fuair in fer</l>
+<lb n="864"/>
+<l>ardsenchas inse <on>Gaedel</on>,</l>
+<lb n="865"/>
+<l>augtar inn eolais co n-aeb,</l>
+<lb n="866"/>
+<l>sluindfes cert clainne <ps><fn>Cathaer</fn></ps>. &Cmacr;.</l>
+</lg>
+</body>
+</text></p>
+</div>
+</back>
+</text>
+</TEI.2>

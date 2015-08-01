@@ -1,0 +1,43 @@
+<head>Do fallsigud T&aacute;na B&oacute; Cual&ndot;ge.</head> (F)
+<head>De Gabail in t&Sdot;ida in so sic.,</head> (F)
+<head>De Chophur in da Muccida</head> (F)
+<head>Tain B&oacute; Flidaisi.</head> (F)
+<head>Tain B&oacute; Fraich.</head> (F)
+<head>Fochond Loi&ndot;gse Fergusa meic Roig in so s&iacute;s.,</head> (F)
+<head>Tochmarc Ferbae</head> (U)
+<head>Longes mac nUsnig</head> (U/M)
+<head> Incipit Mesca Ulad. </head> (M)
+<head>Orgain Dind R&iacute;g</head> (F)
+<head>Niall Frossach</head> 
+<head>&Oacute;enach Talten</head>
+<head>Aided Cuanach meic Ailchini</head>
+<head>Echtra Laegaire meic Crimthainn</head>
+<head>Cath Carn Chonaill</head>
+<head>Senchas Aili&uacute;in Chobthaig</head>
+<head>A ben bennacht fort na raid</head>
+<head>D&iacute;as macclerech</head>
+<head>Ri irissech ro bo&iacute; do Grecaib</head>
+<head>Iartaige na hingine colaige do Gr&eacute;caib</head>
+<head>D&aacute; br&oacute;n flatha nime</head>
+<head>Cethrur macclerech</head>
+<head>Epscop do Gaedelaib dochoid do R&oacute;im</head>
+<head>Ba&iacute; r&iacute; amra de Gr&eacute;caib Salem&oacute;n a ainm</head>
+<head>Sloiged m&aacute;r rucsat Gr&eacute;ic co Hebr&iacute;b fechtas n-aile</head>
+<head>Triar macclerech</head>
+<head>Macclerech do muntir &Fdot;erna m&oacute;ire</head>
+<head>Fechtas do M'li&ndot;g is T&oacute;idin co n-acca Mael Doborchon</head>
+<head>Drochcomaithech ro ba&iacute; i n-ocus dosom .i. Gr&aacute;c</head>
+<head>Mo Lli&ndot;g Luachra dalta do Maeh&oacute;c &Fdot;erna</head>
+<head>Fechtas d&oacute;som oc ernaigthi ina eclais</head>
+<head>Caillech dorat a mac d&oacute;sum do M'Li&ndot;g</head>
+<head>Fechtas aile do M'Li&ndot;g is To&iacute;din</head>
+<head>C&oacute;ica epscop dodeochatar dochum M'Oedoc &Fdot;erna do Bretnaib Cille Muine</head>
+<head>Bu&iacute; siur Mo Lassi Lethglinni oc l&eacute;gund i fail Mo Lasse</head>
+<head>Luid Mael Ruain Tamlachta fechtas dia airge</head>
+<head>Cumm&iacute;ne Fota mac Fiachnai di Eoganacht Chassil</head>
+<head>Longes Chonaill Chuirc</head>
+<head>Cath Maige Mucrima</head>
+<head>Incipit de maccaib Conaire.</head>
+<head>Audacht Morainn</head>
+<head>Incipit B&oacute;rama</head>
+<head>Cogad Gaedel re Gallaib</head>

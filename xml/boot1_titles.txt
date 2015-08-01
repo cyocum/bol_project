@@ -1,0 +1,53 @@
+<head>Lebor Gabála</head>
+<head>Do ḟlathiusaib Hérend</head>
+<head>Do ḟlaithesaib Hérend Iar Creitim</head>
+<head>Connachta cid dia tá in t-ainm</head>
+<head>Cormac mac Culennain cecinit</head>
+<head>Fland Manistrech cecinit</head>
+<head>Turim Tigi Temrach .i. in tech mór milib amus</head>
+<head>Tech Midchúarda</head>
+<head>Dindgnai Temrach in so sís.</head>
+<head>Cethri srotha déc éicsi</head>
+<head>Fland Fína cecinit</head>
+<head>Cináed húa Artacáin: Fíanna Bátar i nEmain</head>
+<head>Gilla na Naem Hua Duind cecinit</head>
+<head>Cuan Hua Lothchain cecinit</head>
+<head>Fothart for trebaib Con Corbb</head>
+<head>Feidlimid athair Echach</head>
+<head>Augaine Már mac ríg Hérend</head>
+<head>Túathal Techtmar ba rí Temrach</head>
+<head>Treḟocul</head>
+<head>Cellach Húa Rúanada</head>
+<head>Dían</head>
+<head>De dúlib feda na fored</head>
+<head>Marb Cairpre Músc co n-áne</head>
+<head>>Ríg Hérend</head>
+<head>Ríg Lagen</head>
+<head>Ríg Hua Cendselaig.</head>
+<head>Rig Hua Falge.</head>
+<head>Reges Ossairge</head>
+<head>Ríg Connacht.</head>
+<head>Rig Ulad.</head>
+<head>Rig Dail Araide.</head>
+<head>Rig Uisnig.</head>
+<head>Comarbada Patraic</head>
+<head>A Chóicid chóem Chairpri chrúaid</head>
+<head>Broccán Craibdech cecinit</head>
+<head>Medb Lethderg cecinit.</head>
+<head>Dubthach hua Lugair cecinit.</head>
+<head>Idem Dubthach cecinit.</head>
+<head>Item de eodem</head>
+<head>A bairgen ataí i ṅgábud</head>
+<head>Dallán mac Móre cecinit.</head>
+<head>Idem de eodem.</head>
+<head>Brandub mac Echach</head>
+<head>Guidim Comdid cumachtach</head>
+<head>Echta Lagen for Leth Cuind</head>
+<head>Clanna Falge Ruis in ríg</head>
+<head>Slan seiss a Brigit co mbuaid</head>
+<head>Gormlaith ingen ḟlainn cecinit.</head>
+<head>Túarastla Rosa Failgi</head>
+<head>Túathal Techtmar</head>
+<head>Orthanach cecinit.</head>
+<head>Gormlaith ingen ḟlaind</head>
+<head>Dallan mac Móre ollam Cerbaill cecinit.</head>

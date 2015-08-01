@@ -202,6 +202,7 @@ let _ =
   let docs_terms = List.rev_map (calc_tf func_word_lst) docs in
   let non_zero_terms = List.fold_left (+) 0 (List.rev_map (fun doc -> (List.length doc.terms)) docs_terms) in
   let docs_full = calc_all_idf docs_terms in
-  output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;
+  (*output_results_cluto (List.rev docs_full) func_word_lst non_zero_terms;*)
   output_csv docs_full func_word_lst;
-  Util.output_func_words func_word_lst
+    Util.output_func_words func_word_lst
+

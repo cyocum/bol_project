@@ -1,6 +1,6 @@
 import Clustering
-import Distance
-import DimensionalityReduction
+import Distances
+import MultivariateStats
 using Gadfly
 
 function create_tuple(result, i, data)
@@ -28,19 +28,24 @@ end
 
 (data, header) = readcsv("texts.csv", header=true)
 tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
-dists = Distance.pairwise(Distance.CosineDist(), transpose(tf_idfs))
+#dists = Distances.pairwise(Distances.CosineDist(), transpose(tf_idfs))
 
-result = Clustering.kmedoids(dists, 25)
+#result = Clustering.kmedoids(dists, 9)
 
-clusters = [create_tuple(result, i, data) for i = 1:size(data)[1]]
+#clusters = [create_tuple(result, i, data) for i = 1:size(data)[1]]
 
-sort!(clusters)
+#sort!(clusters)
 
-#writecsv("clustered-20.csv", clusters)
+#writecsv("clustered-test.csv", clusters)
 #sils = Clustering.silhouettes(result, dists)
 #p=plot(x=sils, Geom.histogram)
 #draw(SVG("sils-40.svg", 24cm, 12cm), p)
 
-p = DimensionalityReduction.pcaeig(tf_idfs)
-pca_plot = Gadfly.plot(x=p.scores[:,1], y=p.scores[:,2], Geom.point)
+#p = MultivariateStats.pcaeig(tf_idfs)
+#pca_plot = Gadfly.plot(x=p.scores[:,1], y=p.scores[:,2], Geom.point)
+#draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
+
+fit = MultivariateStats.fit(MultivariateStats.PCA, traspose(tf_idfs))
+
+pca_plot = Gadfly.plot(x=fit.scores[:,1], y=fit.scores[:,2], Geom.point)
 draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
