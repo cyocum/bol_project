@@ -26,7 +26,7 @@ function is_medoid(i, result)
     i == result.medoids[result.assignments[i]]
 end 
 
-(data, header) = readcsv("texts.csv", header=true)
+(data, header) = readcsv("texts.csv.old", header=true)
 tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
 #dists = Distances.pairwise(Distances.CosineDist(), transpose(tf_idfs))
 
@@ -45,7 +45,9 @@ tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
 #pca_plot = Gadfly.plot(x=p.scores[:,1], y=p.scores[:,2], Geom.point)
 #draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
 
-fit = MultivariateStats.fit(MultivariateStats.PCA, traspose(tf_idfs))
+vectors = transpose(tf_idfs)
+pca = MultivariateStats.fit(MultivariateStats.PCA, vectors)
+projections = MultivariateStats.transform(pca, vectors)
 
-pca_plot = Gadfly.plot(x=fit.scores[:,1], y=fit.scores[:,2], Geom.point)
+pca_plot = Gadfly.plot(x=projections[1,:], y=projections[2,:], Geom.point)
 draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
