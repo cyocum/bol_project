@@ -26,7 +26,7 @@ function is_medoid(i, result)
     i == result.medoids[result.assignments[i]]
 end 
 
-(data, header) = readcsv("texts.csv.old", header=true)
+(data, header) = readcsv("texts.csv", header=true)
 tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
 #dists = Distances.pairwise(Distances.CosineDist(), transpose(tf_idfs))
 
@@ -36,18 +36,12 @@ tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
 
 #sort!(clusters)
 
-#writecsv("clustered-test.csv", clusters)
+#writecsv("clustered-test-9.csv", clusters)
 #sils = Clustering.silhouettes(result, dists)
-#p=plot(x=sils, Geom.histogram)
-#draw(SVG("sils-40.svg", 24cm, 12cm), p)
-
-#p = MultivariateStats.pcaeig(tf_idfs)
-#pca_plot = Gadfly.plot(x=p.scores[:,1], y=p.scores[:,2], Geom.point)
-#draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
+#p=plot(x=sils, Geom.histogram, Theme(background_color=color("white"), panel_opacity=0))
+#draw(PNG("sils-20.png", 24cm, 12cm), p)
 
 vectors = transpose(tf_idfs)
 pca = MultivariateStats.fit(MultivariateStats.PCA, vectors)
-projections = MultivariateStats.transform(pca, vectors)
-
-pca_plot = Gadfly.plot(x=projections[1,:], y=projections[2,:], Geom.point)
-draw(SVG("pca20.svg", 24cm, 12cm), pca_plot)
+pca_plot = Gadfly.plot(x=pca.proj[:,1], y=pca.proj[:,2], Geom.point, Theme(background_color=color("white"), panel_opacity=0))
+draw(PNG("pca-new.svg", 24cm, 12cm), pca_plot)
