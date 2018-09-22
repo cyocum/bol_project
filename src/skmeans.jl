@@ -1,7 +1,10 @@
 import Clustering
 import Distances
 import MultivariateStats
-using Gadfly
+import DelimitedFiles
+
+import Plots
+using Distributed
 
 function create_tuple(result, i, data)
     t_name = text_name(data[i,1])
@@ -14,34 +17,37 @@ end
 function text_name(text_path) 
     file_name = basename(text_path)
     name = splitext(file_name)[1]
-    replace(name, "_", " ")
+    replace(name, r"_" => s" ")
 end
 
 function book_name(text_path)
     dir_name = basename(dirname(text_path))
-    replace(dir_name, "_", " ")
+    replace(dir_name, r"_" => s" ")
 end
 
 function is_medoid(i, result)
     i == result.medoids[result.assignments[i]]
 end 
 
-(data, header) = readcsv("texts.csv", header=true)
+(data, header) = DelimitedFiles.readdlm("texts.csv", ',', header=true)
 tf_idfs = convert(Array{Float64, 2}, data[:, 2:end])
-#dists = Distances.pairwise(Distances.CosineDist(), transpose(tf_idfs))
+dists = Distances.pairwise(Distances.CosineDist(), transpose(tf_idfs))
 
-#result = Clustering.kmedoids(dists, 9)
+function compute_clusters(k)
+    println("k is $k")
+    result = Clustering.kmedoids(dists, k)
 
-#clusters = [create_tuple(result, i, data) for i = 1:size(data)[1]]
+    clusters = [create_tuple(result, i, data) for i = 1:size(data)[1]]
 
-#sort!(clusters)
+    sort!(clusters)
 
-#writecsv("clustered-test-9.csv", clusters)
-#sils = Clustering.silhouettes(result, dists)
-#p=plot(x=sils, Geom.histogram, Theme(background_color=color("white"), panel_opacity=0))
-#draw(PNG("sils-20.png", 24cm, 12cm), p)
+    DelimitedFiles.writedlm("clustered-$k.csv", clusters, ',')
+    sils = Clustering.silhouettes(result, dists)
 
-vectors = transpose(tf_idfs)
-pca = MultivariateStats.fit(MultivariateStats.PCA, vectors)
-pca_plot = Gadfly.plot(x=pca.proj[:,1], y=pca.proj[:,2], Geom.point, Theme(background_color=color("white"), panel_opacity=0))
-draw(PNG("pca-new.svg", 24cm, 12cm), pca_plot)
+    p = Plots.histogram(sils, xlim=(-1.0,1.0), title="Silhouette k = $k")
+    Plots.png(p, "sils_$k.png")    
+end
+
+for k = 2:164
+    compute_clusters(k)
+end
